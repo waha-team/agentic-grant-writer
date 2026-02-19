@@ -1,0 +1,125 @@
+# Stage 04: Proposal Drafts
+
+> **Your job:** Write complete, tailored proposals for each foundation. Every proposal must use THEIR vocabulary, address THEIR people by name, be sized to THEIR giving patterns, and lead with THE PROBLEM.
+
+---
+
+## Before You Start
+
+1. Read `CONTEXT/STYLE_GUIDE.md` — **READ THIS CAREFULLY, especially the "Sales Letter" section**
+2. Read `CONTEXT/FUNDER_ALIGNMENT_GUIDE.md` — especially the "How to Describe Waha to a Funder" quick-reference table for funder-type-specific framing
+3. Read `CONTEXT/OUR_ORGANIZATION.md`, `CONTEXT/IMPACT_DATA.md`, `CONTEXT/PARTNERSHIPS.md`
+4. For EACH foundation, read its entire dossier (documents 00 through 04)
+
+## Critical Rules
+
+**RULE 1: USE THEIR LANGUAGE.** Read `03-VOCABULARY-AND-FRAMING.md` for each foundation. Use their vocabulary column, not ours. If they say "Scripture engagement," you say "Scripture engagement." If they say "capacity building," you say "capacity building." Never force our jargon onto their priorities.
+
+**RULE 2: LEAD WITH THE PROBLEM.** Especially for foundations that don't know us. The first thing they read should make them care about the problem. Waha is the answer, not the opening.
+
+**RULE 3: PERSONALIZE EVERYTHING.** Use names from `02-KEY-PEOPLE.md` in salutations. Reference specific grants they've made (from `01-990-ANALYSIS.md`). Mention shared networks or partners.
+
+**RULE 4: SIZE THE ASK TO THEIR PATTERNS.** Use the recommended ask from `01-990-ANALYSIS.md`, not our total project budget. If the project costs $25K and their median first-time grant is $3K, ask for $3K toward a specific component.
+
+## What to Do
+
+For each project subfolder in this directory:
+
+### Step 1: Prioritize
+Start with: nearest deadlines → highest alignment → simplest applications.
+
+### Step 2: Write Each Proposal
+Add these files to each foundation's subfolder:
+
+#### `05-PROPOSAL-DRAFT.md`
+
+Structure per foundation's requirements (from 04-APPLICATION-REQUIREMENTS.md). If they don't specify, use this structure:
+
+**1. Executive Summary** (1 paragraph)
+The problem. Who we are (1 sentence). What we're asking for. Why it matters. Written in THEIR vocabulary.
+
+**2. Statement of Need / The Problem** (1-2 paragraphs)
+THIS IS THE MOST IMPORTANT SECTION. Remember: this is a sales letter. Make them feel the urgency.
+- Open with a vivid story or striking data point
+- Name the problem in THEIR language (from 03-VOCABULARY-AND-FRAMING.md)
+- Use specific numbers: 7,000 unreached people groups, [X] million speakers of [language], etc.
+- Show what happens if nothing changes
+- Connect to THEIR stated priorities: "As [Foundation Name] recognizes in your commitment to [their stated priority]..."
+
+**3. Our Solution** (2-3 paragraphs)
+- What Waha does — described using THEIR vocabulary
+- Why it works — evidence from IMPACT_DATA.md
+- What specifically this grant funds — concrete activities from PROJECT_BRIEF.md
+- Name-drop 2-3 relevant partners from PARTNERSHIPS.md
+
+**4. Evidence of Impact** (1-2 paragraphs)
+- Specific results: "30 groups multiplied to 90 in 50 days"
+- Reference similar organizations they've funded (from 990 analysis): "Like [grantee they've funded], Waha..."
+- At least one testimonial from IMPACT_DATA.md
+
+**5. Budget** (table + narrative)
+- Sized to the specific ask amount (from 01-990-ANALYSIS.md recommendation)
+- If asking for partial project funding, clearly show which component this covers
+- Brief justification for each line item
+
+**6. Organizational Capacity** (1-2 paragraphs)
+- Why Waha is the right team
+- Reference partnerships and ecosystem
+- Mention Meta Language Technology Partner status if relevant
+
+**7. Evaluation & Reporting** (1 paragraph)
+- What we'll measure (tied to THEIR stated outcomes)
+- How we'll report back
+
+**8. Sustainability** (1 paragraph)
+- How work continues after grant. For localization: permanent resource at zero marginal cost.
+
+#### `06-COVER-LETTER.md`
+
+Personalized cover letter:
+- **Addressed to specific people** from 02-KEY-PEOPLE.md
+- Use format: "Dear [Name], [Name], and the [Foundation] grant review team,"
+- NEVER "Dear Grant Administrator" if you have names
+- 3-4 paragraphs max
+- Reference any warm connection or shared network
+- Reference a specific grant they've made that relates
+- Clear ask with specific dollar amount
+- Express genuine alignment with THEIR mission (in THEIR words)
+
+#### `07-LOI-DRAFT.md` (if foundation requires Letter of Inquiry first)
+
+**IMPORTANT: Always produce BOTH the LOI and the full proposal in the same pass.** Don't stop at the LOI. The LOI gets sent first; the full proposal is pre-written and ready to submit immediately when the invitation comes back. This eliminates delays.
+
+LOI format (1-2 pages max):
+- Opening: the problem (1 paragraph, compelling)
+- Who we are (2-3 sentences)
+- Project summary (1 paragraph)
+- Budget range (1 sentence — sized to their 990 patterns)
+- Close: request for invitation to submit full proposal
+- Use their vocabulary throughout
+
+#### `APPLICATION-ANSWERS.md` (if foundation has specific questions)
+Answer each question from 04-APPLICATION-REQUIREMENTS.md directly. Use their vocabulary.
+
+### Step 3: Self-Check Before Moving On
+For each proposal, verify:
+- [ ] Uses the foundation's own vocabulary (check against 03-VOCABULARY-AND-FRAMING.md)
+- [ ] Leads with the problem, not with who we are
+- [ ] Addresses specific people by name in cover letter
+- [ ] Ask amount matches 01-990-ANALYSIS.md recommendation
+- [ ] References at least one specific grant they've made to a similar org
+- [ ] Includes at least one story AND one data point
+- [ ] Budget math adds up
+- [ ] No security-sensitive details exposed
+- [ ] Within word/page limits
+- [ ] Name-drops 2-3 relevant partners
+
+### Step 4: Move Forward
+After drafting all proposals, move project to `05-review/`.
+
+## Decision Points
+
+Flag in HUMAN_TODO.md but keep moving:
+- Can't answer a specific question from context → Put "[JOSH: PLEASE ANSWER — (question)]" inline
+- Foundation requires very different framing (e.g., secular) → Note prominently at top of proposal
+- Budget doesn't fit their range even with adjustment → Note mismatch, suggest solution

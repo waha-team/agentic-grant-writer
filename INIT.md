@@ -1,109 +1,100 @@
-# INIT: Grant Writing Pipeline for Waha
+# INIT: Grant Writing Pipeline for Waha (v2)
 
-> **Give this file to Claude Code to set up or orient a new session.**
+> **Give this file to Claude Code to orient any new session.**
 
 ---
 
 ## What Is This?
 
-This is a grant research and writing pipeline for Waha (waha.app), a nonprofit that builds a free Discovery Bible Study and disciple-making app used in 110+ countries and 41+ languages. We're diversifying our funding from a single large grant into dozens of smaller foundation grants.
+An automated grant research and writing pipeline for **Waha** (waha.app), a 501(c)(3) nonprofit (EIN: 35-2894107) that builds a free Discovery Bible Study and disciple-making app. Used in 110+ countries, 41+ languages. We're diversifying funding from a single large grant into dozens of smaller foundation grants.
 
 ## Directory Structure
 
 ```
 grant_writing/
-├── CONTEXT/                        # Shared context files (read at every stage)
-│   ├── FUNDER_ALIGNMENT_GUIDE.md   # A funder alignment guide, including details about what kinds of organizations would align with Waha
-│   ├── OUR_ORGANIZATION.md         # Who Waha is, mission, stats, framing guide
-│   ├── PAST_GRANTS.md              # Grant history (fill in with actual data)
+├── CONTEXT/                        # Shared context (read EVERY session)
+│   ├── OUR_ORGANIZATION.md         # Who Waha is, mission, stats, legal info
+│   ├── PARTNERSHIPS.md             # Partner orgs for name-dropping in proposals
 │   ├── IMPACT_DATA.md              # Evidence, testimonials, case studies
-│   ├── SEARCH_CRITERIA.md          # What funders to target, filters
-│   └── STYLE_GUIDE.md              # Voice, tone, terminology for proposals
+│   ├── PAST_GRANTS.md              # Grant history and lessons
+│   ├── SEARCH_CRITERIA.md          # Funder targeting rules + 990 ask-sizing
+│   ├── STYLE_GUIDE.md              # Voice, vocabulary, problem-first structure
+│   └── FINANCIALS_SUMMARY.md       # Budget and financial health
 │
-├── HUMAN_TODO.md                   # Escalation file for decisions needing human judgment
+├── WRITING_SAMPLES/                # Past successful proposals for reference
+├── HUMAN_TODO.md                   # Escalation file for human decisions
 │
-├── 00-projects/                    # Entry point: project briefs live here
-│   ├── INSTRUCTIONS.md
-│   └── _TEMPLATE/                  # Copy this to create a new project
-│       └── PROJECT_BRIEF.md
-│
+├── 00-projects/                    # Entry: project briefs
 ├── 01-prospect-research/           # Find 15-30 foundations per project
-│   └── INSTRUCTIONS.md
-│
-├── 02-alignment-analysis/          # Score and shortlist to top 8-12
-│   └── INSTRUCTIONS.md
-│
-├── 03-contact-research/            # Find contacts and warm paths
-│   └── INSTRUCTIONS.md
-│
-├── 04-application-prep/            # Gather requirements, gap analysis
-│   └── INSTRUCTIONS.md
-│
-├── 05-proposal-drafts/             # Write tailored proposals
-│   └── INSTRUCTIONS.md
-│
-├── 06-review/                      # Self-critique and submission prep
-│   └── INSTRUCTIONS.md
+├── 02-deep-research/               # Build foundation dossiers (numbered docs)
+├── 03-application-prep/            # Gather requirements, checklists
+├── 04-proposal-drafts/             # Write tailored proposals
+├── 05-review/                      # Self-critique and submission prep
+└── 06-submitted/                   # Track outcomes, follow up, learn
 ```
 
-## How the Pipeline Works
+## Per-Foundation Dossier Structure (created in Stage 02)
 
-1. **Humans create project briefs** in `00-projects/` (copy the template, fill it in)
-2. **Move the project folder** into the next stage directory when ready to proceed
-3. **Claude Code reads the INSTRUCTIONS.md** for that stage and processes every project folder it finds there
-4. **Each stage produces output files** inside the project's folder (PROSPECTS.md, ALIGNMENT_ANALYSIS.md, etc.)
-5. **Claude Code moves the folder** to the next stage when done
-6. **If Claude Code needs human help**, it adds an entry to `HUMAN_TODO.md` but keeps going on everything else
-
-## Default Behavior
-
-- **Momentum over perfection.** Push projects forward. Don't block on uncertainty.
-- **Escalate via HUMAN_TODO.md.** If a decision requires human judgment, log it there and keep working.
-- **Every stage reads CONTEXT/ first.** Always start by reading the relevant context files.
-- **Tailor everything.** No generic proposals. Every funder gets a customized pitch.
-
-## How to Run a Session
-
-Give Claude Code this prompt:
-
+Each foundation gets a subfolder with numbered documents:
 ```
-Read INIT.md in the grant_writing directory, then read the CONTEXT/ files. 
-Look for project folders that need processing — check each stage directory 
-(01 through 06) for project subfolders. For each one you find, read that 
-stage's INSTRUCTIONS.md and execute it. Start with the earliest stage that 
-has work to do.
+kern-family-foundation/
+├── 00-BRIEFING.md                  # Foundation overview, mission, history
+├── 01-990-ANALYSIS.md              # Giving patterns, grant ranges, board members
+├── 02-KEY-PEOPLE.md                # Decision maker profiles, LinkedIn, warm paths
+├── 03-VOCABULARY-AND-FRAMING.md    # THEIR language mapped to ours
+├── 04-APPLICATION-REQUIREMENTS.md  # What they need from us (Stage 03)
+├── 05-PROPOSAL-DRAFT.md            # The proposal (Stage 04)
+├── 06-COVER-LETTER.md              # Personalized letter (Stage 04)
+├── 07-REVIEW-NOTES.md              # Self-critique (Stage 05)
+└── 08-SUBMISSION-LOG.md            # Tracking (Stage 06, human-driven)
 ```
 
-Or, to target a specific stage:
+## Core Principles
 
+1. **A grant application is a sales letter.** Lead with the problem. Make them care before they know who we are.
+2. **Use THEIR vocabulary.** Every foundation gets a vocabulary mapping (03-VOCABULARY-AND-FRAMING.md). Proposals must mirror the funder's language.
+3. **Size asks to 990 data.** Never ask for more than a foundation's typical grant. For first-time asks, go at or below median. Build relationships over time.
+4. **Personalize everything.** Use names from 990s and websites. Reference their specific grants. Never "Dear Grant Administrator."
+5. **Name-drop partners.** We work with 24:14, YWAM, Pioneers, Biblica, YouVersion, Meta. Use these to build credibility.
+6. **Momentum over perfection.** Push forward. Escalate decisions to HUMAN_TODO.md but don't block.
+
+## How to Run
+
+**Process all stages:**
 ```
-Read INIT.md in the grant_writing directory, then process all projects 
-in [01-prospect-research / 02-alignment-analysis / etc.] following that 
-stage's INSTRUCTIONS.md.
+Read INIT.md, then CONTEXT/ files. Check each stage directory (01-06) for project
+subfolders. Process the earliest stage with work. Follow that stage's INSTRUCTIONS.md.
+```
+
+**Target a specific stage:**
+```
+Read INIT.md, then process all projects in [02-deep-research] following INSTRUCTIONS.md.
 ```
 
 ## Key People
 
-- **Josh** — Directs the pipeline, answers strategic questions
-- **Alycia** — Reviews proposals and manages grant relationships
-- **Valeria** — Assists with review and submission logistics
-- **Vince:** Partnerships Director — Consulted on relationship strategies
+- **Josh** — Directs pipeline, answers strategic questions
+- **Alycia** — Reviews proposals, manages grant relationships
+- **Valeria** — Assists review and submission
+- **Vince** — Partnerships Director — Consulted on relationship strategies
+- **Jeff** — Strategic oversight
 
-## Files That Need Human Input
+## Files Needing Human Input Before First Run
 
-Before running the pipeline for the first time, these files should be populated:
-
-- [x] `CONTEXT/PAST_GRANTS.md` — Add your grant history
-- [x] `CONTEXT/IMPACT_DATA.md` — Review and add any additional metrics/stories
-- [x] `CONTEXT/OUR_ORGANIZATION.md` — Review and add team names, bios, precise budget figures
-- [x] At least one project brief in `00-projects/`
-
-## Important notes
-
-Always keep the project's directory well-updated with the results of your research, such that if you get interupted part way though, future agents can pick up and continue your work.
-
-Your short term memory isn't valuable. Only what's written is valuable.
+- [ ] `CONTEXT/PAST_GRANTS.md` — Your grant history
+- [ ] `CONTEXT/OUR_ORGANIZATION.md` — Add team names and bios
+- [ ] `CONTEXT/FINANCIALS_SUMMARY.md` — Budget breakdown
+- [ ] At least one project brief in `00-projects/`
+- [ ] Universal attachments gathered (501c3 letter, 990, board list)
 
 ---
 
-*Pipeline created: 2026-02-18*
+## CRITICAL
+
+**Your short-term memory isn't valuable. Only what's written is valuable.**
+
+Always keep the project's directory well-updated with the results of your research, such that if you get interrupted part way through, future agents can pick up and continue your work.
+
+---
+
+*Pipeline v2 created: 2026-02-19*

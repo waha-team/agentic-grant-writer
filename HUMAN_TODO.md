@@ -6,7 +6,19 @@
 
 ---
 
-## 2026-02-18 | amharic-dbs | 01-prospect-research → 02-alignment-analysis
+## SETUP ITEMS (Complete before first pipeline run)
+
+- [ ] **PAST_GRANTS.md** — Fill in your actual grant history
+- [ ] **OUR_ORGANIZATION.md** — Add specific team member names and bios
+- [ ] **FINANCIALS_SUMMARY.md** — Add current budget breakdown, audit status
+- [ ] **Gather universal attachments:** 501(c)(3) determination letter, most recent 990, board list, financial statements → save in a shared folder
+- [ ] **WRITING_SAMPLES/** — Add 2-3 excerpts from past successful proposals or strong LOIs
+
+---
+
+## ACTIVE PROJECT ITEMS (from amharic-dbs project - preserve)
+
+### 2026-02-18 | amharic-dbs | 01-prospect-research → 02-alignment-analysis
 
 **Item 1 — Crowell Trust ECFA Requirement**
 
@@ -18,7 +30,7 @@
 
 ---
 
-## 2026-02-18 | amharic-dbs | 02-alignment-analysis
+### 2026-02-18 | amharic-dbs | 02-alignment-analysis
 
 **Item 2 — Maclellan Foundation Warm Introduction**
 
@@ -30,7 +42,7 @@
 
 ---
 
-## 2026-02-18 | amharic-dbs | 02-alignment-analysis
+### 2026-02-18 | amharic-dbs | 02-alignment-analysis
 
 **Item 4 — Festus & Helen Stacy Foundation Relationship**
 
@@ -45,7 +57,7 @@
 
 ---
 
-## 2026-02-18 | amharic-dbs | 04-application-prep
+### 2026-02-18 | amharic-dbs | 04-application-prep
 
 **Item 5 — Stewardship Foundation LOI Suspended**
 
@@ -57,7 +69,7 @@
 
 ---
 
-## ⚡ 2026-02-18 | amharic-dbs | 06-review — URGENT: March 31 Deadline
+### ⚡ URGENT | amharic-dbs | 06-review — March 31, 2026 Deadline
 
 **Item 7 — Veit Foundation Application Due March 31, 2026**
 
@@ -71,7 +83,7 @@
 
 ---
 
-## 2026-02-18 | amharic-dbs | 06-review
+### 2026-02-18 | amharic-dbs | 06-review
 
 **Item 8 — UPDATE STATISTICS BEFORE ANY SUBMISSION**
 
@@ -89,7 +101,7 @@
 
 ---
 
-## 2026-02-18 | amharic-dbs | 06-review
+### 2026-02-18 | amharic-dbs | 06-review
 
 **Item 9 — Designate Grant Contact Person**
 
@@ -101,7 +113,7 @@
 
 ---
 
-## 2026-02-18 | amharic-dbs | 04-application-prep
+### 2026-02-18 | amharic-dbs | 04-application-prep
 
 **Item 6 — Universal Documents Needed for All Grant Applications**
 
@@ -122,7 +134,7 @@
 
 ---
 
-## 2026-02-18 | amharic-dbs | 02-alignment-analysis
+### 2026-02-18 | amharic-dbs | 02-alignment-analysis
 
 **Item 3 — Foundation for Evangelism: Partnership Model**
 

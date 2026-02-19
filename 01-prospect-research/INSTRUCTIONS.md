@@ -1,75 +1,61 @@
 # Stage 01: Prospect Research
 
-> **Your job:** Find 15–30 potential grant-making foundations for each project in this folder.
+> **Your job:** Find 15–30 potential foundations for each project. Include initial 990 screening.
 
 ---
 
 ## Before You Start
 
-1. Read `CONTEXT/OUR_ORGANIZATION.md` — understand who Waha is
-2. 
-3. Read `CONTEXT/SEARCH_CRITERIA.md` — understand what funders to target
+1. Read `CONTEXT/OUR_ORGANIZATION.md`
+2. Read `CONTEXT/SEARCH_CRITERIA.md` — especially the ask-sizing rules
+3. Read `CONTEXT/FUNDER_ALIGNMENT_GUIDE.md` — understand Waha's mission and how to evaluate foundation alignment
 4. Read `CONTEXT/PAST_GRANTS.md` — avoid duplicating known relationships
-5. Read the `PROJECT_BRIEF.md` inside each project subfolder in this directory
+5. Read `CONTEXT/PARTNERSHIPS.md` — look for foundations that fund our partners
+6. Read each project's `PROJECT_BRIEF.md`
 
 ## What to Do
 
-For each project subfolder found in this directory:
+For each project subfolder in this directory:
 
 ### Step 1: Understand the Project
-Read the PROJECT_BRIEF.md. Identify:
-- What type of work needs funding (localization, mobilization, etc.)
-- Geographic focus
-- Budget range
-- Any specific funder types that are especially relevant
+Read PROJECT_BRIEF.md. Identify: funding type, geographic focus, budget range, relevant funder types.
 
 ### Step 2: Search for Prospects
-Use web search to find foundations that fund work aligned with this project. Search strategies:
 
-**Primary searches (do all of these):**
+**Primary searches (do all):**
 - "[project geography] Christian foundation grants"
 - "Bible translation grants foundation"
 - "disciple making movement funding"
 - "missions technology grants"
 - "unreached people groups foundation funding"
-- "Christian ministry grants [region]"
-- "faith-based grants international missions"
 - "[specific language/people group] ministry funding"
+- "Christian ministry grants international"
 
-**Secondary searches (based on project specifics):**
-- "grants for Bible apps" / "grants for ministry technology"
-- "grants for oral Bible storytelling"
-- "church planting grants [region]"
-- "Christian education grants developing world"
-- "Scripture engagement grants"
+**Partner-based searches (HIGH VALUE):**
+- Search ProPublica 990 full-text for organizations that have granted to Waha's partners: "YWAM", "Pioneers", "Frontiers", "Biblica", "Youth With A Mission", "Faith Comes By Hearing", "Jesus Film Project", "Wycliffe"
+- If a foundation funds our partners, they may fund us
 
-**Database searches (if accessible):**
-- Search Candid / Foundation Directory Online if available
-- Search GrantStation if available
-- Check 990 data on ProPublica Nonprofit Explorer for foundations that have given to similar orgs
+**Database searches:**
+- ProPublica Nonprofit Explorer — search for foundations by keyword and review their 990-PF grantee lists
+- Candid / Foundation Directory Online (if accessible)
 
-**Network searches:**
-- Look for who funds similar organizations (Cru, YWAM, Faith Comes By Hearing, YouVersion, Jesus Film Project, Wycliffe, SIL)
-- Check if those funders' 990s show grants to organizations like Waha
+### Step 3: Initial 990 Screening (NEW — DO THIS FOR EVERY PROSPECT)
 
-### Step 3: Document Each Prospect
-For each foundation found, create an entry with:
+For each foundation found, before adding to the list:
 
-- **Foundation name**
-- **Website URL**
-- **Mission/focus statement** (1-2 sentences)
-- **Geographic focus** (US only? International? Specific regions?)
-- **Typical grant size** (if findable — check 990s, website, or grant databases)
-- **Grant cycle** (annual, rolling, invitation-only)
-- **Application process** (open application? LOI first? invitation only?)
-- **Alignment notes** (why this foundation might fund this project)
-- **Red flags** (anything concerning — e.g., very narrow focus, requires matching funds)
-- **Source** (where you found this information)
+1. **Look up their 990-PF on ProPublica** (search by foundation name or EIN)
+2. **Check their grantee list** — have they funded anything remotely similar?
+3. **Note their typical grant range** — what's the median? min? max?
+4. **Note grants to new vs. repeat grantees** — do first-time grants skew smaller?
+5. **Check if they're active** — have they made grants in the last 2 years?
+6. **Note board members/officers** — names from the 990 will be used in Stage 02
 
-### Step 4: Output
-Create a file called `PROSPECTS.md` inside the project's subfolder with all prospects listed.
+If you can't find a 990 (some are too small or too new), note "990 not found" and proceed.
 
-Format:
+### Step 4: Document Each Prospect
+
+Create `PROSPECTS.md` in the project subfolder:
+
 ```
 # Prospects for [Project Name]
 
@@ -78,43 +64,42 @@ Format:
 
 ---
 
-## Tier 1: Strong Alignment (apply first)
+## Tier 1: Strong Alignment
 
 ### [Foundation Name]
 - **Website:** [URL]
-- **Mission:** [1-2 sentences]
-- **Typical grant size:** $[X] – $[Y]
+- **EIN:** [if found]
+- **Mission:** [1-2 sentences IN THEIR WORDS — copy their exact language]
+- **990 Grant Data:** Median grant: $[X]. Range: $[min]–$[max]. Grants/year: [N]. Active: [Y/N]
+- **First-time grantee pattern:** [if discernible — do new grantees get smaller amounts?]
 - **Grant cycle:** [annual/rolling/invitation-only]
 - **Application:** [open/LOI/invitation]
-- **Why they fit:** [2-3 sentences on alignment]
+- **Key people from 990:** [Board members, officers — names and titles]
+- **Why they fit:** [2-3 sentences connecting THEIR stated priorities to THIS project]
+- **Suggested first ask:** $[X] — based on their 990 patterns
 - **Red flags:** [any concerns]
 
-[Repeat for each Tier 1 prospect]
-
-## Tier 2: Moderate Alignment (worth pursuing)
-
+## Tier 2: Moderate Alignment
 [Same format]
 
-## Tier 3: Possible but Uncertain (needs more research)
-
+## Tier 3: Worth Watching
 [Same format]
 ```
 
 ### Step 5: Move Forward
-After creating PROSPECTS.md, move the project subfolder to `02-alignment-analysis/`.
+After creating PROSPECTS.md, move the project subfolder to `02-deep-research/`.
 
 ## Decision Points
 
-**Default to momentum.** Keep moving unless:
-
-- You can't find at least 8 prospects → Add to HUMAN_TODO.md: "Only found [X] prospects for [project]. May need to broaden search criteria or adjust project scope."
-- The project brief is too vague to search effectively → Add to HUMAN_TODO.md: "Project brief for [project] needs more detail before prospect research. Specifically: [what's missing]."
-- You find that the project type is rarely funded → Add to HUMAN_TODO.md: "Prospect research suggests [project type] is rarely funded by foundations. Consider reframing. Suggested angles: [alternatives]."
+Default to momentum. Flag these in HUMAN_TODO.md:
+- Fewer than 8 prospects → "Need to broaden search or adjust project scope"
+- Project brief too vague → "Needs more detail. Specifically: [what's missing]"
+- Project type rarely funded → "Consider reframing. Suggested angles: [X]"
 
 ## Quality Standards
 
-- Minimum 15 prospects per project, aim for 25+
+- Minimum 15 prospects, aim for 25+
 - Every prospect must have a working website URL
-- Every prospect must have some evidence of funding work in a related space
+- Every prospect must have 990 data reviewed (or noted as unavailable)
+- Foundation's mission must be captured in THEIR exact words
 - Don't include foundations that explicitly exclude religious organizations
-- Don't include foundations that only fund organizations much larger than Waha
