@@ -1,0 +1,16 @@
+# Ignore all project-specific folders
+00-projects/*_project_brief.md
+00-projects/_TEMPLATE/
+01-prospect-research/*/
+02-alignment-analysis/*/
+03-contact-research/*/
+04-application-prep/*/
+05-proposal-drafts/*/
+06-review/*/
+
+# Ignore generated/data files
+CONTEXT/PAST_GRANTS/
+CONTEXT/*.docx
+
+# OS files
+.DS_Store
