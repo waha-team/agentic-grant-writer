@@ -13,15 +13,29 @@
 - **Frontiers** — Missions agency focused on Muslim peoples. Waha's security features especially relevant.
 - **Live Dead** — Assemblies of God missions movement for unreached, unengaged people groups.
 - **Movements for Movements (M4M)** — Network supporting disciple-making movements.
+- **IMB (International Mission Board)** — Southern Baptist international missions agency.
+- **Cru** — Major evangelical missions and campus ministry organization.
+- **Operation Mobilization** — International missions organization.
+- **GACX** — Global Alliance for Church Multiplication.
+- **Media Movements (From the Harvest to the Harvest)** — Media-based missions partner.
 
 ### Bible & Scripture Organizations
-- **Biblica** — Major Bible translation/publishing organization. Waha leverages Biblica translations.
-- **YouVersion** — The Bible App (500M+ installs). Waha's Disciple Making Challenge available on YouVersion. Waha is a listed partner organization.
+- **Biblica** — Major Bible translation/publishing organization. Waha leverages Biblica translations. Alan White (Senior Director of Partnerships) publicly endorses Waha.
+- **YouVersion** — The Bible App (500M+ installs). Waha's Disciple Making Challenge available on YouVersion. Waha is a listed partner organization. Jenny Tangeman (Chief Strategy Officer) publicly endorses Waha.
+- **Wycliffe Bible Translators** — Leading Bible translation organization. Richard Hoyle publicly endorses Waha.
 - **Deaf Missions** — Provides ASL content for Waha's accessibility features.
 
 ### Churches & Training
 - **Antioch Community Church / Antioch Movement** — Church planting and missions movement.
-- **Experience Life** — Church partner.
+- **ExperienceLife** — Church partner.
+- **Kingdom Training** — Training/discipleship partner.
+- **MotusDEI** — Disciple-making partner.
+- **Empowered21** — Global Pentecostal/charismatic movement network.
+
+### Discipleship Tools & Platforms
+- **Disciple Tools** — CRM/workflow platform used by disciple-making movements. Integration partner.
+- **Jesus Film Project** (A Cru Ministry) — Evangelistic film and media partner.
+- **Iran Alive Ministries** — Farsi translation and outreach partnership for restricted-access contexts.
 
 ### Technology
 - **Meta** — Waha is a **Meta Language Technology Partner**.
@@ -30,12 +44,13 @@
 
 | Funder Interest | Reference These |
 |----------------|-----------------|
-| Missions / unreached peoples | 24:14, Pioneers, Frontiers, YWAM, Live Dead |
-| Bible translation / Scripture | Biblica, YouVersion, Deaf Missions |
-| Technology / innovation | Meta, YouVersion |
-| Church planting / movements | Antioch, M4M, 24:14 |
+| Missions / unreached peoples | 24:14, Pioneers, Frontiers, YWAM, Live Dead, IMB, Cru, Operation Mobilization |
+| Bible translation / Scripture | Biblica, YouVersion, Wycliffe, Deaf Missions |
+| Technology / innovation | Meta, YouVersion, Jesus Film Project |
+| Church planting / movements | Antioch, M4M, 24:14, GACX, MotusDEI |
 | Accessibility / disability | Deaf Missions |
-| Muslim world / restricted access | Frontiers, Live Dead |
+| Muslim world / restricted access | Frontiers, Live Dead, Iran Alive Ministries |
+| Discipleship training | Kingdom Training, Disciple Tools, Empowered21 |
 
 ## Developing Relationships
 

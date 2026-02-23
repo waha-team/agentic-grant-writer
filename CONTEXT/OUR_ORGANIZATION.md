@@ -12,7 +12,7 @@
 - **UBI:** 605-530-939
 - **Website:** https://waha.app
 - **Virtual Address:** 522 W Riverside Ave #8369, Spokane, WA 99201, United States
-- **Phone:** +1 (425) 243-8884 (voicemail)
+- **Phone:** +1 (425) 243-8884 (voicemail) ⚠️ *Note: PROSPECTUS_2026.md lists (425) 480-4926 — Josh please confirm which is current*
 - **501(c)(3) Determination Letter:** On file (ask Josh for copy)
 - **Note:** Waha recently established its own 501(c)(3), separating from prior parent organization Kingdom Strategies. Some older filings may reference Kingdom Strategies.
 
@@ -56,11 +56,13 @@ Waha builds and distributes a free, ad-free mobile app that makes disciple-makin
 
 | Metric | Value | As Of |
 |--------|-------|-------|
-| Languages available | 41+ | Feb 2026 |
+| Languages available | 45+ | Nov 2025 |
 | Languages in pipeline | 69 | Feb 2026 |
-| Countries with active users | 110+ | Feb 2026 |
+| Countries with active users | 170+ | Nov 2025 |
+| Monthly Active Users (MAU) | ~6,200 | Nov 2025 |
 | Monthly new users | ~2,000 | Feb 2026 |
-| Total users | 100,000+ | Feb 2026 |
+| Total app installs | ~82,000 | Nov 2025 |
+| Weekly shares | ~500 | Nov 2025 |
 | Marketing spend | Near zero | Feb 2026 |
 | Cost to user | $0 forever | Ongoing |
 
@@ -79,18 +81,30 @@ Waha builds and distributes a free, ad-free mobile app that makes disciple-makin
 
 Waha is a team of cross-cultural disciple makers and tech enthusiasts:
 
-- **Jeff** — Co-Founder & CEO
-- **Trent** — Lead Developer
-- **Josh** — Localization Director
-- **Adam** — Mobilization Director
-- **Vince** — Development Director
-- **Zach** — Asia Regional Coordinator
-- **Danny** — North America Regional Coordinator
-- **Alycia** — Bible Licensing Coordinator
-- **Valeria** — Executive Assistant
-- **Deb** — Executive Assistant
+| Name | Role |
+|------|------|
+| **Jeff Peterson** | Co-Founder & CEO |
+| **Trent Cowden** | Full Stack Engineer |
+| **Josh Muller** | Localization Director |
+| **Vince Kanagaraj** | Partnerships Director |
+| **Adam Amberg** | Mobilization Developer |
+| **Zach Dorroh** | Asia Regional Coordinator |
+| **Danny DeLong** | N.A. Regional Coordinator |
+| **Alycia DeLong** | Licensing Coordinator |
+| **Emily Amberg** | Regional Coordinator for the Deaf |
+| **Aaron League** | East Asia Regional Coordinator |
+| **Valeria Rodriguez** | Executive Assistant |
+| **Deborah Robison** | Executive Assistant |
 
-> **FOR JOSH:** Add last names and brief bios/credentials when ready. Funders like to see specific expertise (e.g., "15 years in Bible translation," "former YWAM staff," etc.).
+### Strategic Advisory Team
+
+| Name | Affiliation |
+|------|-------------|
+| **Stan Parks** | Beyond & 24:14 |
+| **Clint Miller** | Antioch & 24:14 |
+| **Neal** | Beyond & 24:14 |
+
+> **FOR JOSH:** Add brief bios/credentials when ready. Funders like to see specific expertise (e.g., "15 years in Bible translation," "former YWAM staff," etc.).
 
 ## Annual Budget
 
