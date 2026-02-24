@@ -134,6 +134,73 @@
 
 ---
 
+---
+
+## URDU DMC PROJECT ITEMS
+
+### 2026-02-19 | urdu-dmc | 01-prospect-research
+
+**Item U1 — Nexcus International Governance Risk (Due Diligence Required)**
+
+**Decision needed:** Nexcus International (EIN: 47-4235863) is a strong mission fit for the Urdu DMC — South Asia persecution focus, 264 projects/year, active Pakistan operations. However, the US Nexcus entity is affiliated with Barnabas Fund International, whose founder Patrick Sookhdeo was arrested in November 2024 on fraud and money laundering charges. The UK Charity Commission opened a statutory inquiry into Barnabas Fund in September 2024.
+
+**Recommended action:** Before approaching Nexcus, research whether the US Nexcus entity is operationally and legally independent of the UK Barnabas Fund. Call (703) 288-1681 to ask directly. MinistryWatch (ministrywatch.com) has ongoing coverage of the situation.
+
+**Waiting on:** Josh or Vince to determine whether Nexcus US is operationally clear and whether reputational association risk is acceptable to Waha's board.
+
+---
+
+### 2026-02-19 | urdu-dmc | 01-prospect-research
+
+**Item U2 — ECFA Status Confirmation (applies to Urdu DMC too)**
+
+**Decision needed:** Both the Crowell Trust and Stewardship Foundation require ECFA membership or equivalent financial accountability. This was flagged for Amharic DBS (Item 1 above). Same requirement applies to the Urdu DMC project.
+
+**Recommended action:** Confirm ECFA status once, apply to both projects. If Waha is not ECFA-accredited, evaluate pursuing accreditation — it unlocks multiple Tier 1 funders across multiple projects.
+
+**Waiting on:** Josh's confirmation of Waha's ECFA status (see Item 1 above — same resolution applies here).
+
+---
+
+### 2026-02-19 | urdu-dmc | 01-prospect-research
+
+**Item U3 — Warm Introduction Paths to Pursue**
+
+**Decision needed:** Several high-value prospects (Maclellan, First Fruit) are invitation-only. The fastest path into both is through Waha's existing partner relationships.
+
+**Recommended action:**
+- **Maclellan Foundation:** Ask Pioneers or YWAM senior leadership whether they have a Maclellan relationship and would make an introduction to David Denmark or John Cortines. Also explore whether Stan Parks (24:14) has Maclellan connections (see Item 2 for Amharic DBS — same introduction benefits both projects).
+- **First Fruit, Inc.:** Ask Pioneers, Asian Access, or Elam Ministries leadership for a warm introduction to Kelsie Hamilton (First Fruit Executive Director) or Abi Ochs Frederick (board).
+
+**Waiting on:** Josh or Vince (Partnerships Director) to reach out to Pioneers and YWAM about introduction pathways to both foundations.
+
+---
+
+### 2026-02-19 | urdu-dmc | 01-prospect-research
+
+**Item U4 — Tyndale House Foundation Intro Meeting via Pioneers**
+
+**Decision needed:** Tyndale House Foundation requires an introductory meeting before submitting a proposal. Pioneers is a confirmed Tyndale grantee. A warm referral from Pioneers to Tyndale's program staff would significantly increase the odds of advancing.
+
+**Recommended action:** Ask Pioneers leadership to introduce Josh or Alycia to Tyndale House Foundation's program staff. Request the introductory meeting now so it can be completed before the July 2 deadline for the October grant cycle.
+
+**Waiting on:** Josh or Adam (Mobilization Director) to contact Pioneers and request the Tyndale introduction.
+
+---
+
+### 2026-02-19 | urdu-dmc | 01-prospect-research → 02-deep-research
+
+**Item U5 — Chatlos Foundation: Ready to Apply Now**
+
+**No decision needed — action item for Josh/Alycia:**
+The Chatlos Foundation (EIN: 13-6161425) has a rolling open application, no LOI required, and the Urdu DMC is a strong fit for their Religious Causes category. This is the fastest path to getting a grant application in the pipeline.
+
+**Action:** Write and submit a Chatlos proposal. Ask: $7,500–$10,000. Frame as a one-time audio discipleship curriculum production grant for persecuted Pakistani Christians. Mail to: Grant Administrator, The Chatlos Foundation, PO Box 915048, Longwood, FL 32791-5048.
+
+The pipeline will move to writing this proposal in Stage 04. **Flag if you want to accelerate Chatlos ahead of deep research.**
+
+---
+
 ### 2026-02-18 | amharic-dbs | 02-alignment-analysis
 
 **Item 3 — Foundation for Evangelism: Partnership Model**

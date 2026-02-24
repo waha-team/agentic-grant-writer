@@ -77,7 +77,7 @@ Read INIT.md, then process all projects in [02-deep-research] following INSTRUCT
 - **Alycia** — Reviews proposals, manages grant relationships
 - **Valeria** — Assists review and submission
 - **Vince** — Partnerships Director — Consulted on relationship strategies
-- **Jeff** — Strategic oversight
+- **Jeff** — CEO, Strategic oversight
 
 ## Files Needing Human Input Before First Run
 
@@ -97,4 +97,4 @@ Always keep the project's directory well-updated with the results of your resear
 
 ---
 
-*Pipeline v2 created: 2026-02-19*
+*Document created: 2026-02-19*
