@@ -6,12 +6,12 @@
 ---
 
 ## Giving Overview
-- **2022 grants total:** $2,433,386 to 25 partners
-- **2023 grants total:** Filed August 2024 — "26 awards in 2023" (exact total not confirmed in public summary)
-- **Lifetime giving:** $5.4M+ to ministry partners since founding
-- **Number of grants (2022):** 25 partners
-- **Number of grants (2023):** 26 awards
-- **Grant range (2022):** $5,871 – $824,385
+- **2022 grants total:** $2,433,386 to 25 partners ([ProPublica 990, 2022](https://projects.propublica.org/nonprofits/organizations/822745658))
+- **2023 grants total:** Filed August 2024 — "26 awards in 2023" (exact total not confirmed in public summary) ([ProPublica 990, 2023](https://projects.propublica.org/nonprofits/organizations/822745658))
+- **Lifetime giving:** $5.4M+ to ministry partners since founding ([Cause IQ](https://www.causeiq.com/organizations/finishing-fund-management,822745658/))
+- **Number of grants (2022):** 25 partners ([ProPublica 990, 2022](https://projects.propublica.org/nonprofits/organizations/822745658))
+- **Number of grants (2023):** 26 awards ([ProPublica 990, 2023](https://projects.propublica.org/nonprofits/organizations/822745658))
+- **Grant range (2022):** $5,871 – $824,385 ([ProPublica 990, 2022](https://projects.propublica.org/nonprofits/organizations/822745658))
 - **Average grant size (2022):** ~$97,335
 - **Median grant size:** Estimated $50,000–$75,000 (wide spread pulls average up)
 - **Most common grant size bracket:** $25,000 – $100,000
@@ -24,7 +24,7 @@
 - **Core/repeat grantees:** Unknown without full Schedule I. However, GFM describes "40+ projects in 50+ countries" — suggesting significant established portfolio.
 
 ## Geographic Patterns
-- **Where do their grantees operate?** 50+ countries, with specific focus on regions with unengaged unreached people groups — Sub-Saharan Africa, South Asia, Southeast Asia, the Middle East, Central Asia, and remote Pacific regions.
+- **Where do their grantees operate?** 50+ countries, with specific focus on regions with unengaged unreached people groups — Sub-Saharan Africa, South Asia, Southeast Asia, the Middle East, Central Asia, and remote Pacific regions. ([Foundation Website](https://www.globalfrontiermissions.org/unreached-people-group-fund))
 - Very focused on "closed countries" and regions hostile to Christianity — exactly where Waha's security features matter.
 
 ## Thematic Patterns
@@ -54,6 +54,6 @@ Waha's closest analog among their grantees would be organizations that provide r
 *Full board list requires 990-PF download from:* https://projects.propublica.org/nonprofits/organizations/822745658
 
 *Available from public sources:*
-- **Finishing Fund Management Inc** is the 501(c)(3) entity; Global Frontier Missions (EIN 31-1738321) is the awareness/operational partner
-- Leadership appears to be drawn from GFM's board and leadership, and from the Issachar Initiative / NCF ecosystem
+- **Finishing Fund Management Inc** is the 501(c)(3) entity; Global Frontier Missions (EIN 31-1738321) is the awareness/operational partner ([ProPublica 990, 2022](https://projects.propublica.org/nonprofits/organizations/822745658))
+- Leadership appears to be drawn from GFM's board and leadership, and from the Issachar Initiative / NCF ecosystem ([NCF Article](https://www.ncfgiving.com/stories/the-finishing-fund/))
 - GFM's leadership team should be researched for connection paths (see 02-KEY-PEOPLE.md)

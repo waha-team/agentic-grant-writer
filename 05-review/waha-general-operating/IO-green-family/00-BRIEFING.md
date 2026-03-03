@@ -9,7 +9,7 @@
 
 ## Identity
 - **Full legal name:** Green Family Foundation Inc
-- **EIN:** 27-5341883
+- **EIN:** 27-5341883 ([ProPublica 990](https://projects.propublica.org/nonprofits/organizations/275341883))
 - **Website:** https://www.green-family-foundation.org/grants (also https://www.greenfamilyfoundation.org)
 - **Location:** Oklahoma City, OK
 - **Year established:** 2009 (estimated based on IRS filings)
@@ -20,7 +20,7 @@
 ## Mission & Priorities (IN THEIR OWN WORDS)
 
 From green-family-foundation.org:
-> "The Green Family Foundation aims to assist organizations aligned with their mission and values by providing funding to empower, inspire and promote growth."
+> "The Green Family Foundation aims to assist organizations aligned with their mission and values by providing funding to empower, inspire and promote growth." ([Green Family Foundation website](https://www.greenfamilyfoundation.org/contact-us))
 
 From David Green (Hobby Lobby founder) and family's public statements:
 - Bible engagement and Scripture access
@@ -40,28 +40,28 @@ Confirmed focus areas based on giving history:
 ## What They Actually Fund (from 990 analysis)
 
 Based on ProPublica (EIN 27-5341883) and public information:
-- **Lifetime giving:** $500M+ to evangelical causes (David Green family total)
-- **Confirmed grant:** $20,000,000 to Highlands College (church leadership training, Assemblies of God)
-- **Confirmed funding:** YouVersion Bible App (funded from earliest days — Mart Green)
+- **Lifetime giving:** $500M+ to evangelical causes (David Green family total, as of 2012) ([Wikipedia — David Green](https://en.wikipedia.org/wiki/David_Green_(entrepreneur)))
+- **Confirmed grant:** $20,000,000 to Highlands College (church leadership training; announced July 21, 2021) ([Highlands College press release](https://highlandscollege.edu/hobby-lobbys-green-family-donates-20-million-to-highlands-college/))
+- **Confirmed funding:** YouVersion Bible App (funded from earliest days — Mart Green offered help to Bobby Gruenewald before the website launched in 2007) ([Religion News Service](https://religionnews.com/2021/11/19/gutenberg-meet-gruenewald-app-builders-youversion-puts-bible-in-half-billion-phones/))
 - **Confirmed partners:** OneHope (Scripture for children), Every Home for Christ (Bible distribution)
-- **Board members (from 990):** David M. Green, Barbara A. Green, Steven T. Green, Mart D. Green, Darsee Lett — all Green family members or close associates
-- **Staff:** Dan Berkowitz (Executive Director), Brittany Green Daniels (Grants Officer), Sam Green (Impact Officer), Alison Green Imbergamo (Engagement Officer)
+- **Board members (from 990):** David M. Green, Barbara A. Green, Steven T. Green, Mart D. Green, Darsee Lett — all Green family members or close associates ([ProPublica 990](https://projects.propublica.org/nonprofits/organizations/275341883))
+- **Staff:** Dan Berkowitz (Executive Director), Brittany Green Daniels (Grants Officer), Sam Green (Impact Officer), Alison Green Imbergamo (Engagement Officer) ([Green Family Foundation website](https://www.greenfamilyfoundation.org/contact-us))
 
 Grant sizes range from modest ($10K+) to massive ($20M). The family is clearly capable of transformational giving and is motivated by evangelical mission alignment.
 
 ## History & Context
 
-David Green founded Hobby Lobby in 1972 as a craft store chain. The Green family has always operated the business as a Christian company — famous for being closed on Sundays and for the Supreme Court case (Burwell v. Hobby Lobby, 2014) establishing religious liberty rights for closely held corporations.
+David Green founded Hobby Lobby in 1972 as a craft store chain ([Wikipedia — David Green](https://en.wikipedia.org/wiki/David_Green_(entrepreneur))). The Green family has always operated the business as a Christian company — famous for being closed on Sundays and for the Supreme Court case (Burwell v. Hobby Lobby, 2014) establishing religious liberty rights for closely held corporations ([Wikipedia — Burwell v. Hobby Lobby](https://en.wikipedia.org/wiki/Burwell_v._Hobby_Lobby_Stores,_Inc.)).
 
-The family donates 50%+ of pretax profits to evangelical causes. Primary funding vehicles:
+The family donates 50%+ of pretax profits to evangelical causes ([Wikipedia — David Green](https://en.wikipedia.org/wiki/David_Green_(entrepreneur))). Primary funding vehicles:
 - Green Family Foundation Inc (27-5341883) — the main private foundation
 - Hobby Lobby's direct charitable giving
 - Mart Green's specific investments (including YouVersion)
 
 **Mart Green** (son of David Green) specifically:
 - Heads Mardel Christian & Educational Supply (sister to Hobby Lobby)
-- Co-founded Museum of the Bible in Washington, D.C.
-- Offered support to YouVersion founder Bobby Gruenewald before the platform launched as a website in 2007
+- Has been involved with Museum of the Bible in Washington, D.C.
+- Offered support to YouVersion founder Bobby Gruenewald before the platform launched as a website in September 2007 ([Gospel Patrons](https://www.gospelpatrons.org/media/this-book-is-alive/))
 - Has invested in "a Bible app for cell phones" (YouVersion) — directly parallel to Waha
 
 The Green family's giving is comprehensively evangelical and Bible-centered. They are among the largest individual evangelical philanthropists in the United States.

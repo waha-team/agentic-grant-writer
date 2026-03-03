@@ -9,9 +9,9 @@
 
 ## Identity
 - **Full legal name:** Living Stones Foundation
-- **EIN:** 52-1270668
-- **Website:** livingstonesglobal.org (per Waha's CRM entry) — also appears as a separate entity from "Living Stones Foundation Charitable Trust" (EIN 52-7038921)
-- **Location:** Culpeper, Virginia (per CauseIQ and ProPublica)
+- **EIN:** 52-1270668 ([ProPublica 990](https://projects.propublica.org/nonprofits/organizations/521270668))
+- **Website:** livingstonesglobal.org (per Waha's CRM entry) — also appears as a separate entity from "Living Stones Foundation Charitable Trust" (EIN 52-7038921) ([ProPublica — Charitable Trust](https://projects.propublica.org/nonprofits/organizations/527038921))
+- **Location:** Culpeper, Virginia ([CauseIQ](https://www.causeiq.com/organizations/living-stones-foundation,521270668/))
 - **Year established:** Unknown — research the 990 for founding year
 - **Type:** Private foundation (family)
 
@@ -30,7 +30,7 @@ From livingstonesglobal.org (per CRM): the associated website suggests connectio
 
 ## What They Actually Fund (from 990 analysis)
 
-Based on ProPublica (EIN 52-1270668) and Grantable.co:
+Based on ProPublica (EIN 52-1270668) ([ProPublica 990](https://projects.propublica.org/nonprofits/organizations/521270668)) and Grantable.co:
 - **Total assets:** $6,656,832
 - **Most recent year expenses:** $568,597
 - **Most recent year revenue:** $203,684
@@ -45,7 +45,7 @@ Based on ProPublica (EIN 52-1270668) and Grantable.co:
 
 ## History & Context
 
-The Living Stones Foundation is a small family foundation led by the Powell family (William C Powell as President, Lilja Powell as Secretary, Elizabeth S Powell as Vice-President). All officers serve without compensation, consistent with a family-controlled private foundation.
+The Living Stones Foundation is a small family foundation led by the Powell family (William C Powell as President, Lilja Powell as Secretary, Elizabeth S Powell as Vice-President) ([ProPublica 990](https://projects.propublica.org/nonprofits/organizations/521270668)). All officers serve without compensation, consistent with a family-controlled private foundation.
 
 The name "Living Stones" draws from 1 Peter 2:5: "you yourselves like living stones are being built up as a spiritual house" — suggesting a theology of building the church, consistent with discipleship and missions giving.
 

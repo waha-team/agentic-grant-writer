@@ -6,11 +6,11 @@
 ---
 
 ## Giving Overview
-- **Lifetime total giving (family-wide):** $500,000,000+ (all vehicles combined, per public reporting)
-- **Foundation-specific (27-5341883):** Significant but separate from total family giving
-- **Confirmed grant (most notable):** $20,000,000 to Highlands College (Assemblies of God ministerial training)
+- **Lifetime total giving (family-wide):** $500,000,000+ (all vehicles combined, per public reporting as of 2012) ([Wikipedia — David Green](https://en.wikipedia.org/wiki/David_Green_(entrepreneur)))
+- **Foundation-specific (27-5341883):** Significant but separate from total family giving ([ProPublica 990](https://projects.propublica.org/nonprofits/organizations/275341883))
+- **Confirmed grant (most notable):** $20,000,000 to Highlands College (ministerial training, Assemblies of God affiliated; announced July 21, 2021) ([Highlands College](https://highlandscollege.edu/hobby-lobbys-green-family-donates-20-million-to-highlands-college/))
 - **Grant range:** Estimated $10,000 – $20,000,000+ (extraordinarily wide based on confirmed examples)
-- **Annual giving volume:** Unknown without current 990; family gives 50%+ of Hobby Lobby pretax profits
+- **Annual giving volume:** Unknown without current 990; family gives 50%+ of Hobby Lobby pretax profits ([Wikipedia — David Green](https://en.wikipedia.org/wiki/David_Green_(entrepreneur)))
 - **Most common grant size bracket for non-flagship grants:** Estimated $25,000 – $500,000 (smaller grants to smaller evangelical ministries)
 - **Annual giving trend:** Stable to growing — Hobby Lobby revenues have been consistently strong
 
@@ -20,11 +20,11 @@
 - **Do they give to new organizations?** Yes — Mart Green supported YouVersion before it launched, suggesting openness to early-stage organizations
 - **Typical first-time grant amount:** Unknown — YouVersion was funded from inception; relationship-driven entry
 - **Core/repeat grantees:**
-  - YouVersion (Life.Church / Bobby Gruenewald's ministry)
+  - YouVersion (Life.Church / Bobby Gruenewald's ministry) — Mart Green helped fund before the website launched in 2007 ([Gospel Patrons](https://www.gospelpatrons.org/media/this-book-is-alive/))
   - OneHope (Scripture for children globally)
   - Every Home for Christ (Bible distribution)
-  - Highlands College ($20M — major repeat relationship)
-  - Museum of the Bible (co-founded by Mart Green)
+  - Highlands College ($20M — announced 2021) ([Highlands College](https://highlandscollege.edu/hobby-lobbys-green-family-donates-20-million-to-highlands-college/))
+  - Museum of the Bible — Mart Green connected to its founding
 
 ## Geographic Patterns
 - **Global** — The family funds organizations with international reach (YouVersion: 500M+ global users; OneHope: international; YWAM, Every Home for Christ: global)
@@ -52,13 +52,13 @@
 - **Rationale:** The Green family makes strategic, relationship-driven investments. A large ask from an unknown organization will not land. The right sequence is: YouVersion introduction → meeting with Brittany Green Daniels (Grants Officer) or Mart Green → relationship → modest first grant → growing partnership.
 
 ## Board of Directors / Officers (from 990)
-- **David M. Green** — Family patriarch, Hobby Lobby founder (likely Chairman)
+- **David M. Green** — Family patriarch, Hobby Lobby founder (likely Chairman) ([ProPublica 990](https://projects.propublica.org/nonprofits/organizations/275341883))
 - **Barbara A. Green** — David's wife
 - **Steven T. Green** — Son (also leads Hobby Lobby as CEO)
 - **Mart D. Green** — Son (the YouVersion connection; leads Mardel)
 - **Darsee Lett** — Non-family board member / close family associate
 
-**Staff (from website):**
+**Staff (from website)** ([Green Family Foundation](https://www.greenfamilyfoundation.org/contact-us)):
 - **Dan Berkowitz** — Executive Director
 - **Brittany Green Daniels** — Grants Officer (key gatekeeper; daughter of David Green)
 - **Sam Green** — Impact Officer

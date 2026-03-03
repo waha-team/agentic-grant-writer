@@ -7,7 +7,7 @@
 
 ## BLOCKER: Meeting Required Before LOI
 
-> **New organizations must complete a personal introductory meeting with Nancy Huston Hansen (President of Evangelical Relations) before submitting a Letter of Inquiry.** This is explicitly stated on the Requirements page. Until this meeting is arranged and completed, the LOI cannot be submitted.
+> **New organizations must complete a personal introductory meeting with Nancy Huston Hansen (President of Evangelical Relations) before submitting a Letter of Inquiry.** This is explicitly stated on the Requirements page ([Foundation Website — Requirements](https://www.hustonfoundation.org/requirements.cfm)). Until this meeting is arranged and completed, the LOI cannot be submitted.
 >
 > **Action Required (Josh):** Call 610-832-4955 ext. 4 immediately to request a meeting with Nancy Hansen. Spring deadline is April 1, 2026 — there are fewer than 4 weeks remaining.
 
@@ -15,14 +15,14 @@
 
 ## Application Details
 
-- **Type:** Two-step — Letter of Inquiry (LOI) first, then invited to full application
-- **Spring 2026 Deadline:** April 1, 2026 (cycle opens January 6)
-- **Fall 2026 Deadline:** October 1, 2026 (cycle opens July 14)
+- **Type:** Two-step — Letter of Inquiry (LOI) first, then invited to full application ([Foundation Website — Grant Process](https://www.hustonfoundation.org/grant_process.cfm))
+- **Spring 2026 Deadline:** April 1, 2026 (cycle opens January 6) ([Foundation Website — Deadlines](https://www.hustonfoundation.org/deadlines.cfm))
+- **Fall 2026 Deadline:** October 1, 2026 (cycle opens July 14) ([Foundation Website — Deadlines](https://www.hustonfoundation.org/deadlines.cfm))
 - **LOI/Application URL:** https://www.grantinterface.com/Home/Logon?urlkey=hustonfoundation
-- **Submission method:** Online portal (Grant Interface)
-- **Response time after LOI:** "Typically we respond within 10 days"
-- **Funding decisions:** Mid-May (spring) / Mid-November (fall)
-- **Status reporting:** Interim report due 6 months after award; final report due 1 year after award
+- **Submission method:** Online portal (Grant Interface) ([Foundation Website — Grant Process](https://www.hustonfoundation.org/grant_process.cfm))
+- **Response time after LOI:** "Typically we respond within 10 days" ([Foundation Website — FAQ](https://www.hustonfoundation.org/faq.cfm))
+- **Funding decisions:** Mid-May (spring) / Mid-November (fall) ([Foundation Website — Grant Process](https://www.hustonfoundation.org/grant_process.cfm))
+- **Status reporting:** Interim report due 6 months after award; final report due 1 year after award ([Foundation Website — FAQ](https://www.hustonfoundation.org/faq.cfm))
 
 ---
 
@@ -56,18 +56,18 @@ The foundation reviews LOIs before inviting full applications. The LOI must be s
 - [ ] Organization history
 - [ ] Written grant proposal
 
-**Required Attachments:**
+**Required Attachments:** ([Foundation Website — FAQ](https://www.hustonfoundation.org/faq.cfm))
 - [ ] IRS tax exemption letter (501(c)(3) determination letter) — **AVAILABLE: CONTEXT/501(c)(3) Letter.pdf**
 - [ ] EIN — Waha EIN is 35-2894107
 - [ ] Signed statement from organization principal confirming no changes since IRS letter was issued — **[JOSH: Needs to be signed and prepared]**
 - [ ] Current operating budget — **AVAILABLE: from CONTEXT/FINANCIALS_SUMMARY.md**
 - [ ] Detailed project budget — **Will be created in Stage 04 proposal**
 - [ ] Most recent IRS Form 990 OR audited financial statements — **NOT YET FILED (new nonprofit, 2025 501(c)(3)). Waha's first 990 will be for 2025 tax year. Explain in application and offer board-approved budget + determination letter instead.**
-- [ ] Statement of Faith (for first application to this foundation) — **[JOSH: Must be formally adopted by board and signed. Must affirm the specific Huston doctrinal statement — see below]**
-- [ ] Pennsylvania Bureau of Charitable Organizations Registration Certificate — **[JOSH: Must verify Waha's status. As an out-of-state nonprofit, Waha may need to register with PA Bureau of Charitable Organizations or verify exemption status. Call 717-783-1720 to verify requirements.]**
+- [ ] Statement of Faith (for first application to this foundation) — **[JOSH: Must be formally adopted by board and signed. Must affirm the specific Huston doctrinal statement — see below]** ([Foundation Website — Requirements](https://www.hustonfoundation.org/requirements.cfm))
+- [ ] Pennsylvania Bureau of Charitable Organizations Registration Certificate — **[JOSH: Must verify Waha's status. As an out-of-state nonprofit, Waha may need to register with PA Bureau of Charitable Organizations or verify exemption status. Call 717-783-1720 to verify requirements.]** ([Foundation Website — FAQ](https://www.hustonfoundation.org/faq.cfm))
 
 **Statement of Faith Required:**
-The Foundation requires affirmation of this specific doctrinal statement:
+The Foundation requires affirmation of this specific doctrinal statement ([Foundation Website — Requirements](https://www.hustonfoundation.org/requirements.cfm)):
 > "We believe:
 > In the Holy Trinity, consisting of God the Father, Jesus Christ the son, and the Holy Spirit;
 > In the Virgin birth of our Lord and Savior Jesus Christ, who was begotten of the Holy Spirit and is true God and true man;
@@ -81,6 +81,7 @@ Waha must be able to genuinely affirm this statement — and it should be formal
 
 ## Grantmaking Restrictions (What They Will NOT Fund)
 
+([Foundation Website — FAQ](https://www.hustonfoundation.org/faq.cfm))
 - Secular programs outside of North America (Waha is evangelical — this restriction does not apply)
 - Scholarship support to individuals
 - Intermediate organizations distributing to beneficiaries of their own selection — **NOTE: Waha distributes directly to end users, not through intermediaries. This restriction does not apply.**
@@ -102,7 +103,7 @@ Waha must be able to genuinely affirm this statement — and it should be formal
 
 **Recommended:** $10,000
 
-**Rationale:** Average evangelical grant in 2023 was $10,379. For a first-time, non-Pennsylvania applicant with international missions scope, $10,000 is the calibrated first ask. It positions Waha in the mainstream of their grant distribution without overreaching. Comparable: Forge Leadership Network received $20,000 for general operating, but they likely have a warmer relationship with the board.
+**Rationale:** Average evangelical grant in 2023 was $10,379 ([Huston Foundation 2023 Annual Report](https://www.hustonfoundation.org/uploads/hus_ar_2023.pdf)). For a first-time, non-Pennsylvania applicant with international missions scope, $10,000 is the calibrated first ask. It positions Waha in the mainstream of their grant distribution without overreaching. Comparable: Forge Leadership Network received $20,000 for general operating ([Huston Foundation 2023 Annual Report](https://www.hustonfoundation.org/uploads/hus_ar_2023.pdf)), but they likely have a warmer relationship with the board.
 
 ---
 

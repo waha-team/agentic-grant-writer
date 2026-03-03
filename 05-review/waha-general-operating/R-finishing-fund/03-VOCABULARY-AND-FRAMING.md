@@ -34,7 +34,7 @@
 
 ---
 
-## Their Stated Values (from GFM website and public statements)
+## Their Stated Values (from GFM website and public statements) ([Foundation Website](https://www.globalfrontiermissions.org/unreached-people-group-fund))
 
 1. The Great Commission is not optional — every believer is called to participate.
 2. Indigenous and national believers are the most effective agents of gospel advance in their own communities.
@@ -70,9 +70,9 @@
 ## Specific Grants They've Made That Relate to Us
 
 Full grantee list requires 990-PF Schedule I download. However:
-- The fund's 25-26 annual partners all serve UUPGs — many through indigenous workers
+- The fund's 25-26 annual partners all serve UUPGs — many through indigenous workers ([ProPublica 990, 2022](https://projects.propublica.org/nonprofits/organizations/822745658))
 - Organizations in the fund's portfolio that most resemble Waha's model: those providing resources or training to indigenous evangelists serving UUPGs
-- GFM's own programs (short-term missions to UUPGs) demonstrate the fund's comfort with multiple modalities of UUPG engagement — not just physical missionaries
+- GFM's own programs (short-term missions to UUPGs) demonstrate the fund's comfort with multiple modalities of UUPG engagement — not just physical missionaries ([Foundation Website](https://www.globalfrontiermissions.org/unreached-people-group-fund))
 
 ---
 

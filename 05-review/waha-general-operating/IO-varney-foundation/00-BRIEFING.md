@@ -10,10 +10,10 @@
 ## Identity
 
 - **Full legal name:** Varney Foundation
-- **EIN:** 54-1741120
+- **EIN:** 54-1741120 ([ProPublica 990](https://projects.propublica.org/nonprofits/organizations/541741120))
 - **Website:** None found publicly
 - **Location:** Great Falls, Virginia (Fairfax County)
-- **Year established:** Tax-exempt since March 1996
+- **Year established:** Tax-exempt since March 1996 ([ProPublica 990](https://projects.propublica.org/nonprofits/organizations/541741120))
 - **Type:** Private family foundation (Form 990-PF filer)
 
 ---
@@ -26,7 +26,7 @@ No formal mission statement has been found publicly. The foundation's giving pat
 
 ## What They Actually Fund (from 990 analysis)
 
-The foundation's 2023 990-PF reveals **7 grants totaling $238,993**:
+The foundation's 2023 990-PF reveals **7 grants totaling $238,993** ([ProPublica 990](https://projects.propublica.org/nonprofits/organizations/541741120)):
 
 | Grantee | Amount | Purpose |
 |---------|--------|---------|
@@ -48,9 +48,9 @@ The foundation's 2023 990-PF reveals **7 grants totaling $238,993**:
 
 ## History & Context
 
-The Varney Foundation is a small private family foundation controlled by Robert C. Varney (President) and Sandra D. Varney (Director/Secretary), with Tammy Boyd and Karlayne Powars as additional directors. Located in Great Falls, VA — a wealthy suburb of Washington D.C. — the foundation appears to be a personal philanthropic vehicle for the Varney family's evangelical giving.
+The Varney Foundation is a small private family foundation controlled by Robert C. Varney (President) and Sandra D. Varney (Director/Secretary), with Tammy Boyd and Karlayne Powars as additional directors ([ProPublica 990](https://projects.propublica.org/nonprofits/organizations/541741120)). Located in Great Falls, VA — a wealthy suburb of Washington D.C. — the foundation appears to be a personal philanthropic vehicle for the Varney family's evangelical giving.
 
-Assets were listed at $716 as of 2023, suggesting the foundation distributes nearly all contributions in the year received (essentially a flow-through structure, likely funded by the NCF DAF or personal contributions annually). Total distributions in 2023: $239K.
+Assets were listed at $716 as of 2023, suggesting the foundation distributes nearly all contributions in the year received (essentially a flow-through structure, likely funded by the NCF DAF or personal contributions annually). Total distributions in 2023: $239K ([Instrumentl 990 Report](https://www.instrumentl.com/990-report/varney-foundation-37d153a8-fb40-46d2-98da-bef468e767e4)).
 
 The foundation is not publicly known, has no website, and gives entirely to organizations the family already knows and trusts. This is a relationship-based, personal grantmaker.
 

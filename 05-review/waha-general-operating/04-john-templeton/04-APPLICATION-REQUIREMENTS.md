@@ -11,7 +11,7 @@
 - **System:** Online Funding Inquiry (OFI) — Templeton's proprietary online portal
 - **URL:** https://www.templeton.org/grants/apply-for-grant (OFI portal link on this page)
 - **Submission method:** Online via OFI portal (unsolicited inquiries accepted)
-- **Deadline structure:** Rolling by program area. Most recent confirmed cycle: OFI deadline August 16, 2025 → Invited proposals due January 16, 2026 (or earlier for select proposals)
+- **Deadline structure:** Rolling by program area. Most recent confirmed cycle: OFI deadline August 16, 2025 → Invited proposals due January 16, 2026 (or earlier for select proposals) ([Philanthropy News Digest](https://philanthropynewsdigest.org/rfps/rfp15396-john-templeton-foundation-invites-funding-inquiries))
 - **Current cycle:** Check templeton.org/grants/grant-calendar for current OFI deadlines by program area
 - **No geographic restriction:** Global applicants welcome
 
@@ -32,7 +32,7 @@ The OFI is a brief online form requesting basic information about the proposed p
 
 ### OFI Review Process:
 
-Program staff review each OFI to determine if the proposed project represents "a realistic, strategic, and potentially successful opportunity to advance the philanthropic vision of the Foundation." Staff assess fit with funding areas and alignment with donor intentions.
+Program staff review each OFI to determine if the proposed project represents "a realistic, strategic, and potentially successful opportunity to advance the philanthropic vision of the Foundation." ([Foundation Website](https://www.templeton.org/grants/apply-for-grant)) Staff assess fit with funding areas and alignment with donor intentions.
 
 **OFI decisions:** Program staff will either:
 a) Decline (most common outcome)

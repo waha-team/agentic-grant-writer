@@ -1,7 +1,7 @@
 # Briefing: Festus & Helen Stacy Foundation
 
 > **Status: R — Stacy Foundation explicitly requires prior personal relationship with staff or board before applying.**
-> Their website states: "If you are an organization where the Stacy Foundation staff or Board does not have a prior personal knowledge or relationship with you, or has not asked you to fill out an application, please do not apply." Cold applications are technically received but the foundation's FAQ confirms that "having a prior connection with someone at the Stacy Foundation helps us in being able to sift through the multiple funding requests we receive each week." A Waha team member or partner must identify a warm path before submitting.
+> Their website states: "If you are an organization where the Stacy Foundation staff or Board does not have a prior personal knowledge or relationship with you, or has not asked you to fill out an application, please do not apply." ([Foundation Website](https://www.stacy.cc/grant-guidelines)) Cold applications are technically received but the foundation's FAQ confirms that "having a prior connection with someone at the Stacy Foundation helps us in being able to sift through the multiple funding requests we receive each week." A Waha team member or partner must identify a warm path before submitting.
 > Application deadline: **April 1, 2026** for the current semi-annual cycle.
 
 *Research date: 2026-03-03*
@@ -16,20 +16,20 @@
 - **Location:** 5110 N Federal Highway, Suite 100, Fort Lauderdale, FL 33308
 - **Phone:** (954) 776-3386
 - **Email:** info@stacy.cc
-- **Year established:** 1980
+- **Year established:** 1980 ([Foundation Website](https://www.stacy.cc/about-us))
 - **Type:** Private family foundation
-- **Assets:** ~$57.9 million (FY2024)
-- **Annual charitable disbursements:** ~$3.3 million
+- **Assets:** ~$57.9 million (FY2024) ([ProPublica 990, 2024](https://projects.propublica.org/nonprofits/organizations/311706311))
+- **Annual charitable disbursements:** ~$3.3 million ([ProPublica 990, 2024](https://projects.propublica.org/nonprofits/organizations/311706311))
 
 ---
 
 ## Mission & Priorities (IN THEIR OWN WORDS)
 
-**Mission:** "Partners with Christian organizations worldwide that have demonstrated the ability to make a lasting impact benefiting mankind by helping others and extending the love, mercy, and teachings of Jesus Christ."
+**Mission:** "Partners with Christian organizations worldwide that have demonstrated the ability to make a lasting impact benefiting mankind by helping others and extending the love, mercy, and teachings of Jesus Christ." ([Foundation Website](https://www.stacy.cc))
 
-**Founding philosophy (Festus Stacy):** "Evangelism is the greatest business in the world."
+**Founding philosophy (Festus Stacy):** "Evangelism is the greatest business in the world." ([Foundation Website](https://www.stacy.cc/about-us))
 
-**Funding categories:**
+**Funding categories:** ([Foundation Website](https://www.stacy.cc/grant-guidelines))
 1. **Evangelism/Church Planting** — Community outreach and church establishment in emerging nations
 2. **Leadership Development** — Training upper-level leaders and developing indigenous leadership
 3. **Holistic Ministries** — Serving vulnerable populations: "imprisoned, enslaved, orphaned, widowed, homeless, handicapped"
@@ -37,22 +37,22 @@
 5. **Stewardship** — Organizations promoting generous and effective giving
 6. **Children & Youth** — Programs serving youth across all demographics
 
-**Geographic focus:** South Florida (Broward County emphasis), national (USA-wide impact), international (primarily emerging nations)
+**Geographic focus:** South Florida (Broward County emphasis), national (USA-wide impact), international (primarily emerging nations) ([Foundation Website](https://www.stacy.cc/grant-guidelines))
 
 ---
 
 ## What They Actually Fund (from 990 analysis)
 
-Historical grant allocation: 42% to religion, 25% to social services, 14% to education.
+Historical grant allocation: 42% to religion, 25% to social services, 14% to education. ([Cause IQ](https://www.causeiq.com/organizations/festus-and-helen-stacy-foundation,311706311/))
 
-Notable recent grantees (2022-2024):
+Notable recent grantees (2022-2024): ([ProPublica 990, 2024](https://projects.propublica.org/nonprofits/organizations/311706311))
 - **National Christian Foundation** — $533,333
 - **Compassion International** — $333,523
 - **Alpha USA** — $150,000
 - **Hope South Florida** — $87,500
 - **Cardinal Gibbons High School** — $30,000
 
-Grant range: $6,000 – $533,333. Annual disbursements: ~$3.3M across ~10 grants per cycle (board meets approximately monthly). First-time grants are typically modest and single-year. Multi-year grants are rare.
+Grant range: $6,000 – $533,333. Annual disbursements: ~$3.3M across ~10 grants per cycle (board meets approximately monthly). ([ProPublica 990, 2024](https://projects.propublica.org/nonprofits/organizations/311706311)) First-time grants are typically modest and single-year. Multi-year grants are rare.
 
 The portfolio skews toward well-known evangelical organizations and South Florida institutions. They have demonstrated capacity to fund both domestic ministry and international work.
 
@@ -62,13 +62,13 @@ The portfolio skews toward well-known evangelical organizations and South Florid
 
 ## History & Context
 
-Founded in 1980 by Festus Stacy (1902–1995) and Helen Miller Stacy (1907–2002). Festus built his fortune through Penn and APenn oil and manufacturing companies in Butler, Pennsylvania, selling the companies in 1962. He was a committed evangelical Christian whose giving philosophy held that "evangelism is the greatest business in the world."
+Founded in 1980 by Festus Stacy (1902–1995) and Helen Miller Stacy (1907–2002). ([Foundation Website](https://www.stacy.cc/about-us)) Festus built his fortune through Penn and APenn oil and manufacturing companies in Butler, Pennsylvania, selling the companies in 1962. ([Foundation Website](https://www.stacy.cc/about-us)) He was a committed evangelical Christian whose giving philosophy held that "evangelism is the greatest business in the world." ([Foundation Website](https://www.stacy.cc/about-us))
 
-A 1966 tragedy — the death of their 19-year-old daughter Irene Helen Stacy in a car accident — deepened Festus's generosity and commitment to faith-based giving.
+A 1966 tragedy — the death of their 19-year-old daughter Irene Helen Stacy in a car accident — deepened Festus's generosity and commitment to faith-based giving. ([Foundation Website](https://www.stacy.cc/about-us))
 
-The foundation is now managed by the Stepelton family (Douglas A. Stepelton as President, Virlee S. Stepelton as Secretary/Treasurer, Brett S. Stepelton and Sean D. Stepelton as Director/VPs). The staff includes Sharon Falls as Grant Manager.
+The foundation is now managed by the Stepelton family (Douglas A. Stepelton as President, Virlee S. Stepelton as Secretary/Treasurer, Brett S. Stepelton and Sean D. Stepelton as Director/VPs). The staff includes Sharon Falls as Grant Manager. ([ProPublica 990, 2024](https://projects.propublica.org/nonprofits/organizations/311706311))
 
-The foundation is an ECFA (Evangelical Council for Financial Accountability) aligned organization and requires grantees to share ECFA-standard reporting and accountability practices.
+The foundation is an ECFA (Evangelical Council for Financial Accountability) aligned organization and requires grantees to share ECFA-standard reporting and accountability practices. ([Foundation Website](https://www.stacy.cc/operating-principles))
 
 ---
 

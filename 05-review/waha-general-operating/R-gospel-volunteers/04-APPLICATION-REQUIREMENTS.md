@@ -6,11 +6,11 @@
 
 ## Application Details
 
-- **Type:** Online Jotform ("Project Application" — not Missionary Application)
-- **Deadline:** Rolling (no published cutoff)
+- **Type:** Online Jotform ("Project Application" — not Missionary Application) ([Foundation Website — Mission Applications](https://www.camp-of-the-woods.org/mission-applications))
+- **Deadline:** Rolling (no published cutoff) ([Foundation Website — Mission Applications](https://www.camp-of-the-woods.org/mission-applications))
 - **URL:** https://www.camp-of-the-woods.org/mission-applications
 - **Direct form:** https://form.jotform.com/221026799122151
-- **Submission method:** Submit Jotform → Missions Committee reference checks → interview → committee decision
+- **Submission method:** Submit Jotform → Missions Committee reference checks → interview → committee decision ([Foundation Website — Mission Applications](https://www.camp-of-the-woods.org/mission-applications))
 - **Follow-up:** Email Tim T. (timt@cotw.org) after submitting
 
 ## Requirements Checklist
@@ -64,7 +64,7 @@
 **$15,000–$25,000** for general operations
 
 - Lower end ($15,000) aligns with COTW median grant size and is appropriate for a first-time relationship
-- Upper end ($25,000) aligns with their Timothy Initiative grant and is appropriate if warm relationship is established first
+- Upper end ($25,000) aligns with their Timothy Initiative grant ([Cause IQ — Gospel Volunteers](https://www.causeiq.com/organizations/gospel-volunteers,596001191/)) and is appropriate if warm relationship is established first
 - Recommend: **Ask $20,000** as the opening ask, with an explanation that it represents partial support for Waha's mobilization program (the pillar most aligned with COTW's "develop Christian leaders" value)
 
 ## Budget Framing for Application

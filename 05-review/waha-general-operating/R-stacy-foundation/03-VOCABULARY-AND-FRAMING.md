@@ -6,7 +6,7 @@
 
 ## Their Mission Keywords
 
-From the foundation's website, grant guidelines, operating principles, and about page:
+From the foundation's website, grant guidelines, operating principles, and about page: ([Foundation Website](https://www.stacy.cc)) ([Foundation Website](https://www.stacy.cc/grant-guidelines)) ([Foundation Website](https://www.stacy.cc/operating-principles))
 
 - "love, mercy, and teachings of Jesus Christ"
 - "lasting impact benefiting mankind"
@@ -43,7 +43,7 @@ From the foundation's website, grant guidelines, operating principles, and about
 
 ---
 
-## Their Stated Values (verbatim from operating principles)
+## Their Stated Values (verbatim from operating principles) ([Foundation Website](https://www.stacy.cc/operating-principles))
 
 1. **Relational and Collaborative Giving** — "partner with organizations that our Trustees, staff, peers, and partners know well and trust"
 2. **High Standards** — organizations must demonstrate "high reporting and accountability standards" aligned with ECFA
@@ -89,9 +89,9 @@ From the foundation's website, grant guidelines, operating principles, and about
 
 ## Specific Grants They've Made That Relate to Us
 
-- **Alpha USA — $150,000** (2022-23) — Similar methodology: seeker-friendly small groups with audio/video facilitated curriculum. "Alpha" = Waha for a UK/US context. This is the single most relevant precedent.
-- **Compassion International — $333,523** (2023-24) — International reach in emerging nations, vulnerable populations. Demonstrates comfort with international ministry scale and scope.
-- **National Christian Foundation — $533,333** — Shows comfort with organizations that serve as multipliers of Christian giving — reinforces Waha's "leveraged giving" angle.
+- **Alpha USA — $150,000** (2022-23) ([Cause IQ](https://www.causeiq.com/organizations/festus-and-helen-stacy-foundation,311706311/)) — Similar methodology: seeker-friendly small groups with audio/video facilitated curriculum. "Alpha" = Waha for a UK/US context. This is the single most relevant precedent.
+- **Compassion International — $333,523** (2023-24) ([Cause IQ](https://www.causeiq.com/organizations/festus-and-helen-stacy-foundation,311706311/)) — International reach in emerging nations, vulnerable populations. Demonstrates comfort with international ministry scale and scope.
+- **National Christian Foundation — $533,333** ([Cause IQ](https://www.causeiq.com/organizations/festus-and-helen-stacy-foundation,311706311/)) — Shows comfort with organizations that serve as multipliers of Christian giving — reinforces Waha's "leveraged giving" angle.
 
 ---
 

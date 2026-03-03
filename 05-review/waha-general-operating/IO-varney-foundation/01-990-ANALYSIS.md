@@ -7,7 +7,7 @@
 
 ## Giving Overview
 
-- **Total grants per year:** $238,993 (2023); ~$27,000 (2022 direct grants); ~$24,200 (2021)
+- **Total grants per year:** $238,993 (2023); ~$27,000 (2022 direct grants); ~$24,200 (2021) ([ProPublica 990](https://projects.propublica.org/nonprofits/organizations/541741120))
 - **Number of grants per year:** 7 (2023)
 - **Note on 2023 anomaly:** The $205,005 grant to National Christian Foundation is a DAF contribution and should be treated separately. Direct ministry grants in 2023 total ~$33,988.
 - **Median direct grant size:** ~$1,500 (excluding NCF DAF and Cru multi-grants)
@@ -78,6 +78,8 @@ Organizations similar to Waha that have received Varney grants:
 ---
 
 ## Board of Directors / Officers (from 990)
+
+([ProPublica 990](https://projects.propublica.org/nonprofits/organizations/541741120))
 
 | Name | Title | Hours/Week |
 |------|-------|------------|

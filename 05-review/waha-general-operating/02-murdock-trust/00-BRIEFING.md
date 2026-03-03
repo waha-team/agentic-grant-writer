@@ -7,25 +7,25 @@
 ## Identity
 
 - **Full legal name:** M J Murdock Charitable Trust
-- **EIN:** 23-7456468 (note: listed in some searches as 93-6033612 — use 23-7456468 from ProPublica/990 records)
+- **EIN:** 23-7456468 (note: listed in some searches as 93-6033612 — use 23-7456468 from ProPublica/990 records) ([ProPublica 990, 2023](https://projects.propublica.org/nonprofits/organizations/237456468))
 - **Website:** https://murdocktrust.org/
 - **Location:** 655 W. Columbia Way, Suite 700, Vancouver, WA 98660
 - **Phone:** (360) 694-8415
 - **Email:** info@murdocktrust.org
-- **Year established:** 1975 (from Jack Murdock's 1971 will)
-- **Type:** Private charitable trust / family foundation (established by bequest of co-founder of Tektronix, Inc.)
+- **Year established:** 1975 (from Jack Murdock's 1971 will) ([Foundation Website — History](https://murdocktrust.org/history))
+- **Type:** Private charitable trust / family foundation (established by bequest of co-founder of Tektronix, Inc.) ([Foundation Website — Jack Murdock](https://murdocktrust.org/jack-murdock-2))
 
 ---
 
 ## Mission & Priorities (IN THEIR OWN WORDS)
 
-**Mission:** "To build capacity in nonprofits driving innovative and sustainable outcomes across the Pacific Northwest."
+**Mission:** "To build capacity in nonprofits driving innovative and sustainable outcomes across the Pacific Northwest." ([Foundation Website — About](https://murdocktrust.org/about-the-trust))
 
-**Vision:** "Human flourishing for the common good."
+**Vision:** "Human flourishing for the common good." ([Foundation Website — About](https://murdocktrust.org/about-the-trust))
 
-**Founder intent (verbatim from Jack Murdock's will):** "To nurture and enrich the educational, cultural, social and spiritual lives of individuals, families and community."
+**Founder intent (verbatim from Jack Murdock's will):** "To nurture and enrich the educational, cultural, social and spiritual lives of individuals, families and community." ([Foundation Website — History](https://murdocktrust.org/history))
 
-**Geographic mandate:** Serves nonprofits based in **Alaska, Idaho, Montana, Oregon, and Washington** — or projects with over 50% regional impact.
+**Geographic mandate:** Serves nonprofits based in **Alaska, Idaho, Montana, Oregon, and Washington** — or projects with over 50% regional impact. ([Foundation Website — Eligibility Guidelines](https://murdocktrust.org/grant-application-process/guidelines-for-grantseekers))
 
 **Five Funding Sectors:**
 1. Artistic & Cultural Expression
@@ -34,7 +34,7 @@
 4. Health & Environmental Stewardship
 5. Scientific Research
 
-**Faith-based policy (verbatim from eligibility guidelines):** The Trust supports both secular and faith-based organizations "that employ dignity and life-affirming principles aligned with the common good and reflected in Judeo-Christian tenets or principles." Under Civic Engagement, "Faith Formation" projects supporting "human flourishing through the love of God and love of neighbor" are explicitly eligible.
+**Faith-based policy (verbatim from eligibility guidelines):** The Trust supports both secular and faith-based organizations "that employ dignity and life-affirming principles aligned with the common good and reflected in Judeo-Christian tenets or principles." Under Civic Engagement, "Faith Formation" projects supporting "human flourishing through the love of God and love of neighbor" are explicitly eligible. ([Foundation Website — Eligibility Guidelines](https://murdocktrust.org/grant-application-process/guidelines-for-grantseekers))
 
 **Core Values:**
 - Stewardship (managing resources per Murdock's donor intent)
@@ -48,9 +48,9 @@
 ## Grant Types Available
 
 ### 1. Program & Staff (New Staff or Program Expansion)
-The most relevant grant type for Waha. Supports new program creation and expansion of existing programs, plus associated staff additions. Grants "may be used to cover start-up costs and/or related staff member additions." Funding follows a **declining three-year structure at 100% / 67% / 33%** rates.
+The most relevant grant type for Waha. Supports new program creation and expansion of existing programs, plus associated staff additions. Grants "may be used to cover start-up costs and/or related staff member additions." Funding follows a **declining three-year structure at 100% / 67% / 33%** rates. ([Foundation Website — Grant Opportunities](https://murdocktrust.org/grant-opportunities))
 
-**Critical requirement:** Staff hires or programs started before a site visit are **ineligible**.
+**Critical requirement:** Staff hires or programs started before a site visit are **ineligible**. ([Foundation Website — Eligibility Guidelines](https://murdocktrust.org/grant-application-process/guidelines-for-grantseekers))
 
 ### 2. Capital Grants
 Construction, renovation, land purchase. Not relevant for Waha.
@@ -89,7 +89,7 @@ Funds equipment and supporting technology infrastructure. Recipient must cover 5
 
 ## What They Actually Fund (from 990 & Annual Report Analysis)
 
-**Scale:** $96 million granted in 2023 across 378 awards. An enormous funder.
+**Scale:** $96 million granted in 2023 across 378 awards. An enormous funder. ([Murdock Trust 2023 Annual Report](https://murdocktrust.org/annual-reports/2023))
 
 **Program & Staff grants (most relevant to Waha):**
 - New Executive Director for nonprofit ($145,000) — instaballet, Oregon, 2023
@@ -137,11 +137,11 @@ Funds equipment and supporting technology infrastructure. Recipient must cover 5
 
 ## History & Context
 
-Melvin J. "Jack" Murdock (1917–1971) was co-founder of Tektronix, Inc. (oscilloscope manufacturer, a cornerstone of Oregon's "Silicon Forest"). He was described as "an innovator, entrepreneur, and Pacific Northwest visionary" driven by integrity and compassion. He died without heirs and directed his estate to establish the Trust "to nurture and enrich the educational, cultural, social and spiritual lives of individuals, families and community."
+Melvin J. "Jack" Murdock (1917–1971) was co-founder of Tektronix, Inc. (oscilloscope manufacturer, a cornerstone of Oregon's "Silicon Forest"). He was described as "an avid learner, innovator and entrepreneur" driven by integrity and compassion. ([Foundation Website — Jack Murdock](https://murdocktrust.org/jack-murdock-2)) He died without heirs and directed his estate to establish the Trust "to nurture and enrich the educational, cultural, social and spiritual lives of individuals, families and community." ([Foundation Website — History](https://murdocktrust.org/history))
 
-The Trust was established in 1975. Since then it has partnered with over 3,000 nonprofits and distributed more than $1.5 billion in grants, growing from an initial $91 million endowment.
+The Trust was established in 1975. Since then it has partnered with over 3,000 nonprofits and distributed more than $1.5 billion in grants, growing from an initial $91 million endowment. ([Foundation Website — About](https://murdocktrust.org/about-the-trust))
 
-**2023 leadership transition:** Romanita Hairston became CEO. New five-sector framework launched. Grants recategorized into new sectors.
+**2023 leadership transition:** Romanita Hairston became CEO. New five-sector framework launched. Grants recategorized into new sectors. ([Foundation Website — CEO Update on New Sectors](https://murdocktrust.org/2023/08/an-update-from-our-ceo-details-on-new-sectoral-model))
 
 **Note:** The Trust's EIN is variously listed as 93-6033612 and 23-7456468 in different databases. ProPublica's Nonprofit Explorer uses 23-7456468 (with the 202313199349103306 filing reference). Use the Submittable portal for applications rather than relying on any specific EIN reference.
 

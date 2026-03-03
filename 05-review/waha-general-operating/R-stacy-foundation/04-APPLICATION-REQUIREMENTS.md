@@ -10,18 +10,18 @@
 - **Type:** Two-stage: initial application (submitted anytime), then invited full proposal package
 - **Submission method:** Email to info@stacy.cc or mail to 5110 N Federal Highway, Suite 100, Fort Lauderdale, FL 33308
 - **Phone:** (954) 776-3386
-- **Deadline:** Semi-annual. Current cycles: **November 1** and **April 1**. Board meets approximately monthly and reviews on a rolling basis.
-- **URL:** https://www.stacy.cc/funding-request (online form available; mailed applications also accepted)
+- **Deadline:** Semi-annual. Current cycles: **November 1** and **April 1**. Board meets approximately monthly and reviews on a rolling basis. ([Foundation Website](https://www.stacy.cc/grant-guidelines))
+- **URL:** https://www.stacy.cc/funding-request (online form available; mailed applications also accepted) ([Foundation Website](https://www.stacy.cc/grant-guidelines))
 - **Decision timeline:** 4-6 months from initial application submission
 
-> **CRITICAL:** The foundation's grant guidelines explicitly state: "If you are an organization where the Stacy Foundation staff or Board does not have a prior personal knowledge or relationship with you, or has not asked you to fill out an application, **please do not apply.**" This is the primary blocker. See `00-BRIEFING.md` and `00-STATUS-RELATIONSHIP-NEEDED.md`.
+> **CRITICAL:** The foundation's grant guidelines explicitly state: "If you are an organization where the Stacy Foundation staff or Board does not have a prior personal knowledge or relationship with you, or has not asked you to fill out an application, **please do not apply.**" ([Foundation Website](https://www.stacy.cc/grant-guidelines)) This is the primary blocker. See `00-BRIEFING.md` and `00-STATUS-RELATIONSHIP-NEEDED.md`.
 
 ---
 
 ## Two-Stage Process
 
 ### Stage 1: Initial Application / Letter of Inquiry
-The foundation's FAQ confirms:
+The foundation's FAQ confirms: ([Foundation Website](https://www.stacy.cc/grant-guidelines))
 1. Submit a grant application (initial inquiry / letter format)
 2. Foundation reviews and responds within 60 days
 3. If approved for further consideration, they send a full proposal package
@@ -67,7 +67,7 @@ The full proposal package is sent only upon invitation. Requirements are not pub
 
 ### Foundation-Specific Requirements
 
-The Stacy Foundation operating principles prioritize the following — all must be addressed in the proposal:
+The Stacy Foundation operating principles prioritize the following — all must be addressed in the proposal: ([Foundation Website](https://www.stacy.cc/operating-principles))
 
 1. **Specific project, not general operations** — Frame as "Waha Technology Platform — Scaling Disciple-Making Through Media and Technology" with specific deliverables
 2. **Outcome-based reporting** — Clearly state what metrics will be reported and when: app installs, active users, groups started, countries reached
@@ -80,7 +80,7 @@ The Stacy Foundation operating principles prioritize the following — all must 
 
 ## Foundation-Specific Questions (expected, based on their operating principles)
 
-Based on the Stacy Foundation's FAQ and operating principles, the full proposal package is likely to ask:
+Based on the Stacy Foundation's FAQ and operating principles ([Foundation Website](https://www.stacy.cc/operating-principles)), the full proposal package is likely to ask:
 
 1. "How do you know what you are doing is working?" (Their stated evaluation question) — Answer with: app metrics, documented case studies, partner testimonials
 2. "How are you funded?" and "Do you rely on any one funding source?" — Answer: diversified across foundation grants (33%), major donors (41%), mid-level donors (16%), grassroots (10%)

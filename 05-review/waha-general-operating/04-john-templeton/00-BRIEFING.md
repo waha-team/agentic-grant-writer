@@ -10,19 +10,19 @@
 - **EIN:** 62-1322826
 - **Website:** https://www.templeton.org
 - **Location:** 300 Conshohocken State Rd, West Conshohocken, PA 19428
-- **Year established:** 1987 (tax-exempt since July 1988)
+- **Year established:** 1987 (tax-exempt since July 1988) ([ProPublica 990, 2024](https://projects.propublica.org/nonprofits/organizations/621322826))
 - **Type:** Private foundation
-- **Assets:** $3.6 billion (FY2024)
-- **Annual charitable disbursements:** ~$154.9 million (FY2024)
-- **Annual revenue:** $258.7 million (FY2024)
+- **Assets:** $3.6 billion (FY2024) ([ProPublica 990, 2024](https://projects.propublica.org/nonprofits/organizations/621322826))
+- **Annual charitable disbursements:** ~$154.9 million (FY2024) ([ProPublica 990, 2024](https://projects.propublica.org/nonprofits/organizations/621322826))
+- **Annual revenue:** $258.7 million (FY2024) ([ProPublica 990, 2024](https://projects.propublica.org/nonprofits/organizations/621322826))
 
 ---
 
 ## Mission & Priorities (IN THEIR OWN WORDS)
 
-**Mission:** "Prioritizes interdisciplinary and empirical research on religious innovation, or new religious ideas, methods, and practices, that catalyze cultural change."
+**Mission:** "Prioritizes interdisciplinary and empirical research on religious innovation, or new religious ideas, methods, and practices, that catalyze cultural change." ([Foundation Website](https://www.templeton.org))
 
-**Broader stated purpose:** "Fund research and catalyze conversations that inspire people with awe and wonder."
+**Broader stated purpose:** "Fund research and catalyze conversations that inspire people with awe and wonder." ([Foundation Website](https://www.templeton.org))
 
 **Core funding areas:**
 1. **Religion, Science, and Society** — Research on culture, religious traditions, and spirituality to advance collective understanding of how religious and spiritual beliefs affect human flourishing
@@ -32,7 +32,7 @@
 5. **Individual Freedom and Free Markets** — Property rights, rule of law, entrepreneurship
 6. **Public Engagement** — Helping the public engage with big questions through media, journalism, and popular culture
 
-**Key recent initiative:** "Cultivating Character in the Digital Age" — $8M in grants studying how AI and digital platforms affect youth character development, virtue, and spiritual formation. Grants went to academic institutions, research nonprofits, and organizations with both research capacity and practical implementation.
+**Key recent initiative:** "Cultivating Character in the Digital Age" — $8M in grants studying how AI and digital platforms affect youth character development, virtue, and spiritual formation. ([Foundation Website](https://www.templeton.org/news/announcing-8m-in-new-projects-to-cultivate-character-in-the-digital-age)) Grants went to academic institutions, research nonprofits, and organizations with both research capacity and practical implementation.
 
 **Key language from their grantmaking:**
 - "Interdisciplinary and empirical research"
@@ -50,21 +50,21 @@
 ## What They Actually Fund (from 990 analysis)
 
 FY2024 overview:
-- Total disbursements: $154.9 million
-- 402 awards in most recent grant cycle (2023)
+- Total disbursements: $154.9 million ([ProPublica 990, 2024](https://projects.propublica.org/nonprofits/organizations/621322826))
+- 402 awards in most recent grant cycle (2023) ([ProPublica 990, 2024](https://projects.propublica.org/nonprofits/organizations/621322826))
 - Individual grant range: $50,000 – $2M+ (median likely $150K–$300K)
-- Assets: $3.6 billion
+- Assets: $3.6 billion ([ProPublica 990, 2024](https://projects.propublica.org/nonprofits/organizations/621322826))
 
 Templeton funds a distinctive mix: academic research projects at universities, research institutes, and think tanks; and a smaller number of implementation-oriented nonprofits that can embed rigorous measurement into their work. The common thread is not sector (academic vs. nonprofit) but METHOD: every funded project must include measurable research questions, defined methodologies, and evidence of outcomes.
 
 **Religion, Science, and Society grants (confirmed):**
 - Projects studying how religious practices affect wellbeing, mental health, and community cohesion
-- Spiritual Yearning Research Initiative (Vanderbilt University and others)
+- Spiritual Yearning Research Initiative (Vanderbilt University and others) ([Foundation Website](https://www.templeton.org/internal-competiton-fund/the-spiritual-yearning-research-initiative-the-search-for-meaning-among-the-nonreligious))
 - Studies of religious innovation in the Global South
 - Research on prayer, spirituality, and natural history of religion
 
 **Character Virtue Development grants (confirmed):**
-- CLAL — National Jewish Center for Learning and Leadership: studying AI and Jewish digital ethics ($X, 2023)
+- CLAL — National Jewish Center for Learning and Leadership: studying AI and Jewish digital ethics ($X, 2023) ([Foundation Website](https://www.templeton.org/grant/jewish-thought-and-jewish-education-for-the-digital-future))
 - Multiple university-based projects studying youth character development in digital environments
 - Organizations developing tools for faith communities to navigate digital culture
 
@@ -74,11 +74,11 @@ Templeton funds a distinctive mix: academic research projects at universities, r
 
 ## History & Context
 
-Founded by Sir John Templeton (1912–2008), a pioneering mutual fund investor (Franklin Templeton) and committed Christian who believed deeply that science and religion could be complementary, not contradictory. He established the annual Templeton Prize (originally larger than the Nobel Prize in monetary terms) to honor people who make "exceptional contributions to affirming life's spiritual dimension."
+Founded by Sir John Templeton (1912–2008) ([Wikipedia](https://en.wikipedia.org/wiki/John_Templeton_Foundation)), a pioneering mutual fund investor (Franklin Templeton) and committed Christian who believed deeply that science and religion could be complementary, not contradictory. He established the annual Templeton Prize (originally larger than the Nobel Prize in monetary terms) ([Templeton Prize](https://www.templetonprize.org/templeton-prize-history/)) to honor people who make "exceptional contributions to affirming life's spiritual dimension."
 
 The foundation's grantmaking reflects Templeton's conviction that empirical inquiry — done rigorously — can illuminate spiritual questions and that faith and reason need not be enemies. This is not a typical evangelical missionary foundation; it is a research and innovation philanthropy that happens to care deeply about religion.
 
-**Current leadership:**
+**Current leadership:** ([ProPublica 990, 2024](https://projects.propublica.org/nonprofits/organizations/621322826))
 - **Heather Templeton Dill** (President, granddaughter of John Templeton) — $440,000 compensation
 - **Matthew Walhout** (Chief Programs Officer) — $394,473
 - **David Nassar** (VP Strategic Engagement) — $348,568

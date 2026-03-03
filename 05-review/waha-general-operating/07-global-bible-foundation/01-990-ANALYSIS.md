@@ -15,7 +15,7 @@ Searches conducted on:
 - GuideStar / Candid
 - CauseIQ
 
-The closest result was "Bible Foundation" (EIN 86-0592060) based in Newberg, OR — confirmed to be a different organization.
+The closest result was "Bible Foundation" (EIN 86-0592060) based in Newberg, OR — confirmed to be a different organization ([ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/)).
 
 **Possible explanations:**
 1. **New organization:** GBF may have received 501(c)(3) status recently and hasn't yet filed a 990 (same situation as Waha)
@@ -33,7 +33,7 @@ The closest result was "Bible Foundation" (EIN 86-0592060) based in Newberg, OR 
 - **Grant range:** UNKNOWN
 - **Most common grant size bracket:** UNKNOWN
 
-**Inference from model:** GBF states "94% of donations go directly to resource partner organizations." With only 3 current partners, funding is likely spread across All In Ministries International, Oasis International, and WordSpread. Without knowing GBF's total donor base, grant amounts could range from a few hundred dollars to tens of thousands per partner per year.
+**Inference from model:** GBF states "94% of donations go directly to resource partner organizations" ([Foundation Website](https://www.globalbiblefoundation.org/)). With only 3 current partners, funding is likely spread across All In Ministries International, Oasis International, and WordSpread ([Foundation Website — Ministry Partners](https://www.globalbiblefoundation.org/ministry-partners)). Without knowing GBF's total donor base, grant amounts could range from a few hundred dollars to tens of thousands per partner per year.
 
 ---
 
@@ -45,10 +45,10 @@ The closest result was "Bible Foundation" (EIN 86-0592060) based in Newberg, OR 
 
 ## Geographic Patterns
 
-**Where do their current grantees operate?**
-- All In Ministries International: Global, multi-denominational
-- Oasis International: Africa-focused (contextualized Bibles and resources)
-- WordSpread: Africa (evangelism and discipleship training)
+**Where do their current grantees operate?** ([Foundation Website — Ministry Partners](https://www.globalbiblefoundation.org/ministry-partners))
+- All In Ministries International: Global, multi-denominational ([All In Ministries International](https://allinmin.org/about/))
+- Oasis International: Africa-focused (contextualized Bibles and resources) ([Oasis International](https://oasisinternational.com/))
+- WordSpread: Africa (evangelism and discipleship training) ([WordSpread](https://www.wordspread.co/about-us/))
 
 **Pattern:** Two of three current partners are Africa-focused. GBF's language ("from remote villages to bustling cities, worldwide") suggests global scope, but the current portfolio skews toward Africa.
 

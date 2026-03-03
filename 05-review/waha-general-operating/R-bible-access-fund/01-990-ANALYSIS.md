@@ -9,7 +9,7 @@
 
 The Bible Access & Engagement Fund is NOT a private foundation with its own 990-PF. It operates as a **Collaborative Giving Fund** — a Donor Advised Fund structure where:
 - Donors contribute to the fund and recommend grants to vetted organizations
-- Administrative fees are capped at 1% of the fund
+- Administrative fees are capped at 1% of the fund ([Foundation Website](https://solvingtheworldsgreatestproblems.org/bible-access-fund/))
 - The fund is professionally managed through a trusted partner (likely The Signatry, EIN 43-1890105, which is a large Christian DAF platform in Overland Park, KS)
 
 **This means:**
@@ -22,9 +22,9 @@ The Bible Access & Engagement Fund is NOT a private foundation with its own 990-
 ## Host Organization Context: The Signatry (if confirmed host)
 - **EIN:** 43-1890105
 - **Location:** Overland Park, KS (matches CRM-populated address for SWGP)
-- **Scale:** $4B+ facilitated; $1.4B assets
-- **Vision:** "To write the last check to the last missionary to be sent out to the last unreached people group so the last person can hear the gospel."
-- **Top grantees:** Every Home for Christ ($56M), OneHope ($31M), Wycliffe Bible Translators ($9M), FCBH ($505K confirmed)
+- **Scale:** $4B+ facilitated; $1.4B assets ([Cause IQ](https://www.causeiq.com/organizations/the-signatry,431890105/))
+- **Vision:** "To write the last check to the last missionary to be sent out to the last unreached people group so the last person can hear the gospel." ([The Signatry Website](https://thesignatry.com/mission-vision-values/))
+- **Top grantees:** Every Home for Christ ($56M), OneHope ($31M), Wycliffe Bible Translators ($9M), FCBH ($505K confirmed) ([Source: The Signatry — URL unavailable])
 - **Note:** The Signatry is already in Waha's CRM (record e00ebbd3)
 
 ---
@@ -34,19 +34,19 @@ The Bible Access & Engagement Fund is NOT a private foundation with its own 990-
 From website content and CRM interaction history:
 
 **Mission of the fund:**
-- Close the "gap between translation and transformation"
-- Deliver Scripture "in audio, digital, and video formats, securely and contextually to the hardest-to-reach places"
-- Support the "Close the Bible Gap Alliance"
+- Close the "gap between translation and transformation" ([Foundation Website](https://solvingtheworldsgreatestproblems.org/bible-access-fund/))
+- Deliver Scripture "in audio, digital, and video formats, securely and contextually to the hardest-to-reach places" ([Foundation Website](https://solvingtheworldsgreatestproblems.org/bible-access-fund/))
+- Support the "Close the Bible Gap Alliance" ([Foundation Website](https://solvingtheworldsgreatestproblems.org/bible-access-fund/))
 - Partner with YouVersion and ETEN-adjacent organizations
 
 **Founding story:**
 - Connected to the Green family / Hobby Lobby (who funded YouVersion from inception)
-- "The amazing story of a business family who funded the YouVersion Bible App"
+- "The amazing story of a business family who funded the YouVersion Bible App" ([Foundation Website](https://solvingtheworldsgreatestproblems.org/bible-access-fund/))
 - Positions generosity as investment in technological scripture access
 
 **Grant/distribution scale:**
 - Unknown — fund is recent (launched ~2023-2024)
-- Expense fees capped at 1% (very lean structure)
+- Expense fees capped at 1% (very lean structure) ([Foundation Website](https://solvingtheworldsgreatestproblems.org/bible-access-fund/))
 - Scale will depend on donor adoption of the platform
 
 ---

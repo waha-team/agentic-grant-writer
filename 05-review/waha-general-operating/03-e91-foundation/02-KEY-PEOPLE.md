@@ -7,13 +7,13 @@
 ## Co-Presidents / Leadership
 
 ### Blair Austin, Co-President
-- **Background:** Founder and CEO of ABA Properties, a real estate investment firm in Indianapolis. Brings a business/entrepreneurial mindset to the foundation's leadership. As co-founder of the foundation (or at least a long-term leader), Blair likely has strong personal convictions about the types of ministries funded — particularly new, entrepreneurial ministry initiatives that reflect the "plowing new ground" language.
+- **Background:** Founder and CEO of ABA Properties, a real estate investment firm in Indianapolis. ([Foundation Website — Our Board](https://e91foundation.org/about-us/our-board/)) Brings a business/entrepreneurial mindset to the foundation's leadership. As co-founder of the foundation (or at least a long-term leader), Blair likely has strong personal convictions about the types of ministries funded — particularly new, entrepreneurial ministry initiatives that reflect the "plowing new ground" language.
 - **LinkedIn:** Search "Blair Austin Indianapolis"
 - **Relevant connections:** Business-minded donor; likely responds to ROI language and concrete deliverables. Entrepreneurial background may resonate with Waha's tech-forward approach to an age-old problem.
 - **Notes for engagement:** Frame Waha as a startup-minded ministry that punches above its weight — "a team of 12 serving 82,000 users worldwide." Blair's business instincts will appreciate efficiency and leverage. Lead with cost-per-impact metrics.
 
 ### Beth Austin, Co-President
-- **Background:** Adjunct Professor of Nursing at the University of Indianapolis. Academic/healthcare background brings a different lens — possibly more attentive to community impact, access for underserved populations, and evidence of effectiveness.
+- **Background:** Adjunct Professor of Nursing at the University of Indianapolis and Ivy Tech Community College. ([Foundation Website — Our Board](https://e91foundation.org/about-us/our-board/)) Academic/healthcare background brings a different lens — possibly more attentive to community impact, access for underserved populations, and evidence of effectiveness.
 - **LinkedIn:** Search "Beth Austin University of Indianapolis Nursing"
 - **Relevant connections:** Education and healthcare background; may appreciate Waha's accessibility features (oral learners, low-literacy populations) and documented transformation stories.
 - **Notes for engagement:** Beth's nursing/education background suggests she may resonate with Waha's "anyone can do this" design philosophy — the app is designed like a clinical protocol: follow the steps, get the outcomes.
@@ -23,19 +23,19 @@
 ## Board Members
 
 ### John Fencl, Treasurer
-- **Background:** Handles financial oversight for the foundation. Will review budget and financial documentation.
+- **Background:** Handles financial oversight for the foundation. ([Foundation Website — Our Board](https://e91foundation.org/about-us/our-board/)) Will review budget and financial documentation.
 - **Notes:** Ensure budget is clean, specific, and shows good stewardship of donor dollars. $5,000 ask is very accessible for a foundation of this size.
 
 ### Adrian Fehl, Staff Representative
-- **Background:** Executive Pastor at East 91st Street Christian Church. The connection between the church and the foundation — the person who knows both worlds. May serve as operational grantmaking coordinator.
+- **Background:** Executive Pastor at East 91st Street Christian Church. ([Foundation Website — Our Board](https://e91foundation.org/about-us/our-board/)) The connection between the church and the foundation — the person who knows both worlds. May serve as operational grantmaking coordinator.
 - **Notes for engagement:** Adrian is likely the most operationally involved in grant review. As Executive Pastor of a large evangelical church, he will understand and appreciate Waha's mission language. Can use "disciple-making," "Great Commission," "unreached people groups" with Adrian — he will know what these mean.
 
 ### Tom Brinkerhoff, Board Member (CPA)
-- **Background:** Certified Public Accountant. Will review financials carefully.
+- **Background:** Certified Public Accountant. ([Foundation Website — Our Board](https://e91foundation.org/about-us/our-board/)) Will review financials carefully.
 - **Notes:** Ensure 501(c)(3) documentation is in order. Acknowledge that Waha is a new nonprofit (501(c)(3) received 2025) and explain clearly.
 
 ### Dr. David Schlueter, Board Member (Retired Urologist)
-- **Background:** Medical professional. Retired physician. May particularly appreciate the "medical care" category in E91's grantmaking focus, though Waha doesn't fit this area.
+- **Background:** Medical professional. Retired physician. ([Foundation Website — Our Board](https://e91foundation.org/about-us/our-board/)) May particularly appreciate the "medical care" category in E91's grantmaking focus, though Waha doesn't fit this area.
 - **Notes:** General community member; appeal to universal desire to see people transformed.
 
 ---

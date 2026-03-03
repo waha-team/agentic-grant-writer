@@ -9,10 +9,10 @@
 
 ## Identity
 - **Full legal name:** Arthur S DeMoss Foundation
-- **EIN:** 23-6404136
+- **EIN:** 23-6404136 ([ProPublica 990](https://projects.propublica.org/nonprofits/organizations/236404136))
 - **Website:** None publicly listed
 - **Location:** West Palm Beach, FL
-- **Year established:** 1959
+- **Year established:** 1955 (incorporated in PA as National Liberty Foundation of Valley Forge, Inc.) ([SourceWatch](https://www.sourcewatch.org/index.php/Arthur_S._DeMoss_Foundation))
 - **Type:** Operating private foundation (primarily runs own programs; some external grants)
 
 ## Mission & Priorities (IN THEIR OWN WORDS)
@@ -30,7 +30,7 @@ Key language:
 
 ## What They Actually Fund (from 990 analysis)
 
-Based on ProPublica (EIN 23-6404136), SourceWatch, and charity databases:
+Based on ProPublica (EIN 23-6404136) ([ProPublica 990](https://projects.propublica.org/nonprofits/organizations/236404136)), SourceWatch, and charity databases:
 - **Total assets:** ~$39,600,000
 - **Annual expenses:** ~$9,400,000
 - **Annual revenue:** ~$2,600,000
@@ -43,13 +43,13 @@ The financial profile (revenue $2.6M < expenses $9.4M) indicates the foundation 
 
 ## History & Context
 
-Arthur S. DeMoss was a successful insurance entrepreneur and evangelical Christian who built A.L. Williams (later Primerica). He died in 1979. The foundation was established in 1959 to perpetuate his evangelical giving commitments.
+Arthur S. DeMoss was a successful insurance entrepreneur and evangelical Christian who founded National Liberty Life Insurance Co., pioneering direct-mail insurance marketing. He died on September 1, 1979, at the age of 53 ([SourceWatch](https://www.sourcewatch.org/index.php/Arthur_S._DeMoss_Foundation)). The foundation was established in 1955 (as the National Liberty Foundation of Valley Forge, Inc.) to perpetuate his evangelical giving commitments ([SourceWatch](https://www.sourcewatch.org/index.php/Arthur_S._DeMoss_Foundation)).
 
-The most prominent DeMoss family member today is **Nancy DeMoss Wolgemuth** — author, broadcaster, and founder of Revive Our Hearts ministry. She is the chairman of the board and treasurer. Nancy DeMoss Wolgemuth has a significant evangelical media presence focused on women's biblical teaching and discipleship.
+The most prominent DeMoss family member today is **Nancy DeMoss Wolgemuth** — author, broadcaster, and founder of Revive Our Hearts ministry. She is the chairman of the board and treasurer ([ProPublica 990](https://projects.propublica.org/nonprofits/organizations/236404136)). Nancy DeMoss Wolgemuth has a significant evangelical media presence focused on women's biblical teaching and discipleship ([Wikipedia — Nancy DeMoss Wolgemuth](https://en.wikipedia.org/wiki/Nancy_DeMoss_Wolgemuth)).
 
-Charlotte DeMoss is Secretary/Assistant Treasurer, and Elisabeth DeMoss is Assistant Secretary — suggesting other family members are involved in governance.
+Charlotte DeMoss is Secretary/Assistant Treasurer, and Elisabeth DeMoss is Assistant Secretary ([ProPublica 990](https://projects.propublica.org/nonprofits/organizations/236404136)) — suggesting other family members are involved in governance.
 
-The foundation has historically run large-scale evangelism campaigns (e.g., the "Power for Living" book campaign, which distributed millions of books in the 1980s-90s). The operating model has meant the foundation funds projects it directly controls rather than distributing widely to external organizations.
+The foundation has historically run large-scale evangelism campaigns (e.g., the "Power for Living" book campaign, first distributed in 1983; TV ads began in 1999) ([Religion News Blog](https://www.religionnewsblog.com/18885/power-for-living-2)). The operating model has meant the foundation funds projects it directly controls rather than distributing widely to external organizations.
 
 ## Why Waha Is a Fit
 

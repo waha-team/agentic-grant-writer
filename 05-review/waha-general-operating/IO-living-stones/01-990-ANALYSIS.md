@@ -6,7 +6,7 @@
 ---
 
 ## Giving Overview
-- **Total assets:** $6,656,832
+- **Total assets:** $6,656,832 ([ProPublica 990](https://projects.propublica.org/nonprofits/organizations/521270668))
 - **Total expenses (most recent year):** $568,597
 - **Total revenue (most recent year):** $203,684
 - **Estimated annual grantmaking:** $300,000–$500,000 (expenses minus operating costs; specific grant total requires Schedule I)
@@ -55,7 +55,7 @@
 **Important caveat:** Confirm active grantmaking status before sizing the ask. The CRM note ("IS THIS GRANT ACTIVE?") flags this as unverified.
 
 ## Board of Directors / Officers (from 990)
-- **William C Powell** — President (no compensation)
+- **William C Powell** — President (no compensation) ([ProPublica 990](https://projects.propublica.org/nonprofits/organizations/521270668))
 - **Lilja Powell** — Secretary (no compensation)
 - **Elizabeth S Powell** — Vice-President (no compensation)
 

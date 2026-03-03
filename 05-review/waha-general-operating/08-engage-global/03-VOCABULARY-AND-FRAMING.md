@@ -30,7 +30,7 @@
 
 ## Their Core Convictions (Mirror These)
 
-Engage Global's website articulates seven beliefs — use these to show alignment:
+Engage Global's website articulates seven beliefs ([Foundation Website](https://engageglobal.org/about/)) — use these to show alignment:
 
 1. **"The Bible is the story of God's plan to gather worshippers from all nations"**
    - Waha framing: "DBS reveals that story to every nation in their heart language"
@@ -55,7 +55,7 @@ Engage Global's website articulates seven beliefs — use these to show alignmen
 
 ## The Five Habits Alignment (Use This Framing)
 
-Engage Global teaches five ways to live as a Global Christian. Waha supports all five:
+Engage Global teaches five ways to live as a Global Christian ([Foundation Website](https://engageglobal.org/about/)). Waha supports all five:
 
 | Their Habit | How Waha Delivers It |
 |-------------|----------------------|
@@ -75,7 +75,7 @@ Engage Global is fundamentally about mobilization. Waha is the resource that mob
 
 **Their grant language:** Engage Global describes its grantees as "Partnering Organizations." Frame Waha as a strategic partner in their mission — an organization that serves the same churches they train, equipping the believers those churches send.
 
-**Pioneers bridge:** Both Engage Global and Waha are closely connected to Pioneers USA. Engage Global funds Pioneers ($26K–$33K/year) as a "Partnering Organization." Pioneers missionaries use Waha's DBS tools daily. Lead with this — it establishes credibility without cold outreach.
+**Pioneers bridge:** Both Engage Global and Waha are closely connected to Pioneers USA. Engage Global funds Pioneers ($26K–$33K/year) ([Cause IQ](https://www.causeiq.com/organizations/engage-global-sandra-jensen,461112682/)) as a "Partnering Organization." Pioneers missionaries use Waha's DBS tools daily. Lead with this — it establishes credibility without cold outreach.
 
 ## Draft "Why We Fit" Paragraph (Gen Op Version)
 

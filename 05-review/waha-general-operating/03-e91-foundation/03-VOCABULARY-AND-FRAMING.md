@@ -45,12 +45,12 @@
 
 ## Their Stated Values (verbatim from website/FAQ)
 
-1. **Primary purpose:** "Assisting the making of disciples" (Matthew 28:18-20)
-2. **Secondary purpose:** "Meeting the physical needs of hurting people" (Matthew 25:35-40)
-3. **Ministry focus:** "New and expanding ministries in the field of evangelism, church planting, benevolence, medical care, education, and missions"
-4. **Foundation ethos:** "Plowing new ground for a greater harvest for the Kingdom of God"
-5. **Organizational character:** "Faith and community to create better impact on the ministries" donors care about
-6. **Non-support:** Does NOT fund "operating expenses of existing ministries"
+1. **Primary purpose:** "Assisting the making of disciples" (Matthew 28:18-20) ([Foundation Website — FAQ](https://e91foundation.org/contact-us/faq/))
+2. **Secondary purpose:** "Meeting the physical needs of hurting people" (Matthew 25:35-40) ([Foundation Website — FAQ](https://e91foundation.org/contact-us/faq/))
+3. **Ministry focus:** "New and expanding ministries in the field of evangelism, church planting, benevolence, medical care, education, and missions" ([Foundation Website — About](https://e91foundation.org/about-us/))
+4. **Foundation ethos:** "Plowing new ground for a greater harvest for the Kingdom of God" ([Foundation Website — About](https://e91foundation.org/about-us/))
+5. **Organizational character:** "Faith and community to create better impact on the ministries" donors care about ([Foundation Website](https://e91foundation.org/))
+6. **Non-support:** Does NOT fund "operating expenses of existing ministries" ([Foundation Website — FAQ](https://e91foundation.org/contact-us/faq/))
 
 ---
 

@@ -7,11 +7,11 @@
 ## Trust Administrator
 
 ### Cheryl Cole — Administrator / Contact
-- **Background:** Professional trust administrator for the Harry J. Lloyd Charitable Trust. She is publicly identified as the primary contact for grant inquiries — an unusual level of transparency for a foundation in this research set.
-- **Email:** LTrust@LTrust.org
-- **Phone:** 913-851-2174
+- **Background:** Professional trust administrator for the Harry J. Lloyd Charitable Trust. She is publicly identified as the primary contact for grant inquiries — an unusual level of transparency for a foundation in this research set. ([The Grantsmanship Center](https://www.tgci.com/funder/harry-j-lloyd-charitable-trust))
+- **Email:** LTrust@LTrust.org ([The Grantsmanship Center](https://www.tgci.com/funder/harry-j-lloyd-charitable-trust))
+- **Phone:** 913-851-2174 ([The Grantsmanship Center](https://www.tgci.com/funder/harry-j-lloyd-charitable-trust))
 - **Fax:** 913-851-4892
-- **Address:** 7200 West 132nd Street, Suite 190, Overland Park, Kansas 66213
+- **Address:** 7200 West 132nd Street, Suite 190, Overland Park, Kansas 66213 ([The Grantsmanship Center](https://www.tgci.com/funder/harry-j-lloyd-charitable-trust))
 - **LinkedIn:** Not confirmed — search "Cheryl Cole LTrust" or "Cheryl Cole Overland Park"
 - **Notes for engagement:** Cheryl Cole is the correct first point of contact for any grant inquiry. She manages the application process (such as it is — a 3-page summary, no formal deadline). A direct, professional email to Cheryl is the right approach once active grantmaking is confirmed.
 
@@ -21,7 +21,7 @@
 
 ## Board / Trustees (from 990 — requires download to confirm current)
 
-The Harry J. Lloyd Charitable Trust was established in 1997 upon the death of Harry J. Lloyd. The trust's governance likely includes:
+The Harry J. Lloyd Charitable Trust was established in 1997 upon the death of Harry J. Lloyd ([Wikipedia](https://en.wikipedia.org/wiki/Harry_J._Lloyd)). The trust's governance likely includes:
 - Professional trustees (bank trust department or trust company, given Overland Park, KS location and professional admin structure)
 - Possibly a Christian advisory committee for grant decisions given the mission-driven mandate
 

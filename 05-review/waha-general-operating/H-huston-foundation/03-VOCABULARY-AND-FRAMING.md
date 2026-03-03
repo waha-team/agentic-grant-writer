@@ -53,11 +53,11 @@ From their website, annual report, and requirements documents:
 
 ## Their Stated Values (verbatim from website/annual report)
 
-1. "The primary interest of the Foundation is in funding ministries that have a strong Protestant, Christ-centered, Biblical-based foundation with an effective prayer ministry and unique calling by the Holy Spirit to promote evangelism and discipleship around the world."
-2. "Ministries which subscribe to the building up of the Body of Christ with a deep commitment to and dependence upon the leading of the Holy Spirit to promote strong integrated programs and projects where the Biblical claims of Christ are presented side by side with any ministry involved."
-3. "By providing funds, technical assistance, collaboration, and networking on behalf of not-for-profit organizations, the Directors of the Foundation seek to encourage individual and Christ-centered development, which promotes personal evangelism and discipleship."
-4. "Support organizations whose activities serve to spread the Gospel of Jesus Christ nationally and internationally and whose beliefs are contingent upon the books of the Old and New Testament."
-5. "Each proposal must show an active presentation of the Gospel of Jesus Christ — (the Bible) with opportunities to receive Christ as their personal savior."
+1. "The primary interest of the Foundation is in funding ministries that have a strong Protestant, Christ-centered, Biblical-based foundation with an effective prayer ministry and unique calling by the Holy Spirit to promote evangelism and discipleship around the world." ([Foundation Website — Mission](https://www.hustonfoundation.org/mission.cfm))
+2. "Ministries which subscribe to the building up of the Body of Christ with a deep commitment to and dependence upon the leading of the Holy Spirit to promote strong integrated programs and projects where the Biblical claims of Christ are presented side by side with any ministry involved." ([Foundation Website — Mission](https://www.hustonfoundation.org/mission.cfm))
+3. "By providing funds, technical assistance, collaboration, and networking on behalf of not-for-profit organizations, the Directors of the Foundation seek to encourage individual and Christ-centered development, which promotes personal evangelism and discipleship." ([Foundation Website — Mission](https://www.hustonfoundation.org/mission.cfm))
+4. "Support organizations whose activities serve to spread the Gospel of Jesus Christ nationally and internationally and whose beliefs are contingent upon the books of the Old and New Testament." ([Foundation Website — Requirements](https://www.hustonfoundation.org/requirements.cfm))
+5. "Each proposal must show an active presentation of the Gospel of Jesus Christ — (the Bible) with opportunities to receive Christ as their personal savior." ([Foundation Website — Requirements](https://www.hustonfoundation.org/requirements.cfm))
 
 ---
 
@@ -89,10 +89,10 @@ From their website, annual report, and requirements documents:
 
 ## Specific Grants They've Made That Relate to Us
 
-- **Biblica, Inc.** — $25,000 (2023) for Reach4Life Project — Similar because: Biblica does international Scripture translation and access; Reach4Life delivers Scripture to young people in Africa. Waha is Biblica's delivery platform for audio DBS curriculum. We are literally partners.
-- **Heavenworks** — $25,000 total (2023) for French-Speaking World Outreach — Similar because: targeted language-specific Gospel outreach to a specific cultural/linguistic population. Waha's language-by-language approach is the same model.
-- **Inner-City Movement** — $10,000 for "Family Devotions with ActorsBible" — Similar because: audio-based Bible engagement format (ActorsBible is dramatized audio Scripture) delivered to community groups. Waha's audio-first format serves the same need.
-- **Forge Leadership Network** — $20,000 for general operating support — Similar because: demonstrates willingness to fund general operating for a discipleship/leadership organization outside Pennsylvania. This is a direct precedent for Waha's ask.
+- **Biblica, Inc.** — $25,000 (2023) for Reach4Life Project ([Huston Foundation 2023 Annual Report](https://www.hustonfoundation.org/uploads/hus_ar_2023.pdf)) — Similar because: Biblica does international Scripture translation and access; Reach4Life delivers Scripture to young people in Africa ([Biblica Reach4Life](https://www.biblica.com/reach4life/)). Waha is Biblica's delivery platform for audio DBS curriculum. We are literally partners.
+- **Heavenworks** — $25,000 total (2023) for French-Speaking World Outreach ([Huston Foundation 2023 Annual Report](https://www.hustonfoundation.org/uploads/hus_ar_2023.pdf)) — Similar because: targeted language-specific Gospel outreach to a specific cultural/linguistic population. Waha's language-by-language approach is the same model.
+- **Inner-City Movement** — $10,000 for "Family Devotions with ActorsBible" ([Huston Foundation 2023 Annual Report](https://www.hustonfoundation.org/uploads/hus_ar_2023.pdf)) — Similar because: audio-based Bible engagement format (ActorsBible is dramatized audio Scripture) delivered to community groups. Waha's audio-first format serves the same need.
+- **Forge Leadership Network** — $20,000 for general operating support ([Huston Foundation 2023 Annual Report](https://www.hustonfoundation.org/uploads/hus_ar_2023.pdf)) — Similar because: demonstrates willingness to fund general operating for a discipleship/leadership organization outside Pennsylvania. This is a direct precedent for Waha's ask.
 
 ---
 

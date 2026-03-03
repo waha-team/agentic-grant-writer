@@ -34,7 +34,7 @@
 
 ---
 
-## Their Stated Values (verbatim from website)
+## Their Stated Values (verbatim from website) ([Foundation Website](https://solvingtheworldsgreatestproblems.org/bible-access-fund/))
 
 1. "Lift up the problem solvers, like the Close the Bible Gap Alliance, standing in the gap between translation and transformation."
 2. "Innovation, righteous risk, and collaboration."

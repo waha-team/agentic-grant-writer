@@ -7,21 +7,21 @@
 
 ## Giving Overview
 
-- **Total charitable disbursements:** $154.9 million (FY2024) / $162.5 million (FY2023)
-- **Number of grants per year:** ~402 awards (2023 cycle)
+- **Total charitable disbursements:** $154.9 million (FY2024) / $162.5 million (FY2023) ([ProPublica 990, 2024](https://projects.propublica.org/nonprofits/organizations/621322826))
+- **Number of grants per year:** ~402 awards (2023 cycle) ([ProPublica 990, 2024](https://projects.propublica.org/nonprofits/organizations/621322826))
 - **Median grant size (estimated):** $150,000–$300,000
 - **Average grant size (estimated):** $385,000–$400,000
 - **Grant range:** $50,000 (small exploratory grants) to $2,000,000+ (flagship research projects)
 - **Most common grant size bracket:** $100,000 – $500,000
-- **Total assets:** $3.6 billion (FY2024), making this one of the largest private foundations in the United States
+- **Total assets:** $3.6 billion (FY2024), making this one of the largest private foundations in the United States ([ProPublica 990, 2024](https://projects.propublica.org/nonprofits/organizations/621322826))
 
-**Revenue sources (FY2024):**
+**Revenue sources (FY2024):** ([ProPublica 990, 2024](https://projects.propublica.org/nonprofits/organizations/621322826))
 - Sales of assets: $221.8 million (primary)
 - Dividends: $65.9 million
 - Contributions: $2.1 million
 - Interest: $535,000
 
-**Historical trend:** Assets have grown from $2.3B (2011) to $3.6B (2024), with annual disbursements ranging from $87M to $210M. The foundation has been stable and growing.
+**Historical trend:** Assets have grown from $2.3B (2011) to $3.6B (2024), with annual disbursements ranging from $87M to $210M. The foundation has been stable and growing. ([ProPublica 990, 2024](https://projects.propublica.org/nonprofits/organizations/621322826))
 
 ---
 
@@ -30,7 +30,7 @@
 - **Do they give to new organizations?** Yes — the OFI process is specifically designed to receive unsolicited inquiries from first-time applicants. The foundation explicitly accepts proposals from organizations they have not funded before.
 - **Typical first-time grant amount:** $150,000–$300,000 (based on their typical range — Templeton does not appear to have a "small first grant" pattern; they fund projects at their true cost)
 - **Do first-time grantees grow over time?** Yes — many academic institutions and research nonprofits receive multiple grants across different funding areas and years. Templeton is known for long-term relationships with productive research partners.
-- **Core/repeat grantees:** Major research universities (University of Chicago, Harvard Divinity School, Baylor University's Institute for Studies of Religion), think tanks (Ethics and Public Policy Center), and established religious research organizations.
+- **Core/repeat grantees:** Major research universities (University of Chicago, Harvard Divinity School, Baylor University's Institute for Studies of Religion ([Baylor University](https://news.web.baylor.edu/news/story/2022/baylor-researchers-receive-25-million-grant-john-templeton-foundation-illuminate))), think tanks (Ethics and Public Policy Center), and established religious research organizations.
 
 ---
 
@@ -62,10 +62,10 @@
 **Religion and Technology:**
 - Projects studying how digital media affects religious practice and spiritual formation
 - Research on social media and religious identity
-- "Cultivating Character in the Digital Age" — multiple grants to organizations studying how youth use technology and how faith communities can cultivate virtue in digital environments
+- "Cultivating Character in the Digital Age" — multiple grants to organizations studying how youth use technology and how faith communities can cultivate virtue in digital environments ([Foundation Website](https://www.templeton.org/news/announcing-8m-in-new-projects-to-cultivate-character-in-the-digital-age))
 
 **Religion and the Global South:**
-- Research on rapid church growth in Sub-Saharan Africa (Baylor ISR, Pew Research collaboration)
+- Research on rapid church growth in Sub-Saharan Africa (Baylor ISR ([Baylor University](https://www.baylorisr.org/programs-research/)), Pew Research collaboration)
 - Studies of religious innovation in contexts of persecution (China, Middle East)
 - Research on how indigenous religious practices affect health and community outcomes
 
@@ -101,5 +101,7 @@
 | Leigh Cameron | Trustee / Chairperson | $33,200 |
 | John H. Templeton | Trustee | $32,200 |
 | Lauren Templeton | Trustee / Chairperson | $32,200 |
+
+([ProPublica 990, 2024](https://projects.propublica.org/nonprofits/organizations/621322826))
 
 **Key contact for grant inquiries:** Program Officers (not listed in 990; identified by funding area on templeton.org). The Religion, Science, and Society program area would have a dedicated program officer reviewing OFIs in that space.

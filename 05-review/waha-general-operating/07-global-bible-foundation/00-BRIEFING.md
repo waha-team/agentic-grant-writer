@@ -9,7 +9,7 @@
 - **Full legal name:** Global Bible Foundation (exact legal name unconfirmed — likely "Global Bible Foundation Inc." or similar)
 - **EIN:** Not found in public databases (ProPublica, GuideStar, CauseIQ). Organization is a registered 501(c)(3) but may be too new or too small to appear in searchable databases.
 - **Website:** https://www.globalbiblefoundation.org/
-- **Location:** PO Box 140723, Nashville, TN 37214
+- **Location:** PO Box 140723, Nashville, TN 37214 ([Foundation Website](https://www.globalbiblefoundation.org/))
 - **Year established:** Unknown — appears to be a relatively new/small organization
 - **Type:** Pass-through grantmaking foundation / giving vehicle (not a traditional private foundation with endowment)
 
@@ -17,20 +17,20 @@
 
 ## Mission & Priorities (IN THEIR OWN WORDS)
 
-"Spiritual transformation begins with access to God's Word. Our mission is to fuel this transformation by offering financial support and resources to ministries dedicated to Bible distribution, engagement, and discipleship worldwide."
+"Spiritual transformation begins with access to God's Word. Our mission is to fuel this transformation by offering financial support and resources to ministries dedicated to Bible distribution, engagement, and discipleship worldwide." ([Foundation Website](https://www.globalbiblefoundation.org/))
 
-"We bridge the funding gap between donors and organizations worldwide needing resources for Bible distribution, engagement, and discipleship. Whether through grants or direct purchases of Bibles and discipleship materials, we equip ministries on the frontlines of Bible engagement, from remote villages to bustling cities, to share God's Word and nurture deeper faith in communities worldwide."
+"We bridge the funding gap between donors and organizations worldwide needing resources for Bible distribution, engagement, and discipleship. Whether through grants or direct purchases of Bibles and discipleship materials, we equip ministries on the frontlines of Bible engagement, from remote villages to bustling cities, to share God's Word and nurture deeper faith in communities worldwide." ([Foundation Website](https://www.globalbiblefoundation.org/))
 
-**Financial transparency claim:** "94% of your donation will go directly to resource partner organizations worldwide. Only 6% is used for processing fees and admin expenses."
+**Financial transparency claim:** "94% of your donation will go directly to resource partner organizations worldwide. Only 6% is used for processing fees and admin expenses." ([Foundation Website](https://www.globalbiblefoundation.org/))
 
 ---
 
 ## What They Actually Fund (from research)
 
-**Current ministry partners (as of 2026-03-03):**
-1. **All In Ministries International** (allinmin.org) — Equips women as disciple-makers across denominations worldwide
-2. **Oasis International** (oasisinternational.com) — Creates and distributes contextualized Bibles and resources for Africa; publisher of the Africa Study Bible
-3. **WordSpread** (wordspread.co) — Trains Christians in evangelism and discipleship across Africa
+**Current ministry partners (as of 2026-03-03):** ([Foundation Website — Ministry Partners](https://www.globalbiblefoundation.org/ministry-partners))
+1. **All In Ministries International** (allinmin.org) — Equips women as disciple-makers across denominations worldwide ([All In Ministries International](https://allinmin.org/about/))
+2. **Oasis International** (oasisinternational.com) — Creates and distributes contextualized Bibles and resources for Africa; publisher of the Africa Study Bible ([Oasis International](https://oasisinternational.com/))
+3. **WordSpread** (wordspread.co) — Trains Christians in evangelism and discipleship across Africa ([WordSpread](https://www.wordspread.co/about-us/))
 
 **Observation:** The current partner portfolio is small (3 organizations), Africa-heavy, and focused on Bible distribution and discipleship training. There is no evidence of app/technology grants, audio Bible grants, or digital discipleship platform support. The giving model appears to be direct Bibles and discipleship materials rather than organizational operating support.
 

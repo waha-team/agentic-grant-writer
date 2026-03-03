@@ -11,13 +11,13 @@
 - **Full legal name:** Finishing Fund Management Inc
 - **EIN:** 82-2745658
 - **Website:** https://www.globalfrontiermissions.org/unreached-people-group-fund (hosted through GFM)
-- **Location:** 8902 Coltsfoot Trace, Prospect, KY 40059
-- **Year established:** 2017 (based on earliest 990 filings)
+- **Location:** 8902 Coltsfoot Trace, Prospect, KY 40059 ([ProPublica 990, 2022](https://projects.propublica.org/nonprofits/organizations/822745658))
+- **Year established:** 2017 (based on earliest 990 filings) ([ProPublica 990, 2022](https://projects.propublica.org/nonprofits/organizations/822745658))
 - **Type:** Private foundation / fund management vehicle
 
 ## Mission & Priorities (IN THEIR OWN WORDS)
 
-From Global Frontier Missions website:
+From Global Frontier Missions website ([Foundation Website](https://www.globalfrontiermissions.org/unreached-people-group-fund)):
 > "The Finishing Fund exists to make disciples of every nation by assembling kingdom investors to fund the engagement of the world's remaining unengaged, unreached people groups with the Gospel."
 
 > "The Finishing Fund has partnered with Global Frontier Missions to raise awareness and process donations for projects and indigenous missionaries serving among unengaged, unreached people groups (UUPGs)."
@@ -26,25 +26,25 @@ Focus areas:
 - Sending missionaries (indigenous and cross-cultural) to unengaged, unreached people groups (UUPGs)
 - Funding projects in nations where UUPGs remain
 - The "Finishing Task" — completing the Great Commission's final mile
-- Partnership with "40+ projects in 50+ countries impacting hundreds of UUPGs"
+- Partnership with "40+ projects in 50+ countries impacting hundreds of UUPGs" ([Foundation Website](https://www.globalfrontiermissions.org/unreached-people-group-fund))
 
 ## What They Actually Fund (from 990 analysis)
 
 Based on ProPublica (EIN 82-2745658) and CauseIQ data:
-- **2023 grants total:** Not yet confirmed from 990; 2023 filing added August 2024 — "26 awards in 2023"
-- **2022 grants:** $2,433,386 to 25 partners
-- **Total since founding:** $5.4M+ to ministry partners (per prior year research)
-- **Grant range (2022):** $5,871 – $824,385 (wide spread — small field projects to major ministry partners)
-- **Grantees:** Indigenous and cross-cultural mission organizations deploying to unengaged people groups. Grants described as "sending missionaries to people groups and villages who have never received the gospel before."
+- **2023 grants total:** Not yet confirmed from 990; 2023 filing added August 2024 — "26 awards in 2023" ([ProPublica 990, 2023](https://projects.propublica.org/nonprofits/organizations/822745658))
+- **2022 grants:** $2,433,386 to 25 partners ([ProPublica 990, 2022](https://projects.propublica.org/nonprofits/organizations/822745658))
+- **Total since founding:** $5.4M+ to ministry partners (per prior year research) ([Cause IQ](https://www.causeiq.com/organizations/finishing-fund-management,822745658/))
+- **Grant range (2022):** $5,871 – $824,385 (wide spread — small field projects to major ministry partners) ([ProPublica 990, 2022](https://projects.propublica.org/nonprofits/organizations/822745658))
+- **Grantees:** Indigenous and cross-cultural mission organizations deploying to unengaged people groups. Grants described as "sending missionaries to people groups and villages who have never received the gospel before." ([ProPublica 990, 2022](https://projects.propublica.org/nonprofits/organizations/822745658))
 - **Grant structure:** No public application. Partners are introduced through GFM and missions network relationships.
 
 ## History & Context
 
 The Finishing Fund was established as a fund vehicle for high-impact giving to the "Finishing the Task" movement — the evangelical coalition focused on ensuring every remaining unengaged unreached people group (UUPG) has at least one gospel witness. Finishing the Task estimates ~189 UUPGs with 5.7M+ people still with no evangelical witness.
 
-The fund operates through Global Frontier Missions, which serves as the awareness and intake arm. GFM is a well-regarded short-term and career missions training organization (MinistryWatch rated). The fund itself (Finishing Fund Management Inc) is the 501(c)(3) entity.
+The fund operates through Global Frontier Missions, which serves as the awareness and intake arm. GFM is a well-regarded short-term and career missions training organization (MinistryWatch rated) ([Foundation Website](https://www.globalfrontiermissions.org/unreached-people-group-fund)). The fund itself (Finishing Fund Management Inc) is the 501(c)(3) entity.
 
-The NCF (National Christian Foundation) connection: The fund appears to operate within or alongside the NCF ecosystem, which is the largest Christian DAF platform in the country. This connection broadens the donor base and provides infrastructure.
+The NCF (National Christian Foundation) connection: The fund appears to operate within or alongside the NCF ecosystem, which is the largest Christian DAF platform in the country ([NCF Article](https://www.ncfgiving.com/stories/the-finishing-fund/)). This connection broadens the donor base and provides infrastructure.
 
 **CRM note:** Waha's CRM shows email interactions with The Finishing Fund beginning December 3, 2025, with the most recent interaction on February 2, 2026. The CRM description notes "GACX connection." This is an active, not cold, relationship. The exact nature of these interactions is not captured in notes, but the email history suggests Waha has already initiated contact.
 

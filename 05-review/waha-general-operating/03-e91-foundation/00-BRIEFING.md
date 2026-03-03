@@ -9,33 +9,37 @@
 - **Full legal name:** E91 Foundation (East 91st Street Christian Church Foundation)
 - **EIN:** Research needed — not found on ProPublica. The foundation is registered as a private foundation by the IRS in Indiana. [JOSH: Confirm EIN if needed for application — contact mail@e91foundation.org]
 - **Website:** https://e91foundation.org/
-- **Location:** 6049 E 91st Street, Indianapolis, IN 46250
+- **Location:** 6049 E 91st Street, Indianapolis, IN 46250 ([Foundation Website — About](https://e91foundation.org/about-us/))
 - **Phone:** 317-849-1261
 - **Email:** mail@e91foundation.org
-- **Year established:** 1994
-- **Type:** Private foundation (chartered as nonprofit in Indiana, registered as private foundation with IRS)
-- **Connection:** Legally independent from East 91st Street Christian Church (E91 Church), though historically connected
+- **Year established:** 1994 ([Foundation Website — About](https://e91foundation.org/about-us/))
+- **Type:** Private foundation (chartered as nonprofit in Indiana, registered as private foundation with IRS) ([Foundation Website — About](https://e91foundation.org/about-us/))
+- **Connection:** Legally independent from East 91st Street Christian Church (E91 Church), though historically connected ([Foundation Website — About](https://e91foundation.org/about-us/))
 
 ---
 
 ## Mission & Priorities (IN THEIR OWN WORDS)
 
-**Purpose statement:** "Plowing new ground for a greater harvest for the Kingdom of God."
+**Purpose statement:** "Plowing new ground for a greater harvest for the Kingdom of God." ([Foundation Website — About](https://e91foundation.org/about-us/))
 
-**Grant focus (verbatim from website):** "Grants are directed primarily to local Christian organizations for new and expanding ministries in the field of evangelism, church planting, benevolence, medical care, education, and missions."
+**Grant focus (verbatim from website):** "Grants are directed primarily to local Christian organizations for new and expanding ministries in the field of evangelism, church planting, benevolence, medical care, education, and missions." ([Foundation Website — About](https://e91foundation.org/about-us/))
 
 **Eligibility (verbatim from FAQ):**
 - Must be a 501(c)(3) organization
 - Must "adhere to Christian beliefs and principles" affirming Jesus Christ's divinity and resurrection
 - All recipients must be "tax-exempt Christian organizations"
 
+([Foundation Website — FAQ](https://e91foundation.org/contact-us/faq/))
+
 **Grant objectives (verbatim from FAQ):**
 1. "Assisting the making of disciples" (Matthew 28:18-20)
 2. "Meeting the physical needs of hurting people" (Matthew 25:35-40)
 
-**Key restriction (verbatim from FAQ):** The foundation "concentrates on funding new or expanding ministries rather than operating expenses of established organizations."
+([Foundation Website — FAQ](https://e91foundation.org/contact-us/faq/))
 
-**Grant size (verbatim):** "Our grants generally are $5,000, although we do make smaller and larger grants."
+**Key restriction (verbatim from FAQ):** The foundation "concentrates on funding new or expanding ministries rather than operating expenses of established organizations." ([Foundation Website — FAQ](https://e91foundation.org/contact-us/faq/))
+
+**Grant size (verbatim):** "Our grants generally are $5,000, although we do make smaller and larger grants." ([Foundation Website — FAQ](https://e91foundation.org/contact-us/faq/))
 
 ---
 
@@ -43,7 +47,7 @@
 
 E91 does not publish comprehensive 990 data, but quarterly grant reports on their website provide strong insight into actual grantmaking patterns.
 
-**Q1 2025 grants ($70,908 total across 11 grants):**
+**Q1 2025 grants ($70,908 total across 11 grants):** ([Foundation Website — Q1 2025 Update](https://e91foundation.org/portfolio-posts/2025-first-quarter-update/))
 - Alexander Christian Foundation — $20,000 (college scholarships for Indiana ministry students)
 - Allendale Christian Camp — $8,194 (youth programs)
 - Polish Christian Ministries — $8,194 (pastor salaries, construction, music school, Ukrainian refugee support)
@@ -54,7 +58,7 @@ E91 does not publish comprehensive 990 data, but quarterly grant reports on thei
 - Christian Missionary Fellowship — $3,000 (Scotland campus ministry)
 - E91 Church — multiple (internal)
 
-**Q3 2024 grants ($110,076 total across 17 grants):**
+**Q3 2024 grants ($110,076 total across 17 grants):** ([Foundation Website — Q3 2024 Update](https://e91foundation.org/portfolio-posts/2024-third-quarter-update/))
 - **Afterbeat — $5,000 (school evangelism in The Netherlands)** ← Most relevant
 - Allendale Christian Camp — $8,788 (youth programs)
 - **Cru/Campus Crusade for Christ — $5,000 (development of 18 Nepali ministry leaders)** ← Waha partner
@@ -65,7 +69,7 @@ E91 does not publish comprehensive 990 data, but quarterly grant reports on thei
 - **Covenant Connections — $5,000 (publishing ministry resources for African/Pakistani leaders)** ← Language-adjacent
 - Polish Christian Ministries — $8,788 (ongoing support)
 
-**Q1 2024 grants ($82,076 total):**
+**Q1 2024 grants ($82,076 total):** ([Foundation Website — Q1 2024 Update](https://e91foundation.org/portfolio-posts/2024-first-quarter-update/))
 - **Afterbeat/Capstone Legacy Foundation — $5,000 (school evangelism projects in Netherlands)** ← Recurring
 - **Christian Missionary Fellowship International — $2,500 (sports field at new Kenya Discipleship Camp)** ← New/expanding
 - **Cru/Campus Crusade for Christ/Keith Spence — $5,000 (development of 18 Nepali ministry leaders)** ← New training initiative
@@ -85,15 +89,15 @@ E91 does not publish comprehensive 990 data, but quarterly grant reports on thei
 
 ## History & Context
 
-The E91 Foundation was established in 1994 by East 91st Street Christian Church in Indianapolis, Indiana, as an independent trust fund. The founders wanted to "grow a deeper understanding of faith-based giving" and encourage charitable contributions to new and expanding Christian ministries beyond regular church tithing.
+The E91 Foundation was established in 1994 by East 91st Street Christian Church in Indianapolis, Indiana, as an independent trust fund. ([Foundation Website — About](https://e91foundation.org/about-us/)) The founders wanted to "grow a deeper understanding of faith-based giving" and encourage charitable contributions to new and expanding Christian ministries beyond regular church tithing.
 
-The church and foundation remain complementary: the foundation allows congregants to support missions and ministries globally, while the church focuses on local community. The foundation operates with a small board of approximately 10 people, led by Co-Presidents Blair and Beth Austin.
+The church and foundation remain complementary: the foundation allows congregants to support missions and ministries globally, while the church focuses on local community. The foundation operates with a small board of approximately 10 people, led by Co-Presidents Blair and Beth Austin. ([Foundation Website — Our Board](https://e91foundation.org/about-us/our-board/))
 
 **The name:** "E91" comes from "East 91st Street" — the location of the founding church. Despite the geographic name, the foundation funds ministries in 60+ countries.
 
-**Scale:** Since 1994, E91 has granted over $2 million to 300+ evangelical nonprofit ministries in Indianapolis and across the world. This is a small but active foundation with approximately $3 million in endowment.
+**Scale:** Since 1994, E91 has granted over $2 million to 300+ evangelical nonprofit ministries in Indianapolis and across the world. This is a small but active foundation with approximately $3 million in endowment. ([Foundation Website — Impact](https://e91foundation.org/impact/))
 
-**Grant cycle:** Rolling — no fixed deadlines. LOI reviewed on a continuous basis. Prior grantees (within 1 year) can submit updates instead of new LOIs; those funded more than 1 year ago restart the LOI process.
+**Grant cycle:** Rolling — no fixed deadlines. LOI reviewed on a continuous basis. Prior grantees (within 1 year) can submit updates instead of new LOIs; those funded more than 1 year ago restart the LOI process. ([Foundation Website — FAQ](https://e91foundation.org/contact-us/faq/))
 
 ---
 
@@ -122,4 +126,4 @@ E91 explicitly does NOT fund operating expenses of established organizations. Do
 
 4. **Indianapolis/local focus:** While E91 clearly funds international work, the "primarily to local Christian organizations" language suggests they may prioritize Indiana-based applicants. Waha is WA-based. Mitigate by emphasizing international scope of the work being funded.
 
-5. **Multi-year grants rare:** "Multi-year grants are made occasionally, but not very often." Don't expect a multi-year relationship from this funder. Frame as a one-time grant for a specific new initiative.
+5. **Multi-year grants rare:** "Multi-year grants are made occasionally, but not very often." ([Foundation Website — FAQ](https://e91foundation.org/contact-us/faq/)) Don't expect a multi-year relationship from this funder. Frame as a one-time grant for a specific new initiative.

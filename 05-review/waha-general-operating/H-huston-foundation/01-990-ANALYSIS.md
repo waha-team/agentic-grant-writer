@@ -7,31 +7,31 @@
 
 ## Giving Overview
 
-- **Total grants (2023):** $831,000 across 90 grants
-- **Total grants (2022):** $1,115,500 across 120 grants
-- **Evangelical grants (2023):** $602,000 across 58 grants
-- **Evangelical grants (2022):** $578,500 across 39 grants
-- **Secular grants (2023):** $229,000 across 32 grants
-- **Secular grants (2022):** $537,000 across 81 grants
-- **Total assets (2023):** $25,236,297
-- **Historical giving range (2011–2024):** $1.23M–$2.43M charitable disbursements per year
-- **2024 giving:** $890,000 (from Instrumentl data)
-- **Median grant size (2023, all):** ~$9,233
-- **Average evangelical grant (2023):** $10,379
-- **Average secular grant (2023):** $7,387
-- **Grant range (2023):** $500 – $72,500
-- **Most common grant bracket:** $4,000–$10,000 (evangelical); $3,000–$10,000 (secular)
-- **Largest evangelical grant (2023):** $72,500 (Capstone Legacy Foundation — Nancy Hansen's organization)
-- **Largest international/missions grant:** $25,000 (Biblica for Reach4Life)
+- **Total grants (2023):** $831,000 across 90 grants ([Huston Foundation 2023 Annual Report](https://www.hustonfoundation.org/uploads/hus_ar_2023.pdf))
+- **Total grants (2022):** $1,115,500 across 120 grants ([Huston Foundation 2023 Annual Report](https://www.hustonfoundation.org/uploads/hus_ar_2023.pdf))
+- **Evangelical grants (2023):** $602,000 across 58 grants ([Huston Foundation 2023 Annual Report](https://www.hustonfoundation.org/uploads/hus_ar_2023.pdf))
+- **Evangelical grants (2022):** $578,500 across 39 grants ([Huston Foundation 2023 Annual Report](https://www.hustonfoundation.org/uploads/hus_ar_2023.pdf))
+- **Secular grants (2023):** $229,000 across 32 grants ([Huston Foundation 2023 Annual Report](https://www.hustonfoundation.org/uploads/hus_ar_2023.pdf))
+- **Secular grants (2022):** $537,000 across 81 grants ([Huston Foundation 2023 Annual Report](https://www.hustonfoundation.org/uploads/hus_ar_2023.pdf))
+- **Total assets (2023):** $25,236,297 ([ProPublica 990, 2023](https://projects.propublica.org/nonprofits/organizations/236284125))
+- **Historical giving range (2011–2024):** $1.23M–$2.43M charitable disbursements per year ([Instrumentl 990 Report](https://www.instrumentl.com/990-report/huston-foundation-61c15d4a-ddbe-4d5b-825c-e1e8decfb422))
+- **2024 giving:** $890,000 ([Instrumentl 990 Report](https://www.instrumentl.com/990-report/huston-foundation-61c15d4a-ddbe-4d5b-825c-e1e8decfb422))
+- **Median grant size (2023, all):** ~$9,233 ([Huston Foundation 2023 Annual Report](https://www.hustonfoundation.org/uploads/hus_ar_2023.pdf))
+- **Average evangelical grant (2023):** $10,379 ([Huston Foundation 2023 Annual Report](https://www.hustonfoundation.org/uploads/hus_ar_2023.pdf))
+- **Average secular grant (2023):** $7,387 ([Huston Foundation 2023 Annual Report](https://www.hustonfoundation.org/uploads/hus_ar_2023.pdf))
+- **Grant range (2023):** $500 – $72,500 ([Huston Foundation 2023 Annual Report](https://www.hustonfoundation.org/uploads/hus_ar_2023.pdf))
+- **Most common grant bracket:** $4,000–$10,000 (evangelical); $3,000–$10,000 (secular) ([Huston Foundation 2023 Annual Report](https://www.hustonfoundation.org/uploads/hus_ar_2023.pdf))
+- **Largest evangelical grant (2023):** $72,500 (Capstone Legacy Foundation — Nancy Hansen's organization) ([Huston Foundation 2023 Annual Report](https://www.hustonfoundation.org/uploads/hus_ar_2023.pdf))
+- **Largest international/missions grant:** $25,000 (Biblica for Reach4Life) ([Huston Foundation 2023 Annual Report](https://www.hustonfoundation.org/uploads/hus_ar_2023.pdf))
 
 ---
 
 ## First-Time vs. Repeat Grantee Analysis
 
-- **Do they give to new organizations?** Yes — the annual report shows diverse grantees; many appear in specific years only
+- **Do they give to new organizations?** Yes — the annual report shows diverse grantees; many appear in specific years only ([Huston Foundation 2023 Annual Report](https://www.hustonfoundation.org/uploads/hus_ar_2023.pdf))
 - **Typical first-time grant amount:** $3,000–$10,000 based on pattern (smaller grants cluster at this level for new grantees)
-- **Repeat grantee pattern:** Capstone Legacy Foundation ($125,000 in 2023 — two grants) is the most extreme repeat recipient (Nancy Huston Hansen is its founder and president); The Graystone Society and Jamestown-Yorktown Foundation received multiple grants in the same year
-- **Core/repeat grantees:** Capstone Legacy Foundation (Nancy's own organization), local Chester County organizations, The Graystone Society
+- **Repeat grantee pattern:** Capstone Legacy Foundation ($125,000 in 2023 — two grants) is the most extreme repeat recipient (Nancy Huston Hansen is its founder and president ([Capstone Legacy Foundation Staff](https://capstonelegacy.org/staff/))); The Graystone Society and Jamestown-Yorktown Foundation received multiple grants in the same year ([Huston Foundation 2023 Annual Report](https://www.hustonfoundation.org/uploads/hus_ar_2023.pdf))
+- **Core/repeat grantees:** Capstone Legacy Foundation (Nancy's own organization), local Chester County organizations, The Graystone Society ([Huston Foundation 2023 Annual Report](https://www.hustonfoundation.org/uploads/hus_ar_2023.pdf))
 
 **Key insight:** The board has discretion to modify grant amounts. A first-time ask at $10,000–$15,000 is appropriate for an international discipleship/missions organization. Biblica's $25,000 is an aspirational comp for a stronger relationship.
 
@@ -121,11 +121,13 @@
 |---|---|---|
 | Elinor Huston Lashley | Chair of the Board | Williamsburg, VA |
 | Nancy Huston Hansen | President and CEO; President of Evangelical Relations | Malvern, PA |
-| Charles L. Huston, III | Vice President; Community Relations *(deceased January 2025)* | Chester Springs, PA |
+| Charles L. Huston, III | Vice President; Community Relations *(deceased January 2025)* ([Wilde Funeral Home Obituary](https://www.wildefuneralhome.com/obituaries/charles-l-skip-huston-iii)) | Chester Springs, PA |
 | Scott G. Huston | Treasurer; Community Relations | Berwyn, PA |
 | Rebecca H. Mathews | Corporate Secretary | Melrose, MA |
 | Christianna S.J. DeWind | Director | Del Mar (formerly Carbondale, CO) |
 | Robert S. Huston | Director | Phoenixville, PA |
 | Patricia A. Jones | Assistant Corporate Secretary (staff) | East Norriton, PA |
+
+*([Huston Foundation 2023 Annual Report](https://www.hustonfoundation.org/uploads/hus_ar_2023.pdf); [Foundation Website — Board](https://www.hustonfoundation.org/board.cfm))*
 
 **Key decision-maker for Evangelical grants:** Nancy Huston Hansen (President of Evangelical Relations) — she is the primary gatekeeper and the person Waha must meet before submitting a LOI.

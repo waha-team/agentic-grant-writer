@@ -14,35 +14,37 @@
 | Field | Value |
 |-------|-------|
 | **Organization** | Engage Global |
-| **EIN** | 46-1112682 |
-| **Type** | 501(c)(3) Public Charity (NOT a private foundation) |
-| **Location** | 1901 14th Ave S 2, Minneapolis, MN 55404 |
+| **EIN** | 46-1112682 ([ProPublica 990, 2024](https://projects.propublica.org/nonprofits/organizations/461112682)) |
+| **Type** | 501(c)(3) Public Charity (NOT a private foundation) ([ProPublica 990, 2024](https://projects.propublica.org/nonprofits/organizations/461112682)) |
+| **Location** | 1901 14th Ave S 2, Minneapolis, MN 55404 ([ProPublica 990, 2024](https://projects.propublica.org/nonprofits/organizations/461112682)) |
 | **Phone** | 612-770-5998 |
 | **Website** | engageglobal.org |
 | **Email** | info@engageglobal.org |
-| **Formation Year** | 2012 |
-| **Financial size** | $1.3M net assets; $295K annual revenue (2024) |
-| **Annual grants** | $66,500–$103,000/year |
+| **Formation Year** | 2012 ([ProPublica 990, 2024](https://projects.propublica.org/nonprofits/organizations/461112682)) |
+| **Financial size** | $1.3M net assets; $295K annual revenue (2024) ([ProPublica 990, 2024](https://projects.propublica.org/nonprofits/organizations/461112682)) |
+| **Annual grants** | $66,500–$103,000/year ([Cause IQ](https://www.causeiq.com/organizations/engage-global-sandra-jensen,461112682/)) |
 
 ## Mission Statement (Their Words)
 
-> "Engage Global exists to be a catalyst for the long term engagement of unreached peoples around the world by leading short term teams and interns through intensive missions discipleship among internationals living in the Twin Cities."
+> "Engage Global exists to be a catalyst for the long term engagement of unreached peoples around the world by leading short term teams and interns through intensive missions discipleship among internationals living in the Twin Cities." ([Cause IQ](https://www.causeiq.com/organizations/engage-global-sandra-jensen,461112682/))
 
-**Five Habits of a Global Christian** (their training framework):
+**Five Habits of a Global Christian** (their training framework) ([Foundation Website](https://engageglobal.org/about/)):
 Pray | Send | Welcome | Mobilize | Go
 
 ## What They Fund
 
-Engage Global is primarily a fee-for-service training organization (68% of revenue from program fees), but they DO make grants — consistently $66,500–$103,000/year to mission organizations:
+Engage Global is primarily a fee-for-service training organization (68% of revenue from program fees) ([ProPublica 990, 2024](https://projects.propublica.org/nonprofits/organizations/461112682)), but they DO make grants — consistently $66,500–$103,000/year to mission organizations ([Cause IQ](https://www.causeiq.com/organizations/engage-global-sandra-jensen,461112682/)):
 
 | Year | Pioneers USA | Global Horizons | Total |
 |------|-------------|-----------------|-------|
 | 2023 | $33,500 | $64,500 | $103,000 |
 | 2022 | $26,600 | $39,900 | $66,500 |
 
-**Grant purpose language from 990:** "Partnering Organizations" — they view grantees as strategic partners, not just recipients.
+([ProPublica 990, 2023](https://projects.propublica.org/nonprofits/organizations/461112682))
 
-**Key insight:** They have funded only 2 organizations for 2+ years. Waha would need to make a compelling case to be added as a third partner. The Pioneers connection (they fund Pioneers $26K–$33K/year) is the most direct path.
+**Grant purpose language from 990:** "Partnering Organizations" — they view grantees as strategic partners, not just recipients. ([ProPublica 990, 2023](https://projects.propublica.org/nonprofits/organizations/461112682))
+
+**Key insight:** They have funded only 2 organizations for 2+ years. Waha would need to make a compelling case to be added as a third partner. The Pioneers connection (they fund Pioneers $26K–$33K/year) ([Cause IQ](https://www.causeiq.com/organizations/engage-global-sandra-jensen,461112682/)) is the most direct path.
 
 ## General Operating Support Framing
 
@@ -57,7 +59,7 @@ Engage Global's entire mission is mobilizing churches to engage unreached people
 - **Mobilize** — Waha's DMC trains churches to mobilize disciple-makers
 - **Go** — DBS equips every believer who goes with a reproducible disciple-making method
 
-Additionally, Pioneers — which Engage Global already funds at $26K–$33K/year — uses Waha's DBS tools globally. A gift to Waha is an investment that multiplies what they're already funding through Pioneers.
+Additionally, Pioneers — which Engage Global already funds at $26K–$33K/year ([Cause IQ](https://www.causeiq.com/organizations/engage-global-sandra-jensen,461112682/)) — uses Waha's DBS tools globally. A gift to Waha is an investment that multiplies what they're already funding through Pioneers.
 
 **Ask: $25,000 for general operations**
 
@@ -65,9 +67,9 @@ Additionally, Pioneers — which Engage Global already funds at $26K–$33K/year
 
 | Name | Role | Contact |
 |------|------|---------|
-| **Tom Jensen** | Executive Director (PRIMARY) | info@engageglobal.org, 612-770-5998 |
-| **Rick Davis** | Founder, Director (HIGH influence) | info@engageglobal.org |
-| **Sandra Jensen** | Treasurer/Secretary | (for financial matters) |
+| **Tom Jensen** | Executive Director (PRIMARY) ([ProPublica 990, 2024](https://projects.propublica.org/nonprofits/organizations/461112682)) | info@engageglobal.org, 612-770-5998 |
+| **Rick Davis** | Founder, Director (HIGH influence) ([Foundation Website](https://engageglobal.org/about/)) | info@engageglobal.org |
+| **Sandra Jensen** | Treasurer/Secretary ([ProPublica 990, 2024](https://projects.propublica.org/nonprofits/organizations/461112682)) | (for financial matters) |
 
 **Approach:** Contact Tom Jensen by email at info@engageglobal.org with a concise 1-page concept note. No formal application portal exists — this is a relationship-based process. Phone follow-up to 612-770-5998 after email.
 

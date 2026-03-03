@@ -16,18 +16,18 @@ Submission is blocked pending a warm introduction through the Pioneers / Ann Bau
 
 - **Full legal name:** Gospel Volunteers, Inc.
 - **Also known as:** Camp of the Woods (COTW)
-- **EIN:** 59-6001191
+- **EIN:** 59-6001191 ([ProPublica 990, 2024](https://projects.propublica.org/nonprofits/organizations/596001191))
 - **Website:** www.camp-of-the-woods.org
-- **Location:** 106 Downey Ave, Speculator, NY 12164
-- **Type:** 501(c)(3) Public Charity (not a private foundation)
-- **ECFA Member:** Yes
-- **Financial position:** $21.2M in assets; $10.1M annual revenue (2024)
+- **Location:** 106 Downey Ave, Speculator, NY 12164 ([ProPublica 990, 2024](https://projects.propublica.org/nonprofits/organizations/596001191))
+- **Type:** 501(c)(3) Public Charity (not a private foundation) ([ProPublica 990, 2024](https://projects.propublica.org/nonprofits/organizations/596001191))
+- **ECFA Member:** Yes — Charter Member since July 1, 1980 ([ECFA Member Profile](https://www.ecfa.org/MemberProfile.aspx?ID=6204))
+- **Financial position:** $21.2M in assets; $10.1M annual revenue (2024) ([ProPublica 990, 2024](https://projects.propublica.org/nonprofits/organizations/596001191))
 
 ## Mission (Their Own Words)
 
-> "The mission of Gospel Volunteers, Inc. is to present the Biblical Truths of Jesus Christ, develop Christian leaders, strengthen the faith of individuals and families, and promote global evangelism."
+> "The mission of Gospel Volunteers, Inc. is to present the Biblical Truths of Jesus Christ, develop Christian leaders, strengthen the faith of individuals and families, and promote global evangelism." ([Foundation Website](https://www.camp-of-the-woods.org/about))
 
-> "The Missions Program advances global evangelism by supporting missionaries and mission projects worldwide."
+> "The Missions Program advances global evangelism by supporting missionaries and mission projects worldwide." ([Foundation Website](https://www.camp-of-the-woods.org/about))
 
 ## What They Fund (2024 990)
 
@@ -40,6 +40,8 @@ Submission is blocked pending a warm introduction through the Pioneers / Ann Bau
 | Unlimited Potential Missions | $10,000 | Christian Missionary |
 | Global Faith Network | $10,000 | Support |
 
+([Cause IQ — Gospel Volunteers](https://www.causeiq.com/organizations/gospel-volunteers,596001191/); [ProPublica 990, 2024](https://projects.propublica.org/nonprofits/organizations/596001191))
+
 **Key pattern:** They fund missionary-sending organizations and discipleship movements. The Timothy Initiative is the clearest parallel to Waha — it uses DBS-style methodology to plant churches.
 
 ## General Operating Support Framing
@@ -48,9 +50,9 @@ The original Castilian Spanish proposal framed Waha's work as a single localizat
 
 **Waha as the infrastructure that makes every organization they already fund more effective.**
 
-- Pioneers USA ($92K/year from COTW) uses Waha's DBS tools globally
-- The Timothy Initiative ($25K/year from COTW) uses DBS methodology that Waha delivers digitally
-- AIM ($15,750/year from COTW) uses DBS in church planting among unreached peoples
+- Pioneers USA ($92K/year from COTW) ([Cause IQ — Gospel Volunteers](https://www.causeiq.com/organizations/gospel-volunteers,596001191/)) uses Waha's DBS tools globally
+- The Timothy Initiative ($25K/year from COTW) ([Cause IQ — Gospel Volunteers](https://www.causeiq.com/organizations/gospel-volunteers,596001191/)) uses DBS methodology that Waha delivers digitally
+- AIM ($15,750/year from COTW) ([Cause IQ — Gospel Volunteers](https://www.causeiq.com/organizations/gospel-volunteers,596001191/)) uses DBS in church planting among unreached peoples
 
 A general operating grant to Waha funds the platform, team, and expansion capacity that makes these partners' DBS-based work possible. COTW isn't being asked to shift its giving philosophy — it's being invited to invest in the tool that multiplies the impact of missionaries they already support.
 
@@ -58,13 +60,13 @@ A general operating grant to Waha funds the platform, team, and expansion capaci
 
 ## Warm Path (Critical — Do Not Bypass)
 
-**Ann Baur** — Sits on the COTW Board of Directors AND is a Pioneers missionary. Pioneers is Waha's most relevant distribution partner and receives $92,000/year from COTW. This is the warmest possible path:
+**Ann Baur** — Sits on the COTW Board of Directors ([Foundation Website — Board of Directors](https://www.camp-of-the-woods.org/board-of-directors)) AND is a Pioneers missionary. Pioneers is Waha's most relevant distribution partner and receives $92,000/year from COTW ([Cause IQ — Gospel Volunteers](https://www.causeiq.com/organizations/gospel-volunteers,596001191/)). This is the warmest possible path:
 
 1. Ask Pioneers leadership to introduce Waha to Ann Baur
 2. Ann introduces Waha to Tim T. (Missions Director) and the Missions Committee
 3. Submit Jotform application after relationship is established
 
-**Primary staff contact:** Tim T., Missions Director — timt@cotw.org
+**Primary staff contact:** Tim T., Missions Director — timt@cotw.org ([Foundation Website — Mission Applications](https://www.camp-of-the-woods.org/mission-applications))
 
 ## CRM Note
 

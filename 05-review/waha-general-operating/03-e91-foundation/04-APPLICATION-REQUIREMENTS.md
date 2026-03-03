@@ -8,7 +8,7 @@
 ## Application Details
 
 - **Type:** Two-step — LOI first (no invitation needed), then full proposal by invitation only
-- **Deadline:** Rolling — no fixed deadlines. "LOI reviewed on a continuous basis."
+- **Deadline:** Rolling — no fixed deadlines. "LOI reviewed on a continuous basis." ([Foundation Website — FAQ](https://e91foundation.org/contact-us/faq/))
 - **URL:** https://e91foundation.org/
 - **Contact:** mail@e91foundation.org | Phone: 317-849-1261
 - **Submission method:** Email to mail@e91foundation.org (no online portal noted)
@@ -17,17 +17,17 @@
 
 ## Returning Grantee Policy
 
-- Grantees funded within the **past year**: submit an update (not a full new LOI)
-- Grantees funded **more than a year ago**: restart the LOI process
+- Grantees funded within the **past year**: submit an update (not a full new LOI) ([Foundation Website — FAQ](https://e91foundation.org/contact-us/faq/))
+- Grantees funded **more than a year ago**: restart the LOI process ([Foundation Website — FAQ](https://e91foundation.org/contact-us/faq/))
 - Waha is a **first-time applicant**: submit full LOI
 
 ---
 
 ## Step 1: Letter of Inquiry (LOI)
 
-**Format:** "A brief introduction requiring less detail than a full proposal."
-**Invitation needed:** NO — unsolicited LOIs accepted
-**Specific instructions from FAQ:** The LOI requires "less detail than a full proposal" and no "specific funding amount required" at this stage.
+**Format:** "A brief introduction requiring less detail than a full proposal." ([Foundation Website — FAQ](https://e91foundation.org/contact-us/faq/))
+**Invitation needed:** NO — unsolicited LOIs accepted ([Foundation Website — FAQ](https://e91foundation.org/contact-us/faq/))
+**Specific instructions from FAQ:** The LOI requires "less detail than a full proposal" and no "specific funding amount required" at this stage. ([Foundation Website — FAQ](https://e91foundation.org/contact-us/faq/))
 
 **Best practice (inferred from grant patterns):** LOI should be approximately 1–2 pages and include:
 
@@ -75,7 +75,7 @@ Full proposal requirements (from FAQ — "more detailed"):
 
 ## Grant Ask Amount
 
-**$5,000** — stated as the standard grant amount; consistent with virtually all first-time grantee grants in the public quarterly reports.
+**$5,000** — stated as the standard grant amount ([Foundation Website — FAQ](https://e91foundation.org/contact-us/faq/)); consistent with virtually all first-time grantee grants in the public quarterly reports ([Foundation Website — Q1 2025 Update](https://e91foundation.org/portfolio-posts/2025-first-quarter-update/); [Q3 2024 Update](https://e91foundation.org/portfolio-posts/2024-third-quarter-update/); [Q1 2024 Update](https://e91foundation.org/portfolio-posts/2024-first-quarter-update/)).
 
 **Frame as:** $5,000 toward the Amharic DBS launch — specifically toward audio recording production or Bible licensing for the Amharic curriculum.
 

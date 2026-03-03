@@ -6,7 +6,7 @@
 ---
 
 ## Financial Overview
-- **Total assets:** ~$39,600,000
+- **Total assets:** ~$39,600,000 ([ProPublica 990](https://projects.propublica.org/nonprofits/organizations/236404136))
 - **Annual expenses:** ~$9,400,000
 - **Annual revenue:** ~$2,600,000
 - **Net position:** Spending down endowment (~$6.8M per year drawdown)
@@ -55,9 +55,9 @@ The foundation is drawing down its endowment ($2.6M revenue vs. $9.4M expenses =
 - **Rationale:** Given the spend-down trajectory, any ask should be well-timed and relationship-based. The window to establish a relationship is limited.
 
 ## Board of Directors / Officers (from 990)
-- **Nancy DeMoss Wolgemuth** — Chairman of the Board and Treasurer; author and broadcaster (Revive Our Hearts ministry)
-- **Charlotte DeMoss** — Secretary and Assistant Treasurer
-- **Elisabeth DeMoss** — Assistant Secretary
+- **Nancy DeMoss Wolgemuth** — Chairman of the Board and Treasurer; author and broadcaster (Revive Our Hearts ministry) ([ProPublica 990](https://projects.propublica.org/nonprofits/organizations/236404136))
+- **Charlotte DeMoss** — Secretary and Assistant Treasurer ([ProPublica 990](https://projects.propublica.org/nonprofits/organizations/236404136))
+- **Elisabeth DeMoss** — Assistant Secretary ([ProPublica 990](https://projects.propublica.org/nonprofits/organizations/236404136))
 
 *All officers are DeMoss family members. No professional program staff identified publicly. Decisions are family-driven.*
 

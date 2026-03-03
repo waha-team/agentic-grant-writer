@@ -14,9 +14,9 @@ SWGP does not publicly identify its leadership team on the website — a design 
 - Social: @solvingorg (Twitter/X), linkedin.com/company/whatsyourproblemorg
 
 ### Likely Founding Ecosystem
-- **Green family (Hobby Lobby)** — The "business family who funded the YouVersion Bible App" referenced in SWGP content
+- **Green family (Hobby Lobby)** — The "business family who funded the YouVersion Bible App" referenced in SWGP content ([Foundation Website](https://solvingtheworldsgreatestproblems.org/bible-access-fund/))
 - **Life.Church / YouVersion** — The founding story centers on their model of Bible technology philanthropy
-- **The Signatry** — Likely DAF host based on address alignment (Overland Park, KS area)
+- **The Signatry** — Likely DAF host based on address alignment (Overland Park, KS area) ([Cause IQ](https://www.causeiq.com/organizations/the-signatry,431890105/))
 
 ---
 

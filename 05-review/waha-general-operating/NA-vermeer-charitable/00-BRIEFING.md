@@ -10,11 +10,11 @@
 ## Identity
 
 - **Full legal name:** Vermeer Charitable Foundation, Inc.
-- **EIN:** 42-1087640
+- **EIN:** 42-1087640 ([ProPublica 990](https://projects.propublica.org/nonprofits/organizations/421087640))
 - **Website:** https://charitable.vermeer.com/
 - **Location:** 1210 Vermeer Rd E, Pella, IA 50219
-- **Year established:** Tax-exempt since November 1977
-- **Type:** Corporate foundation (supported by Vermeer Corporation, an agricultural/industrial equipment manufacturer)
+- **Year established:** Tax-exempt since November 1977 ([ProPublica 990](https://projects.propublica.org/nonprofits/organizations/421087640))
+- **Type:** Corporate foundation (supported by Vermeer Corporation, an agricultural/industrial equipment manufacturer founded by Gary Vermeer in 1948) ([Vermeer Corporation](https://www.vermeer.com/na/about-us))
 
 ---
 
@@ -22,20 +22,20 @@
 
 **Tagline:** "Helping Our World Grow" (2 Corinthians 9:10-11)
 
-**Mission:** "The Vermeer Charitable Foundation supports projects designed to bring honor and praise to God." The foundation is "grounded on Biblical principles such as striving for excellence, honesty, stewardship of resources and to honor the Golden Rule."
+**Mission:** "The Vermeer Charitable Foundation supports projects designed to bring honor and praise to God." The foundation is "grounded on Biblical principles such as striving for excellence, honesty, stewardship of resources and to honor the Golden Rule." ([Vermeer Charitable Foundation website](https://charitable.vermeer.com/about-us/))
 
-**Geographic scope (verbatim):** "Grants are made to non-profit organizations, not individuals or endowments, primarily in the Pella area and other communities from which our team members commute."
+**Geographic scope (verbatim):** "Grants are made to non-profit organizations, not individuals or endowments, primarily in the Pella area and other communities from which our team members commute." ([Vermeer Charitable Foundation website](https://charitable.vermeer.com/about-us/))
 
-**Stated focus:** Supports "select Christian, faith-based, educational and environmental causes" with emphasis on "civic, church, and educational needs from the central Iowa area."
+**Stated focus:** Supports "select Christian, faith-based, educational and environmental causes" with emphasis on "civic, church, and educational needs from the central Iowa area." ([Vermeer Charitable Foundation website](https://charitable.vermeer.com/))
 
 ---
 
 ## What They Actually Fund (from 990 analysis)
 
-**Total grants (2024):** ~$1.76 million across 75 grants.
-**Total grants (2023):** ~$1.15 million across 60 grants.
+**Total grants (2024):** ~$1.76 million across 75 grants ([ProPublica 990](https://projects.propublica.org/nonprofits/organizations/421087640)).
+**Total grants (2023):** ~$1.15 million across 60 grants ([ProPublica 990](https://projects.propublica.org/nonprofits/organizations/421087640)).
 
-**Largest 2024 grants:**
+**Largest 2024 grants** ([ProPublica 990](https://projects.propublica.org/nonprofits/organizations/421087640)):
 
 | Grantee | Amount | Type |
 |---------|--------|------|
@@ -50,7 +50,7 @@
 | Spirit of Pella | $100,000 | Civic |
 | Lake View Camp & Conference Center | $100,000 | Charitable |
 
-**Faith-based grantees found:** Pella Christian schools (multiple), Calvin Theological Seminary, Fuller Theological Seminary (historical), Christian Reformed World Missions ($10,000 historical). These are predominantly Christian Reformed denomination institutions local to the Iowa/Dutch Reformed community.
+**Faith-based grantees found:** Pella Christian schools (multiple), Calvin Theological Seminary ([CRC — Calvin Seminary Legacy Award](https://www.crcna.org/news-and-events/news/calvin-seminary-establishes-legacy-award)), Fuller Theological Seminary (historical), Christian Reformed World Missions ($10,000 historical). These are predominantly Christian Reformed denomination institutions local to the Iowa/Dutch Reformed community.
 
 **Key observation:** This is a deeply local, employee-connected corporate foundation. The giving is almost entirely to organizations in Pella, IA or serving Vermeer employees. Even the "faith-based" giving is to the Christian Reformed Church tradition (Dutch Reformed) institutions local to Pella, not evangelical missions organizations.
 
@@ -58,11 +58,11 @@
 
 ## History & Context
 
-Vermeer Corporation is a family-owned agricultural and industrial equipment manufacturer based in Pella, Iowa, founded by Gary Vermeer in 1948. The Vermeer Charitable Foundation was established in 1977 as the company's philanthropic arm. The Vermeer and Andringa families (Gary Vermeer's descendants) control the board.
+Vermeer Corporation is a family-owned agricultural and industrial equipment manufacturer based in Pella, Iowa, founded by Gary Vermeer in 1948 as Vermeer Manufacturing Company ([Vermeer Corporation — About Us](https://www.vermeer.com/na/about-us)). Gary Vermeer died in 2009 at age 90 ([New Netherland Institute](https://www.newnetherlandinstitute.org/history-and-heritage/dutch_americans/gary-vermeer)). The Vermeer Charitable Foundation was established in 1977 as the company's philanthropic arm. The Vermeer and Andringa families (Gary Vermeer's descendants) control the board.
 
-The foundation reflects the Christian Reformed Church tradition of the Dutch-American farming community of central Iowa — strong on education, community institutions, and Reformed Christianity, but not oriented toward evangelical missions, Great Commission outreach, or international ministry.
+The foundation reflects the Christian Reformed Church tradition of the Dutch-American farming community of central Iowa — strong on education, community institutions, and Reformed Christianity, but not oriented toward evangelical missions, Great Commission outreach, or international ministry. The Vermeer family has been recognized for support of Calvin Theological Seminary across generations ([CRC](https://www.crcna.org/news-and-events/news/calvin-seminary-establishes-legacy-award)).
 
-**Board (2024):**
+**Board (2024)** ([ProPublica 990](https://projects.propublica.org/nonprofits/organizations/421087640)):
 - Mary Andringa (President/Director) — former Vermeer Corp CEO
 - Tricia Vermeer (Director/Secretary)
 - Mindi Vanden Bosch (Director/Treasurer)

@@ -12,7 +12,7 @@
 
 ## Staff / Program Officers (from website)
 
-**Not publicly listed.** The GBF website does not name any staff, leadership, or contact persons. The organization operates behind a generic contact form and mailing address (PO Box 140723, Nashville, TN 37214).
+**Not publicly listed.** The GBF website does not name any staff, leadership, or contact persons. The organization operates behind a generic contact form and mailing address (PO Box 140723, Nashville, TN 37214) ([Foundation Website](https://www.globalbiblefoundation.org/)).
 
 ---
 

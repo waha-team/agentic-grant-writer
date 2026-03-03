@@ -7,18 +7,18 @@
 ## Trustees (from 990 and website)
 
 ### John W. Castles, Trustee
-- **Background:** Longest-serving trustee (since 1995, over 30 years). One of three active trustees who must approve all major grants. Background details not publicly disclosed; private individual with deep roots in Pacific Northwest philanthropy.
+- **Background:** Longest-serving trustee (since 1995, over 30 years). ([Foundation Website — Our People](https://murdocktrust.org/our-people)) One of three active trustees who must approve all major grants. Background details not publicly disclosed; private individual with deep roots in Pacific Northwest philanthropy.
 - **LinkedIn:** Not found publicly
 - **Relevant connections:** 30-year tenure means Castles has reviewed thousands of PNW nonprofit grants. His longevity suggests conservative stewardship orientation.
 - **Notes for engagement:** As longest-serving trustee, Castles embodies institutional memory. Any proposal should convey organizational seriousness and long-term sustainability.
 
 ### Jeffrey T. Grubb, Trustee
-- **Background:** Trustee since 2010. Details not publicly disclosed.
+- **Background:** Trustee since 2010. ([Foundation Website — Our People](https://murdocktrust.org/our-people)) Details not publicly disclosed.
 - **LinkedIn:** Not found publicly
 - **Notes for engagement:** Mid-tenure trustee. No distinguishing public profile found.
 
 ### Jeffrey D. Pinneo, Trustee
-- **Background:** Trustee since 2016. Former aviation industry executive. May have technology/innovation sensibility.
+- **Background:** Trustee since 2016. ([Murdock Trust New Trustee Announcement](https://murdocktrust.org/2016/08/murdock-trust-announces-new-trustee)) Former president and CEO of Horizon Air (29 years with Alaska Airlines/Horizon Air), later president of Medical Teams International. May have technology/innovation sensibility.
 - **LinkedIn:** Not confirmed
 - **Notes for engagement:** Newest trustee. Innovation-oriented background may resonate with Waha's tech-for-mission framing.
 
@@ -27,7 +27,7 @@
 ## Executive Leadership
 
 ### Romanita Hairston, Chief Executive Officer
-- **Background:** Became CEO approximately 2023. Led the restructuring of Murdock's five-sector model. Previously had career in nonprofit leadership and community development. She is the public face of the Trust and drives strategy.
+- **Background:** Became CEO approximately 2023. ([Murdock Trust CEO Welcome](https://murdocktrust.org/2022/07/welcome-our-new-ceo-romanita-hairston)) Led the restructuring of Murdock's five-sector model. ([Foundation Website — CEO Update on New Sectors](https://murdocktrust.org/2023/08/an-update-from-our-ceo-details-on-new-sectoral-model)) Previously had career in nonprofit leadership and community development. She is the public face of the Trust and drives strategy.
 - **Public profile:** Has published reflections on the nonprofit sector (referenced on Murdock website). Values equity, innovation, and community impact.
 - **LinkedIn:** Search "Romanita Hairston Murdock Trust"
 - **Notes for engagement:** Hairston is driving the new sector model and "human flourishing" vision. Waha's emphasis on equipping ordinary believers to serve their communities — including marginalized populations — resonates with her equity-forward approach. Frame Waha's Spokane-based team as part of the PNW community she serves.
@@ -41,8 +41,8 @@
 ## Most Important Contact for Waha
 
 ### Rudy Carrasco, Vice President — Civic Engagement & Community Services
-- **Background:** VP leading the sector that covers Faith Formation, community services, and civic engagement. This is Waha's primary sector home. Carrasco has a public profile connected to faith-based community development.
-- **Relevant background:** Carrasco has worked at the intersection of faith and community development throughout his career. He has written about church engagement in civic life and has connections to the evangelical nonprofit sector.
+- **Background:** VP leading the sector that covers Faith Formation, community services, and civic engagement. ([Foundation Website — Our People](https://murdocktrust.org/our-people)) This is Waha's primary sector home. Carrasco has a public profile connected to faith-based community development.
+- **Relevant background:** Carrasco has worked at the intersection of faith and community development throughout his career. He joined the Murdock Trust in 2018 ([Murdock Trust Welcome Announcement](https://murdocktrust.org/2018/03/welcome-rudy-carrasco-to-the-murdock-trust)) after prior roles at Harambee Christian Family Center and Partners Worldwide. He has written about church engagement in civic life and has connections to the evangelical nonprofit sector.
 - **LinkedIn:** Search "Rudy Carrasco Murdock Trust"
 - **Notes for engagement:** Carrasco is the primary program leader Waha's LOI would reach. His faith-and-community background is the ideal audience for Waha's work. Frame the LOI to his language: "organizational capacity for faith-based community service" and "building human flourishing through the love of God and love of neighbor" — the Trust's exact language for this sector.
 

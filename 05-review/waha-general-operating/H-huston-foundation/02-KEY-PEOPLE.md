@@ -7,7 +7,7 @@
 ## Board of Directors (from 2023 Annual Report)
 
 ### Nancy Huston Hansen — President & CEO; President of Evangelical Relations
-- **Background:** The primary decision-maker for all evangelical grants. Daughter of Charles Lukens Huston, Jr. (co-founder). Granddaughter of the original donors. Has led the Huston Foundation since approximately 2002 when her mother Nancy G. Huston passed. She has "over four decades of leadership and knowledge of ministries operating in the Philadelphia region and beyond." Concurrently serves as Founder, President & CEO of Capstone Legacy Foundation — a Christian Community Foundation based in Wayne, PA — which received $125,000 from the Huston Foundation in 2023 (two grants for "Ministry Projects"). She has served on boards of Mercy Medical Airlift, Esperanza Health Center, Hi-Kidz International, Inner-City Movement, Resources for Better Families, Mission Media Ministries, and Good News Communications.
+- **Background:** The primary decision-maker for all evangelical grants. Daughter of Charles Lukens Huston, Jr. (co-founder). Granddaughter of the original donors. Has led the Huston Foundation since approximately 2002 when her mother Nancy G. Huston passed ([Foundation Website — History](https://www.hustonfoundation.org/history.cfm)). She has "over four decades of leadership and knowledge of ministries operating in the Philadelphia region and beyond" ([Capstone Legacy Foundation Staff](https://capstonelegacy.org/staff/)). Concurrently serves as Founder, President & CEO of Capstone Legacy Foundation — a Christian Community Foundation based in Wayne, PA ([Capstone Legacy Foundation Staff](https://capstonelegacy.org/staff/)) — which received $125,000 from the Huston Foundation in 2023 (two grants for "Ministry Projects") ([Huston Foundation 2023 Annual Report](https://www.hustonfoundation.org/uploads/hus_ar_2023.pdf)). She has served on boards of Mercy Medical Airlift, Esperanza Health Center, Hi-Kidz International, Inner-City Movement, Resources for Better Families, Mission Media Ministries, and Good News Communications ([Capstone Legacy Foundation Staff](https://capstonelegacy.org/staff/)).
 - **LinkedIn:** https://www.linkedin.com/in/nancy-hansen-b125149/ (listed as "Vice-President at The Huston Foundation")
 - **Capstone Legacy Foundation:** https://capstonelegacy.org/staff/ (Founder, President & CEO)
 - **Relevant connections:** Inner-City Movement (Huston grantee, audio Bible ministry). Deep roots in Philadelphia-area evangelical community. Extensive ministry network nationally.
@@ -17,7 +17,7 @@
 ---
 
 ### Elinor Huston Lashley — Chair of the Board; Education and Cultural Relations Program Director
-- **Background:** Eldest sibling of the Huston family third generation. Based in Williamsburg, VA. Her late husband William A. Lashley served as president of the Public Relations Society of America and was active in the arts and philanthropy. She oversees Education and Cultural Relations grantmaking. She is Secretary of Historic Huston Properties Inc. (a separate family foundation). No LinkedIn found.
+- **Background:** Eldest sibling of the Huston family third generation. Based in Williamsburg, VA ([Foundation Website — Board](https://www.hustonfoundation.org/board.cfm)). Her late husband William A. Lashley served as president of the Public Relations Society of America and was active in the arts and philanthropy. She oversees Education and Cultural Relations grantmaking. She is Secretary of Historic Huston Properties Inc. (a separate family foundation). No LinkedIn found.
 - **Relevant connections:** Education and arts focus. Less directly relevant for an evangelical missions application, but as Chair of the Board she approves all grants.
 - **Notes for engagement:** Secondary contact. Primary engagement should be with Nancy Hansen.
 
@@ -30,7 +30,7 @@
 ---
 
 ### Rebecca H. Mathews — Corporate Secretary
-- **Background:** Based in Melrose, MA. Daughter of Charles L. Huston III (confirmed by obituary: "survived by two children with his wife Barbara Scott: Rebecca Lukens Huston Mathews and Scott Gardner Huston"). Fourth generation of the Huston family. No LinkedIn found; no public professional profile discovered.
+- **Background:** Based in Melrose, MA ([Foundation Website — Board](https://www.hustonfoundation.org/board.cfm)). Daughter of Charles L. Huston III (confirmed by obituary: "survived by two children with his wife Barbara Scott: Rebecca Lukens Huston Mathews and Scott Gardner Huston" ([Wilde Funeral Home Obituary](https://www.wildefuneralhome.com/obituaries/charles-l-skip-huston-iii))). Fourth generation of the Huston family. No LinkedIn found; no public professional profile discovered.
 - **Notes for engagement:** Administrative role; not the decision-maker for evangelical grants.
 
 ---
@@ -48,13 +48,13 @@
 ---
 
 ### Charles L. Huston III — Vice President (DECEASED January 2025)
-- **Background:** Son of Charles Lukens Huston, Jr. Led Community Relations. Co-founder of Lincoln Institute (land economics think tank). Received extensive recognition for his Coatesville, PA community work. Passed away January 18, 2025 in Coatesville, PA. The board is now operating without him.
+- **Background:** Son of Charles Lukens Huston, Jr. Led Community Relations. Established the Lincoln Institute of Public Opinion Research in 1997 ([Wilde Funeral Home Obituary](https://www.wildefuneralhome.com/obituaries/charles-l-skip-huston-iii)). Received extensive recognition for his Coatesville, PA community work. Passed away January 18, 2025 in Chester Springs, PA ([Wilde Funeral Home Obituary](https://www.wildefuneralhome.com/obituaries/charles-l-skip-huston-iii)). The board is now operating without him.
 - **Note:** His passing is recent and may affect foundation operations. Do not reference him as a current board member.
 
 ---
 
 ### Patricia A. Jones — Executive Assistant / Assistant Corporate Secretary (Staff)
-- **Background:** Based in East Norriton, PA. Compensation: $80,374 in 2023. Primary administrative contact for the Foundation. Likely the person who answers the phone and schedules meetings.
+- **Background:** Based in East Norriton, PA. Compensation: $80,374 in 2023 ([ProPublica 990, 2023](https://projects.propublica.org/nonprofits/organizations/236284125)). Primary administrative contact for the Foundation. Likely the person who answers the phone and schedules meetings.
 - **Email:** Not publicly listed.
 - **Phone:** 610-832-4955 ext. 4 (evangelical line)
 - **Notes:** Patricia may be the first person Josh speaks with when calling to arrange the Nancy Hansen meeting. Be polite, professional, and specific: "We are a new Christian nonprofit seeking to schedule the required introductory meeting with Nancy Hansen before submitting a Letter of Inquiry for the spring cycle."

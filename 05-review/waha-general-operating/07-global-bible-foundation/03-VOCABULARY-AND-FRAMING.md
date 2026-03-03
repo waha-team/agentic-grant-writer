@@ -37,10 +37,10 @@
 
 ## Their Stated Values (verbatim from website)
 
-1. "Spiritual transformation begins with access to God's Word."
-2. "We bridge the funding gap between donors and organizations worldwide needing resources for Bible distribution, engagement, and discipleship."
-3. "Whether through grants or direct purchases of Bibles and discipleship materials, we equip ministries on the frontlines of Bible engagement."
-4. "94% of your donation will go directly to resource partner organizations worldwide."
+1. "Spiritual transformation begins with access to God's Word." ([Foundation Website](https://www.globalbiblefoundation.org/))
+2. "We bridge the funding gap between donors and organizations worldwide needing resources for Bible distribution, engagement, and discipleship." ([Foundation Website](https://www.globalbiblefoundation.org/))
+3. "Whether through grants or direct purchases of Bibles and discipleship materials, we equip ministries on the frontlines of Bible engagement." ([Foundation Website](https://www.globalbiblefoundation.org/))
+4. "94% of your donation will go directly to resource partner organizations worldwide." ([Foundation Website](https://www.globalbiblefoundation.org/))
 
 ---
 
@@ -68,9 +68,9 @@
 
 ## Specific Grants They've Made That Relate to Us
 
-No 990 data available. However, their current partners share mission DNA with Waha:
-- **Oasis International** — Africa Bible access: Waha's audio approach complements Oasis's print/study Bible approach for oral learner communities
-- **WordSpread** — Africa evangelism and discipleship training: Waha's DMC and DBS app address the same populations through a different delivery mechanism
+No 990 data available. However, their current partners share mission DNA with Waha ([Foundation Website — Ministry Partners](https://www.globalbiblefoundation.org/ministry-partners)):
+- **Oasis International** — Africa Bible access ([Oasis International](https://oasisinternational.com/)): Waha's audio approach complements Oasis's print/study Bible approach for oral learner communities
+- **WordSpread** — Africa evangelism and discipleship training ([WordSpread](https://www.wordspread.co/)): Waha's DMC and DBS app address the same populations through a different delivery mechanism
 
 **Frame Waha as complementary to existing partners, not competing with them.** "We serve the same communities your current partners serve — but in audio, for oral learners who can't access print materials."
 

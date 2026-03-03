@@ -9,37 +9,37 @@
 
 ## Identity
 - **Full legal name:** C.I.O.S. (Christ Is Our Salvation) Foundation
-- **EIN:** 74-2472778
+- **EIN:** 74-2472778 ([ProPublica 990](https://projects.propublica.org/nonprofits/organizations/742472778))
 - **Website:** None
 - **Location:** PO Box 20815, Waco, Texas 76702; Phone: 254-752-5551
-- **Year established:** 1987 (some sources cite 1952 as founding of the broader Piper philanthropic effort; 1987 for the formal entity)
+- **Year established:** 1952 (established by Paul and Katy Piper; the formal EIN entity dates to 1987) ([Here-4-You Consulting / npfunds.com](https://npfunds.com/directory/c-i-o-s/))
 - **Type:** Private family foundation
 
 ## Mission & Priorities (IN THEIR OWN WORDS)
 
 No public mission statement. From public records and press accounts:
 - "Christian evangelical purposes" (990 mission description)
-- "Supports start-up operations and program development" (from prior research)
+- "Supports start-up operations and program development" ([Here-4-You Consulting / npfunds.com](https://npfunds.com/directory/c-i-o-s/))
 - Named after founders' faith: "Christ Is Our Salvation"
-- Established by Paul Piper Sr. and Katy Piper as an expression of their Christian faith
+- Established by Paul Piper Sr. and Katy Piper in 1952 as an expression of their Christian faith ([Northern Seminary press release](https://www.seminary.edu/news/christ-is-our-salvation-foundation-makes-large-grant-to-northern-benefiting-women-and-persons-of-color/))
 
 From confirmed grants:
-- Academic support: $300,000 grant to Samford University's Center for Worship and the Arts (3-year)
-- Conference support: $50,000 to Baylor University for "Next Big Idea" conference (2009)
+- Academic support: $300,000 grant to Samford University's Center for Worship and the Arts (3-year seed gift, 2013) ([Samford University](https://www.samford.edu/news/2013/300000-Grant-Will-Support-Center-for-Worship-and-the-Arts-at-Samford))
+- Conference support: $50,000 to Baylor University for "Next Big Idea" conference (2009) ([Baylor University press release](https://www.baylor.edu/mediacommunications/news.php?action=story&story=51797))
 
 ## What They Actually Fund (from 990 analysis)
 
 **Available data is limited — no public Schedule I with grantee list found.**
 
-From ProPublica (EIN 74-2472778):
+From ProPublica (EIN 74-2472778) ([ProPublica 990](https://projects.propublica.org/nonprofits/organizations/742472778)):
 - **Total assets:** ~$110,000,000 (very large for a private family foundation)
 - **Grant activity:** Unknown without Schedule I
 - **Primary focus (inferred):** Texas-based evangelical academic institutions (Baylor University, Samford University)
 - **Secondary focus (inferred):** Christian evangelical causes aligned with Baptist/evangelical tradition
 
 Based on confirmed grants:
-- Samford University Center for Worship and the Arts — $300,000 (3-year grant: $100K/year)
-- Baylor University "Next Big Idea" conference — $50,000
+- Samford University Center for Worship and the Arts — $300,000 (3-year seed grant, 2013; CIOS total giving to Samford Center reached $2 million by end of 2024) ([Samford University](https://www.samford.edu/arts/news/2022/Center-For-Worship-And-The-Arts-Receives-Additional-Funding))
+- Baylor University "Next Big Idea" conference — $50,000 (2009) ([Baylor University](https://www.baylor.edu/mediacommunications/news.php?action=story&story=51797))
 - Unknown additional grantees in the evangelical/Baptist/Texas ecosystem
 
 The confirmed grants suggest the foundation supports:
@@ -52,11 +52,11 @@ The confirmed grants suggest the foundation supports:
 
 ## History & Context
 
-Paul Piper Sr. was a Texas entrepreneur and evangelical Christian. He and his wife Katy established the CIOS Foundation as an expression of their faith. The foundation continued after Paul Sr.'s death (Baylor held services for him; the family has deep Baylor connections).
+Paul Piper Sr. was a Texas entrepreneur and evangelical Christian who founded Piper Industries in 1937 with $17 from his parents, growing it to a company of more than 1,000 employees ([Here-4-You Consulting / npfunds.com](https://npfunds.com/directory/c-i-o-s/)). He and his wife Katy established the CIOS Foundation in 1952 as an expression of their faith ([Northern Seminary](https://www.seminary.edu/news/christ-is-our-salvation-foundation-makes-large-grant-to-northern-benefiting-women-and-persons-of-color/)). The foundation continued after Paul Sr.'s death (Baylor held services for him ([Baylor University](https://www.baylor.edu/mediacommunications/news.php?action=story&story=6403)); the family has deep Baylor connections).
 
-The book "Christ Is Our Salvation: A Life Story of Paul and Katy Piper" (by Lee Allen and Catherine Allen) documents the foundation's namesake and the Piper family's evangelical faith.
+The book "Christ Is Our Salvation: A Life Story of Paul and Katy Piper" (by Lee Allen and Catherine Allen) documents the foundation's namesake and the Piper family's evangelical faith ([Amazon](https://www.amazon.com/Christ-Our-Salvation-Story-Piper/dp/0962563420)).
 
-The family's connection to Piper Industries (Paul P. Piper Sr., Paul P. Piper Jr., and Piper Industries Inc. are listed as donors/officers in historical records) suggests a Texas industrial background.
+Current leadership: Paul Piper Jr. (President) and his wife Shirley Piper (Program Officer); Katy Piper Jr. and Polly Piper Rickard are trustees ([Northern Seminary](https://www.seminary.edu/news/christ-is-our-salvation-foundation-makes-large-grant-to-northern-benefiting-women-and-persons-of-color/)).
 
 The Baylor and Samford connections suggest alignment with Baptist-tradition evangelical Christianity — Southern Baptist or similarly conservative Protestant. The arts grant (Samford Center for Worship and the Arts) is interesting — suggests some openness to Christian arts and worship alongside evangelical missions.
 

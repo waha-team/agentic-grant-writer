@@ -6,10 +6,10 @@
 
 ## Application Details
 
-- **Type:** Partnership inquiry / contact form (not a formal grant application)
-- **Deadline:** Rolling / no stated deadline
+- **Type:** Partnership inquiry / contact form (not a formal grant application) ([Foundation Website — Ministry Partners](https://www.globalbiblefoundation.org/ministry-partners))
+- **Deadline:** Rolling / no stated deadline ([Foundation Website — Ministry Partners](https://www.globalbiblefoundation.org/ministry-partners))
 - **URL:** https://www.globalbiblefoundation.org/ministry-partners (partnership request form on this page)
-- **Submission method:** Online contact/partnership form
+- **Submission method:** Online contact/partnership form ([Foundation Website — Ministry Partners](https://www.globalbiblefoundation.org/ministry-partners))
 - **Stage:** This is a TWO-STAGE process:
   1. **Stage 1 (Now):** Submit partnership request form — brief introduction
   2. **Stage 2 (After response):** If GBF expresses interest, full proposal materials can be shared

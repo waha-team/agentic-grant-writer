@@ -32,14 +32,14 @@
 
 ---
 
-## Their Stated Values (from public sources)
+## Their Stated Values (from public sources) ([The Grantsmanship Center](https://www.tgci.com/funder/harry-j-lloyd-charitable-trust))
 
 1. The Great Commission is the foundation of all giving.
 2. "Foreign evangelical missions" — specifically cross-cultural and international work.
 3. Geographic focus: Africa, China, India, Latin America, Middle East (all of the unreached / lightly reached world).
 4. U.S.-based global missions organizations are a specific fit.
 5. Christian education in foreign contexts.
-6. Harry Lloyd's spirit of giving: "a percentage of annual business profits to Christian organizations throughout his lifetime" — generosity as a lifetime practice.
+6. Harry Lloyd's spirit of giving: "a percentage of annual business profits to Christian organizations throughout his lifetime" — generosity as a lifetime practice. ([FCA Hall of Champions](https://hall.fca.org/1998/harry-j-lloyd/))
 
 ---
 
@@ -75,7 +75,7 @@
 
 ## Specific Grants They've Made That Relate to Us
 
-Full grantee list requires 990-PF download. Based on mission statement, likely grantees include:
+Full grantee list requires 990-PF download. Based on mission statement ([The Grantsmanship Center](https://www.tgci.com/funder/harry-j-lloyd-charitable-trust)), likely grantees include:
 - Major evangelical missions agencies (IMB, Wycliffe, YWAM, Pioneers, Cru)
 - Indigenous church planting organizations
 - Foreign evangelical educational institutions

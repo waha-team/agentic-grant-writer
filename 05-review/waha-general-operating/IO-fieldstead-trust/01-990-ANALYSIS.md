@@ -7,23 +7,23 @@
 
 ## ALERT: Trust Appears Substantially Dormant
 
-The most recent 990-PF data shows:
+The most recent 990-PF data shows ([ProPublica 990](https://projects.propublica.org/nonprofits/organizations/330127363)):
 - **Total assets:** $20,348
 - **Grants made:** $0
 - **Revenue:** $12,359
 - **Expenses:** $9,953
 
-This is a dramatic departure from the historical giving profile described in press reports ("low eight figures" annually). The trust has effectively no grantmaking capacity at present.
+This is a dramatic departure from the historical giving profile described in press reports ("low eight figures" annually) ([Source: CauseIQ — URL unavailable]). The trust has effectively no grantmaking capacity at present.
 
 ---
 
 ## Historical Giving Overview (pre-depletion)
-- **Estimated historical annual giving:** $10,000,000+ ("low eight figures")
+- **Estimated historical annual giving:** $10,000,000+ ("low eight figures") ([Source: CauseIQ — URL unavailable])
 - **Grant range:** Varied — from smaller grants to large multi-year commitments
 - **Historical grantees included:**
   - Wycliffe Bible Translators (confirmed historical funder — major Bible translation organization; Waha partner)
-  - Ancient Christian Commentary on Scripture (26-volume series, co-funded by Fieldstead)
-  - Visual Commentary on Scripture (large-scale ongoing Ahmanson project)
+  - Ancient Christian Commentary on Scripture (26-volume series, co-funded by Fieldstead) — described as "the most significant publishing project in the history of InterVarsity Press" ([Christian Examiner](https://www.christianexaminer.com/article/new-visual-commentary-on-scripture-website-offers-new-way-to-study-the-bible/52540.htm))
+  - Visual Commentary on Scripture (large-scale ongoing Ahmanson project — partnership with King's College London) ([Christian Examiner](https://www.christianexaminer.com/article/new-visual-commentary-on-scripture-website-offers-new-way-to-study-the-bible/52540.htm))
   - Christian arts and scholarship organizations
   - Reformed theological institutions and seminaries
   - Discovery Institute (intelligent design research)
@@ -50,8 +50,8 @@ Possible explanations:
 4. Look for any recent news about Ahmanson philanthropic activity
 
 ## Board of Directors / Officers (from 990)
-- **Howard F. Ahmanson Jr.** — President (no compensation)
-- **Roberta G. Ahmanson** — Secretary (no compensation)
+- **Howard F. Ahmanson Jr.** — President (no compensation) ([ProPublica 990](https://projects.propublica.org/nonprofits/organizations/330127363))
+- **Roberta G. Ahmanson** — Secretary (no compensation) ([ProPublica 990](https://projects.propublica.org/nonprofits/organizations/330127363))
 
 ## Recommended Ask Amount
 **Not applicable at this time.** The trust has no grantmaking capacity. If the Ahmansons' current giving vehicle is identified, revisit.

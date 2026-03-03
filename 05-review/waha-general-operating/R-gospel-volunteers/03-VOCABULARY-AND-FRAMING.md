@@ -4,7 +4,7 @@
 
 ---
 
-## Their Mission Keywords (Use These)
+## Their Mission Keywords (Use These) ([Foundation Website](https://www.camp-of-the-woods.org/about))
 
 - Biblical Truths
 - Develop Christian leaders
@@ -29,7 +29,7 @@
 | "Gospel impact" | "82,000+ disciple-makers equipped; documented multiplication to 4th and 5th generation" |
 | "Missionaries and mission projects" | "Waha is the tool missionaries you already fund — Pioneers, AIM, TTI — use every day" |
 
-## Their Four Core Values — Gen Op Mapping
+## Their Four Core Values — Gen Op Mapping ([Foundation Website](https://www.camp-of-the-woods.org/about))
 
 | Their Value | How Waha Delivers It |
 |-------------|----------------------|
@@ -44,16 +44,16 @@
 
 > "When you give to Pioneers, you're funding missionaries. When you give to Waha, you're funding the tool those missionaries carry with them."
 
-**Lead with the Pioneers connection.** COTW has given Pioneers $92,000/year for years. Pioneers missionaries use Waha's DBS materials in the field. A gift to Waha multiplies the effectiveness of COTW's existing investment in Pioneers.
+**Lead with the Pioneers connection.** COTW has given Pioneers $92,000/year for years ([Cause IQ — Gospel Volunteers](https://www.causeiq.com/organizations/gospel-volunteers,596001191/)). Pioneers missionaries use Waha's DBS materials in the field. A gift to Waha multiplies the effectiveness of COTW's existing investment in Pioneers.
 
-**The Timothy Initiative parallel.** COTW gave TTI $25,000 for their "Achieve Program" — a DBS-based church planting initiative. Waha is the digital delivery platform for the exact same Discovery Bible Study methodology. "TTI plants churches using DBS. Waha puts DBS in every pocket, in any language."
+**The Timothy Initiative parallel.** COTW gave TTI $25,000 for their "Achieve Program" ([Cause IQ — Gospel Volunteers](https://www.causeiq.com/organizations/gospel-volunteers,596001191/)) — a DBS-based church planting initiative. Waha is the digital delivery platform for the exact same Discovery Bible Study methodology. "TTI plants churches using DBS. Waha puts DBS in every pocket, in any language."
 
 ## Tone Guidance
 
 - **Warm, relational, community-oriented.** COTW is a camp — they value personal relationships and family-style community. Not corporate language.
 - **Story-first.** Open with a specific story of a Pioneers or AIM missionary using Waha in the field.
 - **Avoid missions jargon** like "CPM," "DMM," "T4T," or "UUPG." Use COTW's language: "global evangelism," "gospel impact," "develop leaders."
-- **Honor their legacy.** 125 years of "vacation with purpose" — they know what faithful, multigenerational ministry looks like. Position Waha as a new chapter in that same story.
+- **Honor their legacy.** 125 years of "vacation with purpose" ([Foundation Website](https://www.camp-of-the-woods.org/about)) — they know what faithful, multigenerational ministry looks like. Position Waha as a new chapter in that same story.
 
 ## What to Emphasize
 

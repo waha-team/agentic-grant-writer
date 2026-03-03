@@ -9,7 +9,7 @@
 
 ## Identity
 - **Full legal name:** Ankerberg Theological Research Institute (also known as The John Ankerberg Show)
-- **EIN:** 62-1138444
+- **EIN:** 62-1138444 ([ProPublica 990](https://projects.propublica.org/nonprofits/organizations/621138444))
 - **Website:** jashow.org
 - **Location:** Chattanooga, TN
 - **Year established:** 1980s (based on 990 filing history)
@@ -18,7 +18,7 @@
 ## Mission & Priorities (IN THEIR OWN WORDS)
 
 From MinistryWatch and jashow.org:
-> "The John Ankerberg Show is an apologetics and evangelical media ministry committed to defending the Christian faith, encouraging the believer, and making God's Word heard around the world."
+> "The John Ankerberg Show is an apologetics and evangelical media ministry committed to defending the Christian faith, encouraging the believer, and making God's Word heard around the world." ([MinistryWatch](https://db.ministrywatch.com/ministry.php?ein=621138444))
 
 Key programming areas:
 - Christian apologetics (defending the faith against other worldviews)
@@ -33,7 +33,7 @@ Key programming areas:
 - Annual assets: $5,000,000 – $9,999,999
 - Primary activity: Television and media production, apologetics content, evangelistic outreach
 
-The organization's 990 was filed October 11, 2024. Based on MinistryWatch and ProPublica data:
+The organization's 990 was filed October 11, 2024 ([ProPublica 990](https://projects.propublica.org/nonprofits/organizations/621138444)). Based on MinistryWatch and ProPublica data:
 - Ankerberg PARTNERED WITH FCBH to distribute audio Bibles internationally
 - This appears to be a joint ministry initiative, not Ankerberg operating as a grantmaker
 - Ankerberg receives donations from its media audience to fund its programming and Bible distribution initiatives
@@ -50,9 +50,9 @@ The organization's 990 was filed October 11, 2024. Based on MinistryWatch and Pr
 
 John Ankerberg founded the Ankerberg Theological Research Institute in the 1980s. The ministry produces "The John Ankerberg Show" — a long-running apologetics television program available on Christian networks and online. Ankerberg has a large evangelical audience and significant media reach.
 
-The partnership with FCBH (since 2016) to distribute audio Bible devices is noteworthy. Ankerberg's audience is clearly interested in Bible access and missions. This is the connection point to Waha: Ankerberg's audience and media platform — not Ankerberg as a grantmaker.
+The partnership with FCBH (which Ankerberg states began in 2013, not 2016 as previously noted — ([MinistryWatch](https://ministrywatch.com/amp/ankerberg-confirms-raising-20m-for-audio-bibles-but-kept-80-percent-for-production-air-time-other-expenses/))) to distribute audio Bible devices is noteworthy. Ankerberg's audience is clearly interested in Bible access and missions. This is the connection point to Waha: Ankerberg's audience and media platform — not Ankerberg as a grantmaker.
 
-John Ankerberg himself is a respected figure in evangelical apologetics and has significant credibility in the Reformed/Baptist evangelical community.
+John Ankerberg himself is a respected figure in evangelical apologetics and has significant credibility in the Reformed/Baptist evangelical community. Note: Ankerberg's ECFA membership was terminated in 2023 over financial accountability concerns related to how funds raised for audio Bibles were used ([Christianity Today](https://www.christianitytoday.com/news/2023/august/ankerberg-financial-allegations-misuse-funds-audio-bibles.html); [MinistryWatch](https://ministrywatch.com/ankerbergs-ecfa-membership-terminated-for-non-compliance/)).
 
 ## Why Waha Is a Fit
 

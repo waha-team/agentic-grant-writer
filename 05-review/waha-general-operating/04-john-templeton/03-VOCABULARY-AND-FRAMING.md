@@ -54,12 +54,12 @@ From the foundation's website, program descriptions, grant database, and public 
 
 ## Their Stated Values (verbatim from website and public materials)
 
-1. "Prioritizes interdisciplinary and empirical research on religious innovation, or new religious ideas, methods, and practices, that catalyze cultural change"
-2. "Fund research and catalyze conversations that inspire people with awe and wonder"
+1. "Prioritizes interdisciplinary and empirical research on religious innovation, or new religious ideas, methods, and practices, that catalyze cultural change" ([Foundation Website](https://www.templeton.org))
+2. "Fund research and catalyze conversations that inspire people with awe and wonder" ([Foundation Website](https://www.templeton.org))
 3. Commitment to "rigorous, evidence-based methodology" across all funded projects
-4. Interest in "the interaction between faith, scientific inquiry, and societal development" (Religion, Science, and Society)
-5. "How religious and spiritual beliefs and practices affect human flourishing" (Religion, Science, and Society framing)
-6. For Character Virtue Development: studying "how youth use technology" and creating "resources for educators, religious communities, and the general public"
+4. Interest in "the interaction between faith, scientific inquiry, and societal development" (Religion, Science, and Society) ([Foundation Website](https://www.templeton.org))
+5. "How religious and spiritual beliefs and practices affect human flourishing" (Religion, Science, and Society framing) ([Foundation Website](https://www.templeton.org))
+6. For Character Virtue Development: studying "how youth use technology" and creating "resources for educators, religious communities, and the general public" ([Foundation Website](https://www.templeton.org/news/announcing-8m-in-new-projects-to-cultivate-character-in-the-digital-age))
 
 ---
 
@@ -91,10 +91,10 @@ From the foundation's website, program descriptions, grant database, and public 
 
 ## Specific Grants They've Made That Relate to Us
 
-- **"Cultivating Character in the Digital Age"** — $8M initiative, multiple grantees, 2023-24. Demonstrates Templeton funds the intersection of technology and spiritual/character formation. Waha is that intersection, with data.
-- **CLAL — National Jewish Center for Learning and Leadership** — Studying AI, Jewish ethics, and digital character formation in religious communities. Demonstrates Templeton funds faith communities studying their own use of technology and digital media.
-- **Baylor University's Institute for Studies of Religion** — Multiple grants for studying global church growth, religious practice, and spiritual outcomes. Baylor ISR is a natural academic partner for a Waha study.
-- **Vanderbilt University — Spiritual Yearning Research Initiative** — Studying how spiritual yearning manifests and what satisfies it. Waha's 86%-seeker user base is directly relevant to spiritual yearning research.
+- **"Cultivating Character in the Digital Age"** — $8M initiative, multiple grantees, 2023-24. ([Foundation Website](https://www.templeton.org/news/announcing-8m-in-new-projects-to-cultivate-character-in-the-digital-age)) Demonstrates Templeton funds the intersection of technology and spiritual/character formation. Waha is that intersection, with data.
+- **CLAL — National Jewish Center for Learning and Leadership** — Studying AI, Jewish ethics, and digital character formation in religious communities. ([Foundation Website](https://www.templeton.org/grant/jewish-thought-and-jewish-education-for-the-digital-future)) Demonstrates Templeton funds faith communities studying their own use of technology and digital media.
+- **Baylor University's Institute for Studies of Religion** — Multiple grants for studying global church growth, religious practice, and spiritual outcomes. ([Baylor University](https://news.web.baylor.edu/news/story/2022/baylor-researchers-receive-25-million-grant-john-templeton-foundation-illuminate)) Baylor ISR is a natural academic partner for a Waha study.
+- **Vanderbilt University — Spiritual Yearning Research Initiative** — Studying how spiritual yearning manifests and what satisfies it. ([Foundation Website](https://www.templeton.org/internal-competiton-fund/the-spiritual-yearning-research-initiative-the-search-for-meaning-among-the-nonreligious)) Waha's 86%-seeker user base is directly relevant to spiritual yearning research.
 
 ---
 

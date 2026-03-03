@@ -9,32 +9,32 @@
 
 ## Identity
 - **Full legal name:** Illuminations Foundation Inc (operating as "illumiNations")
-- **EIN:** 83-3552306
+- **EIN:** 83-3552306 ([ProPublica 990](https://projects.propublica.org/nonprofits/organizations/833552306))
 - **Website:** https://illuminations.bible / https://eten.bible / https://etenlab.org
 - **Location:** Alpharetta, GA
-- **Year established:** 2019 (incorporated)
+- **Year established:** 2019 (incorporated as a 501(c)(3); ETEN alliance itself established 2010) ([MinistryWatch](https://ministrywatch.com/bible-translation-organizations-form-alliance-to-translate-bibles/))
 - **Type:** Private foundation / alliance vehicle
 
 ## Mission & Priorities (IN THEIR OWN WORDS)
 
 From illuminations.bible:
-> "illumiNations is an alliance of Bible translation agencies and resource partners working together with generous givers to eradicate Bible poverty."
+> "illumiNations is an alliance of Bible translation agencies and resource partners working together with generous givers to eradicate Bible poverty." ([illumiNations website](https://illuminations.bible/about/))
 
 From eten.bible:
-> "Every Tribe Every Nation (ETEN) exists to eradicate Bible poverty — to ensure that every person on earth has access to Scripture in their heart language by 2033."
+> "Every Tribe Every Nation (ETEN) exists to eradicate Bible poverty — to ensure that every person on earth has access to Scripture in their heart language by 2033." ([ETEN website](https://eten.bible/what-we-do/))
 
-ETEN's "All Access Goals by 2033":
+ETEN's "All Access Goals by 2033" ([ETEN website](https://eten.bible/what-we-do/)):
 - Every people group with the Bible in audio, digital, and print formats
 - Every Scripture in the digital public domain
 - Every translation using AI-assisted tools and workflows
 - Closing the gap between translation and transformation
 
 From ETEN Innovation Lab (etenlab.org):
-> "The ETEN Innovation Lab is tasked with bringing greater accessibility and acceleration needed to accomplish ETEN's All Access Goals. The Lab catalyzes and cultivates ideas, incubates, experiments, and develops new approaches to both long-standing and emerging challenges in Bible translation."
+> "The ETEN Innovation Lab is tasked with bringing greater accessibility and acceleration needed to accomplish ETEN's All Access Goals. The Lab catalyzes and cultivates ideas, incubates, experiments, and develops new approaches to both long-standing and emerging challenges in Bible translation." ([ETEN Innovation Lab](https://www.etenlab.org))
 
 ## What They Actually Fund (from 990 analysis)
 
-Based on available public data (ProPublica EIN 83-3552306):
+Based on available public data (ProPublica EIN 83-3552306) ([ProPublica 990](https://projects.propublica.org/nonprofits/organizations/833552306)):
 - **Total grants since 2020:** $146,956,792 (43 individual grants)
 - **2023 grants total:** $45,036,991 across 13 awards
 - **Grantees:** Exclusively ETEN member organizations — the major Bible translation agencies (Wycliffe Bible Translators, United Bible Societies, Pioneer Bible Translators, The Seed Company, SIL International, Biblica, Deaf Bible Society, and similar)
@@ -46,9 +46,9 @@ The 990 shows no grants to technology startups or small nonprofits outside the a
 
 ## History & Context
 
-ETEN was established in 2010 as an alliance combining major Bible translation implementers (Wycliffe, SIL, United Bible Societies, Pioneer Bible Translators) and philanthropic resource partners (major evangelical foundations and donors). The goal was to coordinate investment in Bible translation and prevent duplication.
+ETEN was established in 2010 as an alliance combining major Bible translation implementers (Wycliffe, SIL, United Bible Societies, Pioneer Bible Translators, Biblica) and philanthropic resource partners — collectively covering approximately 90% of all translation work being done globally ([MinistryWatch](https://ministrywatch.com/bible-translation-organizations-form-alliance-to-translate-bibles/)). The goal was to coordinate investment in Bible translation and prevent duplication.
 
-illumiNations was incorporated in 2019 as the grant vehicle for ETEN's philanthropic arm — consolidating donations from individual givers and redirecting them to member translation agencies. The alliance is supported by several of the largest evangelical foundations in the country.
+illumiNations was incorporated in 2019 as the grant vehicle for ETEN's philanthropic arm — consolidating donations from individual givers and redirecting them to member translation agencies ([Charity Navigator](https://www.charitynavigator.org/ein/833552306)). The alliance is supported by several of the largest evangelical foundations in the country.
 
 The ETEN Innovation Lab, based at etenlab.org, was established specifically to develop and fund digital tools that accelerate Bible access — audio Bibles, AI translation tools, digital distribution platforms. This is the arm of ETEN most directly relevant to Waha.
 

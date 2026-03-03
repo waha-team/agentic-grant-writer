@@ -58,6 +58,8 @@
 6. **Vision (from founder):** "To nurture and enrich the educational, cultural, social and spiritual lives of individuals, families and community"
 7. **Faith eligibility:** Organizations "that employ dignity and life-affirming principles aligned with the common good and reflected in Judeo-Christian tenets or principles"
 
+([Foundation Website — About](https://murdocktrust.org/about-the-trust); [Foundation Website — Eligibility Guidelines](https://murdocktrust.org/grant-application-process/guidelines-for-grantseekers))
+
 ---
 
 ## How We Map to Each Value

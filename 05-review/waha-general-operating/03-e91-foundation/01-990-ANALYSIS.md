@@ -8,14 +8,14 @@
 
 ## Giving Overview
 
-- **Total grants per year:** Approximately $280,000–$450,000 annually (estimated from quarterly reports; Q1 2025: $70,908; Q3 2024: $110,076; Q1 2024: $82,076)
+- **Total grants per year:** Approximately $280,000–$450,000 annually (estimated from quarterly reports; Q1 2025: $70,908; Q3 2024: $110,076; Q1 2024: $82,076) ([Foundation Website — Q1 2025 Update](https://e91foundation.org/portfolio-posts/2025-first-quarter-update/); [Q3 2024 Update](https://e91foundation.org/portfolio-posts/2024-third-quarter-update/); [Q1 2024 Update](https://e91foundation.org/portfolio-posts/2024-first-quarter-update/))
 - **Number of grants per year:** Approximately 30–60 (15–20 per quarter)
-- **Median grant size:** $5,000 (stated explicitly on website)
+- **Median grant size:** $5,000 (stated explicitly on website) ([Foundation Website — FAQ](https://e91foundation.org/contact-us/faq/))
 - **Average grant size:** Approximately $5,000–$8,000
 - **Grant range:** $1,000–$25,000 (from quarterly reports; $25,000 appears to be reserved for E91 Church's own programs; outside grantees typically $2,500–$8,788)
 - **Most common grant size bracket:** $5,000–$8,788
-- **Stated endowment/fund size:** "Fund exceeds $3 million" (from website)
-- **Total granted since 1994:** "More than $2 million" to "300+ evangelical nonprofit ministries"
+- **Stated endowment/fund size:** "Fund exceeds $3 million" (from website) ([Foundation Website — Impact](https://e91foundation.org/impact/))
+- **Total granted since 1994:** "More than $2 million" to "300+ evangelical nonprofit ministries" ([Foundation Website — Impact](https://e91foundation.org/impact/))
 
 **Note on $8,788 grants:** This precise amount appears repeatedly across multiple grantees and quarters (Allendale Christian Camp, Polish Christian Ministries). It appears to be a standard second-tier grant amount — likely reflecting a specific fund category or calculation formula within the foundation's structure.
 
@@ -23,9 +23,9 @@
 
 ## First-Time vs. Repeat Grantee Analysis
 
-- **Do they give to new organizations?** Yes — LOI process is explicitly open to new applicants. No invitation required.
-- **Typical first-time grant amount:** $5,000 (standard grant amount stated on website)
-- **Do first-time grantees grow over time?** Some do — Afterbeat/Capstone Legacy Foundation received $5,000 in Q1 2024 and again in Q3 2024. Alexander Christian Foundation appears at $16,000–$20,000 across multiple quarters, suggesting relationship growth.
+- **Do they give to new organizations?** Yes — LOI process is explicitly open to new applicants. No invitation required. ([Foundation Website — FAQ](https://e91foundation.org/contact-us/faq/))
+- **Typical first-time grant amount:** $5,000 (standard grant amount stated on website) ([Foundation Website — FAQ](https://e91foundation.org/contact-us/faq/))
+- **Do first-time grantees grow over time?** Some do — Afterbeat/Capstone Legacy Foundation received $5,000 in Q1 2024 and again in Q3 2024. ([Foundation Website — Q1 2024 Update](https://e91foundation.org/portfolio-posts/2024-first-quarter-update/); [Q3 2024 Update](https://e91foundation.org/portfolio-posts/2024-third-quarter-update/)) Alexander Christian Foundation appears at $16,000–$20,000 across multiple quarters, suggesting relationship growth.
 - **Core/repeat grantees (appear across multiple quarters):**
   - Allendale Christian Camp (multiple quarters at $8,194–$8,788) — recurring youth ministry partner
   - Alexander Christian Foundation (multiple quarters at $16,000–$20,000) — recurring, higher amounts suggest trusted relationship
@@ -100,5 +100,7 @@
 | Sandy Humphrey | Board Member | |
 | Kristen Hodge | Board Member | |
 | Adrian Fehl | Staff Representative | Executive Pastor at East 91st Street Christian Church |
+
+([Foundation Website — Our Board](https://e91foundation.org/about-us/our-board/))
 
 **Decision-maker for grants:** Blair and Beth Austin as Co-Presidents, likely with Adrian Fehl as operational contact. Board reviews grant applications collectively.

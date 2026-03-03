@@ -19,9 +19,9 @@ There is no public grant application process. This is entirely relationship-base
 1. **Email Tom Jensen** at info@engageglobal.org — brief introduction, 1-page concept note attached, ask for their preferred process for reviewing partner grant requests
 2. **Phone follow-up** to 612-770-5998 if no response within 1 week
 3. **If they express interest:** submit full materials (proposal, budget, 501(c)(3) letter, etc.)
-4. **Decision:** Made by board (Tom Jensen, Sandra Jensen, Rick Davis, Barry Brown, Jeff Tuttle)
+4. **Decision:** Made by board (Tom Jensen, Sandra Jensen, Rick Davis, Barry Brown, Jeff Tuttle) ([ProPublica 990, 2024](https://projects.propublica.org/nonprofits/organizations/461112682))
 
-**Reference the Pioneers connection prominently** in initial outreach — Engage Global funds Pioneers ($26K–$33K/year) and Pioneers uses Waha.
+**Reference the Pioneers connection prominently** in initial outreach — Engage Global funds Pioneers ($26K–$33K/year) ([Cause IQ](https://www.causeiq.com/organizations/engage-global-sandra-jensen,461112682/)) and Pioneers uses Waha.
 
 ## Requirements Checklist
 
@@ -47,7 +47,7 @@ There is no public grant application process. This is entirely relationship-base
 
 ## Grant Ask Amount
 
-**$25,000** — within their historical range ($26,600–$64,500 per grantee); positioned as general operating support for Waha's Mobilization program
+**$25,000** — within their historical range ($26,600–$64,500 per grantee) ([Cause IQ](https://www.causeiq.com/organizations/engage-global-sandra-jensen,461112682/)); positioned as general operating support for Waha's Mobilization program
 
 ## Budget Framing
 

@@ -7,8 +7,8 @@
 ## Finishing Fund / Global Frontier Missions Leadership
 
 ### Global Frontier Missions Leadership (operational partner)
-- **Background:** GFM (EIN 31-1738321, based in Cumming, GA) operates as the awareness and intake partner for The Finishing Fund. GFM's leadership team effectively manages the fund's partner relationships.
-- **MinistryWatch rated:** GFM received a "transparency" designation from MinistryWatch.
+- **Background:** GFM (EIN 31-1738321, based in Cumming, GA) operates as the awareness and intake partner for The Finishing Fund. GFM's leadership team effectively manages the fund's partner relationships. ([Foundation Website](https://www.globalfrontiermissions.org/unreached-people-group-fund))
+- **MinistryWatch rated:** GFM received a "transparency" designation from MinistryWatch. ([Source: MinistryWatch — URL unavailable])
 - **To identify:** GFM's executive leadership and board should be researched for potential connection paths. Search GFM's website for staff directory.
 - **Notes for engagement:** A direct relationship with GFM staff is the entry point for The Finishing Fund. GFM selects which ministry partners are presented to the fund.
 

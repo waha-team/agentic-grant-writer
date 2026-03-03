@@ -8,21 +8,21 @@
 
 ## Giving Overview
 
-- **Total grants (2023):** $96,000,000
-- **Number of grants (2023):** 378
-- **Number of grants (2022):** 874 (higher count due to many smaller Initiative grants)
-- **Average grant size (2023):** ~$254,000
+- **Total grants (2023):** $96,000,000 ([Murdock Trust 2023 Annual Report](https://murdocktrust.org/annual-reports/2023))
+- **Number of grants (2023):** 378 ([Murdock Trust 2023 Annual Report](https://murdocktrust.org/annual-reports/2023))
+- **Number of grants (2022):** 874 (higher count due to many smaller Initiative grants) ([ProPublica 990, 2022](https://projects.propublica.org/nonprofits/organizations/237456468))
+- **Average grant size (2023):** ~$254,000 ([Murdock Trust 2023 Annual Report](https://murdocktrust.org/annual-reports/2023))
 - **Grant range (Strategic Grants):** ~$70,000 – $1,500,000+
 - **Initiative grants:** Typically $19,000–$250,000 (smaller, specialized programs)
 - **Most common Program & Staff grant bracket:** $100,000–$400,000
 
-**Note on grant structure:** Murdock uses a 3-year declining funding structure for Program & Staff grants (100% / 67% / 33% in years 1, 2, 3). A $150,000 first-year grant means a $100,500 second-year grant and $49,500 third-year grant. Total relationship value could be $300,000+ over three years.
+**Note on grant structure:** Murdock uses a 3-year declining funding structure for Program & Staff grants (100% / 67% / 33% in years 1, 2, 3). A $150,000 first-year grant means a $100,500 second-year grant and $49,500 third-year grant. Total relationship value could be $300,000+ over three years. ([Foundation Website — Grant Opportunities](https://murdocktrust.org/grant-opportunities))
 
 ---
 
 ## Program & Staff Grant Examples (Most Relevant to Waha)
 
-From the public grants database and 2023 annual report:
+From the public grants database and 2023 annual report ([Murdock Trust Grants Awarded](https://murdocktrust.org/grants-awarded); [Murdock Trust 2023 Annual Report](https://murdocktrust.org/annual-reports/2023)):
 
 | Organization | Grant | Year | State | Purpose |
 |---|---|---|---|---|
@@ -71,16 +71,16 @@ From the public grants database and 2023 annual report:
 | Sanctuary Mental Health Ministries | $243,000 | 2023 | Program & Staff |
 | International Deaf Education Association | $244,000 | 2023 | Program & Staff |
 
-**Key finding:** Murdock explicitly funds faith-based organizations under the "Faith Formation" sub-area of its Civic Engagement sector. Lighthouse Mission Ministries (Christian homeless ministry) received a $1M capital grant. The Vision & Call internship initiative specifically targets faith-based ministry organizations for young adult internship programs.
+**Key finding:** Murdock explicitly funds faith-based organizations under the "Faith Formation" sub-area of its Civic Engagement sector. Lighthouse Mission Ministries (Christian homeless ministry) received a $1M capital grant. The Vision & Call internship initiative specifically targets faith-based ministry organizations for young adult internship programs. ([Murdock Trust Grants Awarded](https://murdocktrust.org/grants-awarded))
 
 ---
 
 ## First-Time vs. Repeat Grantee Analysis
 
-- **Do they give to new organizations?** Yes — multiple examples of first-time grantees in every annual report
+- **Do they give to new organizations?** Yes — multiple examples of first-time grantees in every annual report ([Murdock Trust Grants Awarded](https://murdocktrust.org/grants-awarded))
 - **Typical first-time grant amount:** $100,000–$200,000 for Program & Staff grants
-- **Repeat grantee patterns:** Strong — Abuse Recovery Ministry received grants in 2015, 2019, and 2022. A Village for One in 2019 and 2023. 5th Avenue Theatre in 2015 and 2019. Murdock has multi-decade relationships with some organizations.
-- **Return wait:** 3 years between grants for returning grantees; 1 year if declined
+- **Repeat grantee patterns:** Strong — Abuse Recovery Ministry received grants in 2015, 2019, and 2022. A Village for One in 2019 and 2023. 5th Avenue Theatre in 2015 and 2019. Murdock has multi-decade relationships with some organizations. ([Murdock Trust Grants Awarded](https://murdocktrust.org/grants-awarded))
+- **Return wait:** 3 years between grants for returning grantees; 1 year if declined ([Foundation Website — FAQ](https://murdocktrust.org/faq))
 
 ---
 
@@ -104,6 +104,8 @@ From the public grants database and 2023 annual report:
 | Scientific Research | 11% ($10.8M) |
 | Nonprofit Leadership & Development | 2% ($2.0M) |
 | Initiative Grants | $11.9M (126 grants) |
+
+([Murdock Trust 2023 Annual Report](https://murdocktrust.org/annual-reports/2023))
 
 **Waha's sector:** Civic Engagement & Community Services, specifically "Faith Formation" subcategory. This represents approximately 31% of Murdock's grantmaking — a significant and competitive sector.
 
@@ -141,17 +143,17 @@ From the public grants database and 2023 annual report:
 
 | Name | Title | Notes |
 |---|---|---|
-| John W. Castles | Trustee | Since 1995. Longest-serving trustee. |
-| Jeffrey T. Grubb | Trustee | Since 2010. |
-| Jeffrey D. Pinneo | Trustee | Since 2016. |
-| Romanita Hairston | CEO | Since ~2023. Leads grantmaking strategy. |
+| John W. Castles | Trustee | Since 1995. Longest-serving trustee. ([Foundation Website — Our People](https://murdocktrust.org/our-people)) |
+| Jeffrey T. Grubb | Trustee | Since 2010. ([Foundation Website — Our People](https://murdocktrust.org/our-people)) |
+| Jeffrey D. Pinneo | Trustee | Since 2016. ([Murdock Trust New Trustee Announcement](https://murdocktrust.org/2016/08/murdock-trust-announces-new-trustee)) |
+| Romanita Hairston | CEO | Since ~2023. Leads grantmaking strategy. ([Murdock Trust CEO Announcement](https://murdocktrust.org/2022/07/welcome-our-new-ceo-romanita-hairston)) |
 | Elmer Huh | Chief Investment Officer | Manages ~$1.5B endowment |
 | Mike True | Chief Financial Officer | |
-| Pauline Fong | Chief Program & Impact Officer | Key decision-maker for all grant sectors |
-| Colby Reade | VP, External Affairs & Strategy | Oversees communications/external relations |
-| Rudy Carrasco | VP, Civic Engagement & Community Services | **Primary contact for Waha** — leads sector most relevant to faith-based grants |
-| Jeremy White | Senior Program Officer, Civic Engagement | Likely processes LOIs in Waha's sector |
-| Jennifer Groth | Senior Program Officer, Civic Engagement | New hire 2023 — co-covers sector |
+| Pauline Fong | Chief Program & Impact Officer | Key decision-maker for all grant sectors ([Foundation Website — Our People](https://murdocktrust.org/our-people)) |
+| Colby Reade | VP, External Affairs & Strategy | Oversees communications/external relations ([Foundation Website — Our People](https://murdocktrust.org/our-people)) |
+| Rudy Carrasco | VP, Civic Engagement & Community Services | **Primary contact for Waha** — leads sector most relevant to faith-based grants ([Foundation Website — Our People](https://murdocktrust.org/our-people)) |
+| Jeremy White | Senior Program Officer, Civic Engagement | Likely processes LOIs in Waha's sector ([Foundation Website — Our People](https://murdocktrust.org/our-people)) |
+| Jennifer Groth | Senior Program Officer, Civic Engagement | New hire 2023 — co-covers sector ([Foundation Website — November Staffing Update](https://murdocktrust.org/2023/11/november-staffing-update)) |
 | Kimberly Thornbury | VP, Programs & Partnerships | External programs |
 | Lynwood W. Swanson | Trustee Emeritus | Long-term relationship |
 | Steven G.W. Moore | CEO Emeritus | |

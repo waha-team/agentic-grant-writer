@@ -7,13 +7,13 @@
 ## Board of Directors / Family Principals
 
 ### David M. Green — Patriarch / Founder
-- **Background:** Founded Hobby Lobby in 1972; built it into a $5B+ retail empire. Widely regarded as one of the most generous evangelical philanthropists in America. His autobiography "Giving It All Away and Getting It All Back Again" describes a "God Owns It All" theology of stewardship.
+- **Background:** Founded Hobby Lobby in 1972; built it into a $5B+ retail empire ([Wikipedia — David Green](https://en.wikipedia.org/wiki/David_Green_(entrepreneur))). Widely regarded as one of the most generous evangelical philanthropists in America. His autobiography "Giving It All Away and Getting It All Back Again" describes a "God Owns It All" theology of stewardship.
 - **LinkedIn:** Limited public profile; search "David Green Hobby Lobby"
 - **Relevant connections:** Does not typically take meetings with small nonprofits. Access through family members (Mart Green for tech/ministry; Brittany Green Daniels for grants).
 - **Notes for engagement:** The patriarch; not the right first contact. His involvement comes after the family is already interested.
 
 ### Mart D. Green — Son / The YouVersion Connection
-- **Background:** Leads Mardel Christian & Educational Supply (sister company to Hobby Lobby). Co-founded the Museum of the Bible in Washington, D.C. SPECIFICALLY funded YouVersion from the beginning — "Mart Green offered help to YouVersion founder Bobby Gruenewald before the project launched as a website back in 2007."
+- **Background:** Leads Mardel Christian & Educational Supply (sister company to Hobby Lobby). Connected to Museum of the Bible in Washington, D.C. SPECIFICALLY funded YouVersion from the beginning — "Mart Green offered help to YouVersion founder Bobby Gruenewald before the project launched as a website back in 2007" ([Gospel Patrons](https://www.gospelpatrons.org/media/this-book-is-alive/); [Outreach Magazine](https://outreachmagazine.com/interviews/41163-mart-green-on-a-quest-to-eliminate-bible-poverty.html)).
 - **LinkedIn:** Search "Mart Green" — some public profile
 - **Relevant connections:** This is the single most valuable connection for Waha. Mart Green + YouVersion + Bible technology is Waha's lane. Jenny Tangeman (YouVersion CSO, Waha endorser) almost certainly knows Mart Green.
 - **Notes for engagement:** The YouVersion warm path leads directly to Mart Green. The pitch: "We are the disciple-making activation layer for the Scripture access that YouVersion provides — and Jenny Tangeman (your YouVersion contact) endorses us publicly."

@@ -30,14 +30,15 @@
 - **Full 990 download:** https://projects.propublica.org/nonprofits/organizations/621138444
 
 ## FCBH Partnership Details
-- Partnership began: 2016
+- Partnership began: 2013 (per Ankerberg's own account, not 2016 as initially noted) ([MinistryWatch](https://ministrywatch.com/amp/ankerberg-confirms-raising-20m-for-audio-bibles-but-kept-80-percent-for-production-air-time-other-expenses/))
 - Nature: Ankerberg partnered WITH FCBH to send audio Bible devices worldwide
-- This means: Ankerberg raised funds from its audience specifically to fund FCBH's Bible distribution work
+- This means: Ankerberg raised approximately $20 million from its audience for FCBH's Bible distribution work, though FCBH received approximately $5.7 million of that total ([MinistryWatch](https://ministrywatch.com/amp/ankerberg-confirms-raising-20m-for-audio-bibles-but-kept-80-percent-for-production-air-time-other-expenses/))
 - Implication for Waha: Ankerberg donors are already proven audio Scripture supporters
 
 ## Board of Directors / Officers (from 990)
 *Full board list requires 990 download. Available public information:*
-- **John Ankerberg** — Founder and primary public figure. Still active in ministry as of 2024 (new 990 filed October 2024).
+- **John Ankerberg** — Founder and primary public figure. Still active in ministry as of 2024 (new 990 filed October 2024) ([ProPublica 990](https://projects.propublica.org/nonprofits/organizations/621138444)).
+- **Darlene Ankerberg** — CEO of ATRI ([About Us, The John Ankerberg Show](https://atriresearch.org/about-the-john-ankerberg-show/)). Note: Earlier research listed her surname as "Brock" — confirmed surname is Ankerberg.
 - Leadership team includes production, ministry, and administrative staff.
 - Search LinkedIn for "Ankerberg Theological Research Institute" for current staff.
 

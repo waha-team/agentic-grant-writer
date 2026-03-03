@@ -6,8 +6,8 @@
 ---
 
 ## Giving Overview
-- **Total grants since 2020:** $146,956,792 (43 total awards across all years)
-- **2023 grants total:** $45,036,991
+- **Total grants since 2020:** $146,956,792 (43 total awards across all years) ([ProPublica 990](https://projects.propublica.org/nonprofits/organizations/833552306))
+- **2023 grants total:** $45,036,991 ([ProPublica 990](https://projects.propublica.org/nonprofits/organizations/833552306))
 - **Number of grants in 2023:** 13
 - **Average grant size (2023):** ~$3,464,384
 - **Grant range:** Highly variable — from several hundred thousand to tens of millions per award
@@ -57,9 +57,9 @@ The following grantees resemble Waha in mission (audio Scripture, digital access
 ## Board of Directors / Officers (from 990)
 
 *Note: Detailed board list requires full 990-PF download. Available public information:*
-- The illumiNations board includes representatives from major ETEN member organizations.
-- **Dal Anderson** has been cited as early CEO/leadership at illumiNations.
-- **Stephen Cave** — Chief Strategist, ETEN Innovation Lab (key contact for technology partnerships)
-- **ETEN founding members' CEOs** typically serve on the alliance governance board (Wycliffe, UBS, SIL, Pioneer BT, Seed Company, Biblica leadership)
+- The illumiNations board includes representatives from major ETEN member organizations ([ProPublica 990](https://projects.propublica.org/nonprofits/organizations/833552306)).
+- **Dal Anderson** has been cited as early CEO/leadership at illumiNations ([Source: ETEN ecosystem public records — URL unavailable]).
+- **Stephen Cave** — Chief Strategist, ETEN Innovation Lab (key contact for technology partnerships) ([ETEN Innovation Lab](https://www.etenlab.org))
+- **ETEN founding members' CEOs** typically serve on the alliance governance board (Wycliffe, UBS, SIL, Pioneer BT, Seed Company, Biblica leadership) ([ETEN — What We Do](https://eten.bible/what-we-do/))
 
 For current board, download the most recent 990-PF from ProPublica: https://projects.propublica.org/nonprofits/organizations/833552306

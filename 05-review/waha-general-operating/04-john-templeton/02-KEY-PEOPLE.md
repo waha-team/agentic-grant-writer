@@ -7,7 +7,7 @@
 ## Executive Leadership (from 990 and templeton.org)
 
 ### Heather Templeton Dill — President
-- **Background:** Granddaughter of Sir John Templeton. Joined the foundation in 2005; became President in 2015. Holds a degree in history from Princeton University. Guides the foundation's overall philanthropic direction and maintains fidelity to Sir John Templeton's vision of using scientific and empirical inquiry to explore life's biggest questions.
+- **Background:** Granddaughter of Sir John Templeton. Joined the foundation in 2005; became President in 2015. ([Wikipedia](https://en.wikipedia.org/wiki/John_Templeton_Foundation)) Holds a degree in history from Princeton University. ([Foundation Website](https://www.templeton.org/team-member/heather-dill)) Guides the foundation's overall philanthropic direction and maintains fidelity to Sir John Templeton's vision of using scientific and empirical inquiry to explore life's biggest questions.
 - **Notes for engagement:** As President, Heather sets the foundation's strategic direction. She is particularly committed to the intersection of faith and science — a framing that is directly relevant to Waha's research proposal. A letter or introduction that references Sir John Templeton's legacy and how Waha's research honors that legacy would resonate.
 - **LinkedIn:** Heather Templeton Dill — search for public profile
 
@@ -27,11 +27,11 @@
 - **Notes:** External trustee providing governance oversight. Less relevant for program inquiries.
 
 ### John H. Templeton — Trustee
-- **Background:** Son of Sir John Templeton. A committed Christian with interests in medicine and philanthropy.
+- **Background:** Son of Sir John Templeton. A committed Christian with interests in medicine and philanthropy. ([ProPublica 990, 2024](https://projects.propublica.org/nonprofits/organizations/621322826))
 - **Notes:** Personal connection to the Templeton family (even tangentially) would be valuable — though the foundation's OFI process is designed to work without personal connections.
 
 ### Lauren Templeton — Trustee
-- **Background:** Granddaughter of Sir John Templeton. Investment professional. Active in philanthropic work.
+- **Background:** Granddaughter of Sir John Templeton. Investment professional. Active in philanthropic work. ([ProPublica 990, 2024](https://projects.propublica.org/nonprofits/organizations/621322826))
 - **Notes:** Similar to John H. — personal connection valuable but not required.
 
 ---

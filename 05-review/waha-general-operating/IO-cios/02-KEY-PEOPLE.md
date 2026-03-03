@@ -7,21 +7,24 @@
 ## Historical Leadership
 
 ### Paul P. Piper Sr. — Founder (deceased)
-- **Background:** Texas entrepreneur. Founded CIOS with his wife Katy. Name and foundation reflect their core theological conviction: "Christ Is Our Salvation." Baylor University held services for Paul Sr., and the family has maintained deep Baylor connections.
-- **Legacy:** The book "Christ Is Our Salvation: A Life Story of Paul and Katy Piper" (Lee Allen & Catherine Allen) documents the Piper family's faith and philanthropic history.
+- **Background:** Texas entrepreneur who founded Piper Industries in 1937 with $17 from his parents, growing it into a diversified company with more than 1,000 employees ([Here-4-You Consulting / npfunds.com](https://npfunds.com/directory/c-i-o-s/)). Founded CIOS with his wife Katy in 1952. Name and foundation reflect their core theological conviction: "Christ Is Our Salvation." Baylor University held services for Paul Sr. ([Baylor University](https://www.baylor.edu/mediacommunications/news.php?action=story&story=6403)), and the family has maintained deep Baylor connections.
+- **Legacy:** The book "Christ Is Our Salvation: A Life Story of Paul and Katy Piper" (Lee Allen & Catherine Allen) documents the Piper family's faith and philanthropic history ([Amazon](https://www.amazon.com/Christ-Our-Salvation-Story-Piper/dp/0962563420)).
 
 ### Katy Piper — Co-founder (deceased)
 - **Background:** Co-founder with Paul Sr. The CIOS name reflects her faith alongside her husband's.
 
 ---
 
-## Current Leadership (from 990 — requires download to confirm)
+## Current Leadership (confirmed from public press releases)
 
-### Paul P. Piper Jr. — Likely current officer
-- **Background:** Listed as historical officer/donor. Son of founders. Likely involved in current foundation governance.
-- **Business connection:** Piper Industries Inc. was listed as a donor entity alongside the Piper family members.
+### Paul P. Piper Jr. — President
+- **Background:** Son of founders. Confirmed as current president of the CIOS Foundation alongside his wife Shirley ([Northern Seminary](https://www.seminary.edu/news/christ-is-our-salvation-foundation-makes-large-grant-to-northern-benefiting-women-and-persons-of-color/)).
+- **Business connection:** Piper Industries Inc. was the Piper family business.
 - **LinkedIn:** Search "Paul Piper Waco Texas" or "Piper Industries"
-- **Notes:** Current governance structure requires 990-PF download to confirm. As family successor, Piper Jr. likely makes or approves all grant decisions.
+- **Notes:** Piper Jr. makes or approves all grant decisions.
+
+### Shirley Piper — Program Officer
+- **Background:** Wife of Paul Piper Jr. Serves as Program Officer of the CIOS Foundation ([Here-4-You Consulting / npfunds.com](https://npfunds.com/directory/c-i-o-s/)).
 
 *Full current officer list requires 990-PF download:* https://projects.propublica.org/nonprofits/organizations/742472778
 

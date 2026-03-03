@@ -17,8 +17,10 @@
 - **Total assets:** $110,000,000 (significant)
 - **Estimated annual grantmaking:** Unknown — common for private foundations to distribute 5% of assets annually (~$5,500,000 if following minimum distribution rules)
 - **Confirmed grants:**
-  - Samford University, Center for Worship and the Arts: **$300,000** (3-year grant, ~2013)
-  - Baylor University, "Next Big Idea" conference: **$50,000** (2009)
+  - Samford University, Center for Worship and the Arts: **$300,000** (3-year seed grant, 2013; CIOS total giving to the Center reached $2 million by end of 2024) ([Samford University](https://www.samford.edu/news/2013/300000-Grant-Will-Support-Center-for-Worship-and-the-Arts-at-Samford))
+  - Baylor University, "Next Big Idea" conference: **$50,000** (2009) ([Baylor University](https://www.baylor.edu/mediacommunications/news.php?action=story&story=51797))
+  - Northern Seminary: **$750,000 challenge grant** to establish the Paul and Shirley Piper Chair of Urban Missions and Evangelism and a financial aid program for women and persons of color ([Northern Seminary](https://www.seminary.edu/news/christ-is-our-salvation-foundation-makes-large-grant-to-northern-benefiting-women-and-persons-of-color/))
+  - Buckner International (Texas-wide programs) ([Buckner International](https://www.buckner.org/blog/cios-foundation-grant/))
 - **Grant range:** Estimated $50,000 – $1,000,000+ based on confirmed examples and asset size
 - **Grant count:** Unknown
 - **Annual giving trend:** Unknown without 990 download
@@ -49,9 +51,9 @@
 
 ## Board of Directors / Officers (from 990)
 
-*From ProPublica and historical records:*
-- Founders: Paul P. Piper Sr. and Katy Piper (deceased; Paul Sr. died before 2009 based on Baylor records)
-- Historical officers/donors: Paul P. Piper Jr., Piper Industries Inc.
-- **Current board/officers require 990-PF download** — family successors likely control the foundation now.
+*From ProPublica and public records:*
+- Founders: Paul P. Piper Sr. and Katy Piper (deceased; Paul Sr. died before 2009 based on Baylor records ([Baylor University](https://www.baylor.edu/mediacommunications/news.php?action=story&story=6403)))
+- Current leadership: Paul Piper Jr. (President), Shirley Piper (Program Officer), Katy Piper (trustee), Polly Piper Rickard (trustee) ([Northern Seminary](https://www.seminary.edu/news/christ-is-our-salvation-foundation-makes-large-grant-to-northern-benefiting-women-and-persons-of-color/))
+- **Full current officer list requires 990-PF download:**
 
 *Download 990-PF from:* https://projects.propublica.org/nonprofits/organizations/742472778

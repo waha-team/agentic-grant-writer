@@ -1,0 +1,193 @@
+# 2024 NAME Grant Application
+
+
+Prior Grant Follow-Up: How was the money spent? And what was the outcome of the project in terms of multigenerational disciple making (disciples, generations, and depth)?
+
+* In last year’s application, we requested funding to launch 10 new NAME language projects to Waha. We are happy to report that we have successfully added 9 NAME languages, with the 10th language (Hassaniya Arabic) scheduled to launch by November 2024.
+* We are also happy to report that Waha as a whole now has 33 total languages, including a very exciting release of our first sign language, American Sign Language.
+* The money received from the previous grant went to:
+  * Paying a portion of our Localization Director’s salary, resulting in a 353% increase speed for launching new languages (we went from launching a new language every 12 weeks to now every 2.6 weeks). 
+  * Paying a portion of our Full Stack Software Engineer’s salary, who helped significantly in both our localization processes and optimizing the app. For example, he and our Localization Director created an AI-powered time stamping tool to save hundreds of hours in generating hundreds of audio Bible mp3s for our DBS curriculum.
+  * Paying a portion of our Bible Licensing Administrator’s salary, who plays a crucial role in the laborious—and often frustrating—process of gaining permission to use Bible translations legally on the app
+  * Paying a portion of our servers/hosting/digital services expenses
+  * Paying contractors for translation, proofreading, creating timing data, video animation syncing, voice narration, audio engineering, etc
+  * Paying a portion of the operational costs required to maintain and grow Waha
+* We are happy to report the following in terms of multigenerational disciple making:
+  * Reports of stage 3 and 4 movements starting in NAME and elsewhere globally (see section below for more details)
+  * 506% increase in introductory DMM trainings using the Disciple Making Course in the NAME region (133 → 807 )
+  * 63% increase in facilitators hosting groups in the NAME region (688 → 1,126 facilitators)
+  * 140% increase in meetings completed in the NAME region (1,559 → 3,740 Discovery Bible Studies)
+
+
+
+Organization History & Vision (three sentences or fewer):  
+
+Waha is a ministry of Mosaic Community Church Seattle—part of the Antioch Movement of churches—and was started by a DMM-focused Mosaic church planting team in Northwest Africa. Our vision is to empower people everywhere to multiply disciples and churches among the unreached through our Discovery Bible Study app and Disciple Making Course.
+
+Ministry Profile: Please describe your ministry within the country(ies) for which you are applying for this grant.
+
+Waha is a Discovery Bible Study and DMM training tool that has been used to host meetings in every country across the NAME region, except for Mauritania (which will change once we launch Hassaniya Arabic in November and start mobilization for that language group). Waha makes obeying the Great Commission easy for minimally trained, ordinary, and even illiterate people, by providing a curated DBS curriculum that guides them to discover, obey, and share God’s Word with their communities. 
+
+
+
+Please describe your ministry in this country(ies) using the CPM Continuum found here.
+Click this box to   Choose an item.
+
+We have three case studies of stage 4 movements, although more may exist. Specifically for NAME, one of those is happening in Jordan. We have another case study of a stage 2 network in the UAE. Many other anecdotes exist of consistent 2nd generation groups forming outside of NAME.
+
+
+Please give the best estimate of the number of your ministry’s generational churches in this country(ies).
+
+We are able to harvest some exciting data from our Waha Dashboard. For security purposes, all of the data is anonymous, but when we look at the numbers alongside stories from the field of generational multiplication, we see compelling progress. The numbers in the dashboard represent a completed lesson, done by a group, as measured by a user spending more than 10 minutes on a lesson’s play screen and advancing through 75%+ of the lesson’s content. 
+
+In the table below, we count Gen-0 groups as groups going through the Waha Disciple Making Course. The generation 1-4 groups are progressing through the Waha Foundational Lessons (C2C & Beyond). These numbers are based on the last 12 months (10/14/23 - 10/14/24) for the NAME region. We have several anecdotes from field usage of consistent third and some 4th generation groups. To get specific details on the exact status of all these groups, we would have to extensively survey users from whom we intentionally don’t ask for contact information, or we would need to create features that we feel would be perceived as an invasion of privacy by our users in these higher security contexts. 
+
+Column 1	Column 2
+Gen 0	Gen 1 - 4
+254	810         (for security reasons, all activity is anonymous)
+
+
+Generational Groups Starting
+
+One user shared with us this bubble map (with names crossed out per his request):
+
+Untitled design.jpg
+
+He is using Waha in the Levant region of the Middle East. Here is what he said about using Waha:
+
+We are starting at Foundations [of Waha] from creation to Christ to disciple them before moving on to the [Disciple Making Course]. For more mature MBB, we are “raising up more workers for the harvest” with the Training. We are starting to get to the third generation of DGs. The various Arabic dialects are nice because this DMM training group is leading many DGs via Zoom in Tunisia, Egypt and Lebanon as well as locally among Syrian and Iraqi refugees. 
+
+
+
+Another disciple maker sent us this bubble map for a movement starting among Muslims in the Philippines. Unfortunately, we do not have funding to add his language yet, but key local leaders who can read English have used Waha as a guide for their groups.
+
+image.png
+
+Here is what he said about the budding movement:
+
+As we started to train an initial group of 18 Cousins in November, we now have 4 Streams (2 Woman/girls streams, 1 Ustadz stream, 1 Man stream.)
+Through the man stream we got 2 other potential streams: 1 previous rebel group and 1 peace maker group in the middle of the country 
+It is hard to keep track of the numbers at the moment but we are working on a simple system ( if u know anything let me know) 
+But the first group of 15 leaders that we trained in November grew from 15 groups to a total of 75, of which 2 in the 4th Gen
+
+
+
+Project/Purpose:  In one paragraph, give a high-level summary of the project and/or purpose for which you are seeking a DMM grant. What activities will you undertake? 
+
+Our goals for this year are to (1) hire a Mobilization Director and recruit 27 more regional coordinators. This team will work with the Mobilization Director to raise awareness of Waha, network, train, and coach local believers to use Waha. (2) Add 10 more NAME languages to Waha. (3) Market, improve, and scale Waha as a whole both in NAME and globally.
+
+
+
+In one to three sentences, share how this project will be strategically managed. Is there a leadership team? Do you have evaluation processes in place? Are any outside coaches helping? If so, who?
+
+Full-Time Staff: 
+
+* Jeff P (CEO)
+* Josh M (Localization Director)
+* Trent C (Full Stack Engineer)
+* Alycia D (Bible Licensing/Admin)
+* Vince K (Development Director)
+* Mobilization Director (awaiting funding)
+
+Part-Time Staff:
+
+* Adam A (Sub-Saharan Africa Coordinator)
+* Zach D (Asia Coordinator)
+* Daniel K (Europe Coordinator)
+* Jared M (Interim NAME coordinator)
+* 27 Additional Regional Coordinators (awaiting funding)
+
+
+
+Governing Board (this is a sub-board of Mosaic’s board):
+
+* Andrew Bach (Lead Pastor, Mosaic Community Church Seattle)
+* Paul Jackson (Executive Pastor, Mosaic Community Church Seattle)
+* Dan Grimm (Head of New Product Development, AT&T)
+* Chris Stacey (Senior Director of Data Engineering, Dell)
+
+
+
+Strategic Advisory Board:
+
+* Stan P (24:14 Co-Facilitator)
+* Neal (North African Ephesus Co-Facilitator)
+* Clint M (Middle East Ephesus Co-Facilitator)
+* Jared M (Waha co-founder, former CEO)
+
+
+
+Funding Information: 
+
+Column 1	Column 2	Text
+Total cost of the project in USD?	What’s the grant amount you are seeking?	Waha’s Target Budget 2024/25
+$500,000	$250,000	$1,200,000
+
+
+Matching Funds: The NAME DMM Grant only gives matching funds. How will the first 50% of these funds be raised?
+
+ Our budget for the 2024-2025 fiscal year is $1.2 million. We are actively working to fully fund this budget.
+
+
+Timeframe: In one paragraph, describe: What is the expected timeframe for your activities? (High level ideas are needed, not detailed dates.)
+
+The budget for this project follows our fiscal year from September 1, 2024 - August 31, 2025. For a more in-depth look at what NAME languages are in our pipeline you can view https://waha.app/languages.
+
+
+
+Key Outcomes & Impact Expected: 
+In one or two paragraphs, what are the major outcomes and intended impact of your project?  Please include:
+  - How you expect this project to accelerate disciple making movements among Mu$1ims.
+
+With the grant we received last year, we were able to add Levantine Arabic to Waha. “Steve”, an American missionary, did the Waha Disciple Making Course with a group of 8 local believers in Jordan. That group was able to immediately start one discovery group (using the newly added Levantine Arabic!) after the training. In the disciple maker’s words, they got “hooked” after that. Now they have started dozens of new groups, reaching consistent third generation. They are using the topical stories in Waha and then going through the Creation to Christ lessons.
+
+Through simply reading scripture, applying it, and sharing it with others, we are seeing many case studies world wide (and in the NAME region) of groups getting catalyzed and multiplying. Over the past 12 months, globally, Waha has doubled in usage, reaching now over 33,000 Discovery Bible Studies facilitated! This number is likely much higher, as we are unable to track lessons that have been shared fully offline (like as a PDF or WhatsApp mp3).
+
+For this grant, we need to increase the availability of DMM resources (Waha DBS and the Disciple Making Course) in low-resource languages. Every week we get new requests to add languages, so we prioritize adding the languages where there is an existing movement, network, or community to launch to. Our goal for this grant is to add 10 more NAME languages.
+
+Additionally, with the same excellence we revamped out translation process (thanks to the grant you funded!), we want to build out a robust mobilization process. So this means, dramatically increasing networking, training, and coaching throughout both NAME and other regions. Part of that would be to build out a regional coordinator network. These regional coordinators would be largely self-funded, with a small stipend from our team and we would cover some travel expenses. Just as we hired a Localization Director with great success, we need to expand our team with a Mobilization Director to coordinate a team of 30 regional coordinators.
+
+
+  - Thoughts on how your strategy promotes sustainable results that may reduce the need for future outside investment.
+
+We model our financial strategies after YouVersion and the BibleProject. Half of their operating budgets come from small monthly “crowd funders” - we have kicked this process off in the last year with the roll out of a new website and we are continuing to develop that program. Additionally, Waha is a catalytic use of funds that does not create any type of economic dependence between Western money and NAME region locals.
+
+
+
+Outcome Timeframe: Describe in two brief paragraphs: 1) What do you expect outcomes to be in one year? 2) What do you expect outcomes to be in five years?
+
+Goals	Oct 2022 - 23	Oct 2023 - 2024	Goal for 2025	Goal for 2030
+Meetings Accomplished	7,815 DBSs Facilitated	14,153 DBSs Facilitated	26,891 DBSs Facilitated	340,752 DBSs Facilitated
+Facilitators/Groups	2,953	4,916	8,603	159,457 
+Movements	Few Stage 2 networks, One stage 3 movement identified	Three Stage 4 Movements Identified (may have others??)	Four Stage 5 Movements / One Stage Five or Beyond Movements	Multiple Stage 7 Movements using Waha
+Languages	19	33	45	100+
+
+
+Other Descriptions (OPTIONAL): 
+
+“R” is a local pastor. He has a vision to reach not only his city, but his whole country, and the surrounding countries to the east. His vision is to equip, train, and commission Kingdom Laborers to plant churches. But he knows there isn’t enough funding available to pay salaries for these Kingdom Laborers. He sees that these people need to be bi-vocational ministers. He just isn’t sure how to do this both strategically or tactically. After learning about DMM at the 2024 Lausanne Congress, “R” realized that there is a sustainable approach to making disciples. He loved the emphasis on everyone having a shared responsibility for ministry, not just the paid staff. But he wasn’t sure how to get started with DMM. By chance, I (Jeff), was at this same conference. In R’s words, “Waha is a gift from God. This is exactly what I need to get started with DMM”. R is now training his leaders with the Waha Disciple Making Course while a member of our team coaches him.
+
+We are finding that more and more people are adopting DMM as a strategy. However, they are struggling with the apostolic work of going from zero to one. They need help breaking off previous paradigms of ministry. Waha is increasingly getting pointed to as a resource to help people get started. This was our original vision when we first started! We asked ourselves, “how can we best mobilize, train, and hold accountable local believers to start making steps towards movement”? 
+
+Additionally, according to the State of the Great Commission Report (Laussane, 2024), there are three areas that the global body is identifying as needs for finishing the Great Commission: Increased disciple making, disciple maturing, and tools for a digital age. We feel like Waha is hitting on all of three of these areas. 
+
+
+
+Measures of Success: Over the next 12 months, we are aiming to see the following for the NAME region:
+
+* Go from 15 (NAME) languages to 25, becoming one of the the most widely translated DMM resource in all of NAME (in terms of variety of languages)
+* Go from 807 introductory DMM trainings to 2,000
+* Go from 1,126 to 2,815 unique facilitators hosting groups
+* Go from 3,740 lessons completed to 9,350 meetings
+
+
+
+Budget & Schedule Detail: 
+
+The cost to continue to improve Waha as a product, rapidly add new languages, market, train, and mobilize local disciple makers to use it averages about $50,000 per language. We were able to shave $10,000 off this number with improvements that last year’s grant helped fund! Compared to the average cost of translating the Bible into a new language ($1.2 million), this amount is leading to significant scripture engagement, disciple makers equipped, churches planted, and disciple making movements catalyzed. Our requested amount of $250,000 would cover half of the cost to launch the 10 NAME languages this year. 
+
+In the coming 12 months, we will add the following NAME languages to Waha: Egyptian Sign Language DBS, Hebrew DBS / DMC, Sudanese Arabic DBS, Somali DBS, Azeri DBS, Southern Kurdish DBS, Armenian DBS, Georgian DBS, Pashto DBS, and Nafusi (Libyan Berber) DBS. Additionally, we will be able to hire 30 low cost regional coordinators and a mobilization director, so as to dramatically increase training, coaching, networking, and marketing among local believers in the NAME region and beyond.
+
+While adding particularly low-resource languages (like Egyptian Sign Language) may not result in an immediate boost of overall Waha numbers, we continue to believe that creating DMM resources in these frontier people groups is essential for the completion of the Great Commission. We humbly and fervently request your continued partnership to help us make it happen.
+
+Our target budget for Waha this year is $1,200,000. Our NAME activity accounts for roughly 40% of our efforts and resource allotment, which explains our $500,000 total project cost.

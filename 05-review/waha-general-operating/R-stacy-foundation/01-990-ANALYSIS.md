@@ -7,15 +7,15 @@
 
 ## Giving Overview
 
-- **Total grants per year:** ~$3,285,638 (FY2024) / ~$3.3M annual average
+- **Total grants per year:** ~$3,285,638 (FY2024) / ~$3.3M annual average ([ProPublica 990, 2024](https://projects.propublica.org/nonprofits/organizations/311706311))
 - **Number of grants per year:** Approximately 10–15 per year (board meets monthly, decisions on rolling basis)
 - **Median grant size:** ~$87,500–$150,000 (weighted by their large anchors)
 - **Average grant size:** ~$250,000–$330,000 (skewed by large grants to major organizations)
-- **Grant range:** $6,000 – $533,333
+- **Grant range:** $6,000 – $533,333 ([ProPublica 990, 2024](https://projects.propublica.org/nonprofits/organizations/311706311))
 - **Most common grant size bracket for first-time grantees:** $6,000 – $30,000
-- **Total assets:** $57,892,337 (FY2024)
+- **Total assets:** $57,892,337 (FY2024) ([ProPublica 990, 2024](https://projects.propublica.org/nonprofits/organizations/311706311))
 
-**Important note:** The ProPublica aggregate page does not list individual grantees; detailed grant schedules are in the 990-PF PDF. The figures below are drawn from third-party grant databases (Hinchilla, CauseIQ) that have digitized the 990 schedules.
+**Important note:** The ProPublica aggregate page does not list individual grantees; detailed grant schedules are in the 990-PF PDF. The figures below are drawn from third-party grant databases (Hinchilla ([Hinchilla](https://www.hinchilla.com/funders-us/311706311-festus-and-helen-stacy-foundation-inc)), CauseIQ ([Cause IQ](https://www.causeiq.com/organizations/festus-and-helen-stacy-foundation,311706311/))) that have digitized the 990 schedules.
 
 ---
 
@@ -28,6 +28,8 @@
 | Alpha USA | $150,000 | 2022-23 | Evangelism | UK-origin evangelism curriculum — similar to DBS model |
 | Hope South Florida | $87,500 | 2023-24 | Holistic Ministries | Local FL charity |
 | Cardinal Gibbons High School | $30,000 | 2023-24 | Children & Youth | Catholic HS in Fort Lauderdale |
+
+([Cause IQ](https://www.causeiq.com/organizations/festus-and-helen-stacy-foundation,311706311/))
 
 **Pattern:** The foundation gives largest grants to well-known national/international organizations. First-time or smaller grantees appear to receive $6,000–$30,000 range. The Alpha USA grant ($150K) is notable — Alpha's model (seeker-friendly small group discovery format, video + discussion) is arguably the closest existing analog to Waha's DBS. This confirms the foundation has funded organizations with similar methodology.
 
@@ -47,8 +49,8 @@
 - **Where do their grantees operate?**
   - South Florida: Local organizations (Hope South Florida, Cardinal Gibbons HS, etc.)
   - National: Alpha USA, National Christian Foundation
-  - International: Compassion International (operates in 25+ countries)
-- **No geographic restriction** for national or international evangelical organizations — the foundation explicitly states geographic focus includes "international (primarily emerging nations)"
+  - International: Compassion International (operates in 29 countries ([Compassion International](https://www.compassion.com/about-us/where-we-work/)))
+- **No geographic restriction** for national or international evangelical organizations — the foundation explicitly states geographic focus includes "international (primarily emerging nations)" ([Foundation Website](https://www.stacy.cc/grant-guidelines))
 
 ---
 
@@ -83,6 +85,8 @@
 | Brett S. Stepelton | Director, Vice President | $243,528 |
 | Sean D. Stepelton | Director, Vice President | $246,398 |
 | Sharon Falls | Grant Manager | $94,883 |
+
+([ProPublica 990, 2024](https://projects.propublica.org/nonprofits/organizations/311706311))
 
 All board members are compensated, indicating professional management. Brett and Sean Stepelton (grandsons of founders) are the highest-compensated officers, suggesting they drive grant decisions. Sharon Falls (Grant Manager) is likely the primary application contact.
 

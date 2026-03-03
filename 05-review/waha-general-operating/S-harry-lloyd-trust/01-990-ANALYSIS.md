@@ -8,8 +8,8 @@
 ## IMPORTANT: Active Status Discrepancy — Must Verify
 
 Prior PROSPECTS.md noted: "recent 990 showed $0 in grants." However, recent web research shows:
-- **2023 grants:** $100,000 (this may be a TOTAL, not a single grant, given prior range of $5K-$400K)
-- **2022 grants:** 42 awards
+- **2023 grants:** $100,000 (this may be a TOTAL, not a single grant, given prior range of $5K-$400K) ([ProPublica 990, 2023](https://projects.propublica.org/nonprofits/organizations/436689416))
+- **2022 grants:** 42 awards ([Instrumentl](https://www.instrumentl.com/990-report/the-harry-j-lloyd-charitable-trust))
 
 These two data points suggest the trust IS still grantmaking, but possibly at a reduced level. The $0 figure in PROSPECTS.md may be outdated or refer to a specific 990 line item rather than total grant activity.
 
@@ -19,10 +19,10 @@ https://projects.propublica.org/nonprofits/organizations/436689416
 ---
 
 ## Giving Overview (from available data)
-- **Total annual giving (reported):** Cause IQ shows "$8,961,224" historically — this appears to be a lifetime or cumulative figure, not annual
-- **2023 grants confirmed:** $100,000 (exact interpretation unclear — may be total or a large single grant)
-- **2022 grants:** 42 awards (total amount not confirmed without Schedule I)
-- **Historical range per grant:** $5,000 – $400,000
+- **Total annual giving (reported):** Cause IQ shows "$8,961,224" historically — this appears to be a lifetime or cumulative figure, not annual ([Cause IQ](https://www.causeiq.com/organizations/the-harry-j-lloyd-charitable-trust,436689416/))
+- **2023 grants confirmed:** $100,000 (exact interpretation unclear — may be total or a large single grant) ([ProPublica 990, 2023](https://projects.propublica.org/nonprofits/organizations/436689416))
+- **2022 grants:** 42 awards (total amount not confirmed without Schedule I) ([Instrumentl](https://www.instrumentl.com/990-report/the-harry-j-lloyd-charitable-trust))
+- **Historical range per grant:** $5,000 – $400,000 ([Instrumentl](https://www.instrumentl.com/990-report/the-harry-j-lloyd-charitable-trust))
 - **Lifetime giving:** $35,000,000+
 - **Historical annual giving:** Unknown without multi-year Schedule I comparison
 
@@ -32,16 +32,16 @@ https://projects.propublica.org/nonprofits/organizations/436689416
 - **Repeat grantees:** Unknown — full Schedule I required
 
 ## Geographic Patterns
-- **Confirmed focus regions:** Africa, China, India, Latin America, Middle East
+- **Confirmed focus regions:** Africa, China, India, Latin America, Middle East ([The Grantsmanship Center](https://www.tgci.com/funder/harry-j-lloyd-charitable-trust))
 - **Also:** Global missions organizations based in the United States
 - Waha has active users in ALL confirmed focus regions
 
 ## Thematic Patterns
 - **What types of work do they fund?**
-  - Foreign evangelical missions (primary for Christian giving portion)
-  - Christian education in foreign contexts
-  - Global missions organizations based in the U.S. serving those areas
-  - Melanoma research (separate program — potentially 30-50% of total giving)
+  - Foreign evangelical missions (primary for Christian giving portion) ([The Grantsmanship Center](https://www.tgci.com/funder/harry-j-lloyd-charitable-trust))
+  - Christian education in foreign contexts ([The Grantsmanship Center](https://www.tgci.com/funder/harry-j-lloyd-charitable-trust))
+  - Global missions organizations based in the U.S. serving those areas ([The Grantsmanship Center](https://www.tgci.com/funder/harry-j-lloyd-charitable-trust))
+  - Melanoma research (separate program — potentially 30-50% of total giving) ([Wikipedia](https://en.wikipedia.org/wiki/Harry_J._Lloyd))
 - **Note:** The melanoma research portion is not relevant to Waha and should not affect our assessment of alignment for the missions portion
 
 ## Similar Organizations Funded
@@ -60,7 +60,7 @@ Waha would be well-positioned as: "A U.S.-based global missions platform serving
 
 ## Board of Directors / Officers (from 990)
 *Requires 990-PF download for current officer list. Available public information:*
-- **Contact:** Cheryl Cole | LTrust@LTrust.org | 913-851-2174 | Fax: 913-851-4892
+- **Contact:** Cheryl Cole | LTrust@LTrust.org | 913-851-2174 | Fax: 913-851-4892 ([The Grantsmanship Center](https://www.tgci.com/funder/harry-j-lloyd-charitable-trust))
 - Cheryl Cole appears to be the professional administrator (not a family member), indicating this is administered as a professional trust, not a family-controlled foundation
 
 *The presence of a professional administrator with a public email address makes this one of the most accessible foundations in this research set.*
