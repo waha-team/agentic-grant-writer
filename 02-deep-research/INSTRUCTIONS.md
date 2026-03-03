@@ -51,6 +51,46 @@ At Stage 02, number the open-process foundations with NO blockers in priority or
 
 **IMPORTANT: For folders with status prefixes (H-, IO-, CL-, NA-, S-), the FIRST LINES of `00-BRIEFING.md` must explain the blocker.** This explanation should appear before the standard briefing template content.
 
+---
+
+## Citation Standard (applies to ALL documents in this stage)
+
+Every external fact must be traceable. Use inline citations in this format, immediately after the claim:
+
+```
+([Source Name](URL))
+```
+
+**Examples:**
+- `"Plowing new ground for a greater harvest." ([E91 Website](https://e91foundation.org/about))`
+- `Total assets: $57.9M ([ProPublica 990, 2023](https://projects.propublica.org/nonprofits/organizations/12345678))`
+- `Blair Austin, Co-President ([ProPublica 990, 2023](https://projects.propublica.org/nonprofits/...))`
+- `Gave $25,000 to Biblica for the Reach4Life Project ([ProPublica 990, 2023](https://projects.propublica.org/...))`
+
+**What must be cited:**
+- Any quote from a foundation's website, FAQ, or grant guidelines
+- Every grant amount in the 990 analysis
+- All board member names and titles
+- Founding dates, asset sizes, total grantmaking figures
+- Any fact sourced from ProPublica, Candid, Cause IQ, GrantStation, LinkedIn, or news articles
+
+**What does not need a citation:**
+- Waha's own organizational information (sourced from CONTEXT/ files — those are already authoritative)
+- Your own analysis, conclusions, or strategic recommendations (make clear these are your interpretation, not sourced facts)
+- Information the reader can verify immediately from a URL already present in the document
+
+**Common source name conventions:**
+- `([ProPublica 990, YYYY](URL))` — for IRS 990 data via ProPublica
+- `([Foundation Website](URL))` — for mission statements, FAQs, grant guidelines
+- `([Foundation FAQ](URL))` — specifically for FAQ pages
+- `([Cause IQ](URL))` — for Cause IQ database entries
+- `([LinkedIn](URL))` — for board member profiles
+- `([GrantStation](URL))` — for GrantStation database
+
+If a URL is unavailable for a specific claim (e.g., data from a paywalled source or a page that no longer exists), write `([Source: Name — URL unavailable])` so the reader knows you have a source but it isn't linkable.
+
+---
+
 Inside each, create the following numbered documents:
 
 ---
@@ -78,15 +118,15 @@ This is the foundation intelligence brief. Someone should be able to read just t
 - **Type:** [Private foundation / Community foundation / Corporate foundation / Family foundation]
 
 ## Mission & Priorities (IN THEIR OWN WORDS)
-[Copy their exact mission statement from their website]
+[Copy their exact mission statement from their website, with citation: "Quote." ([Foundation Website](URL))]
 
-[Copy their stated funding priorities/program areas, verbatim]
+[Copy their stated funding priorities/program areas, verbatim, with citation]
 
 ## What They Actually Fund (from 990 analysis)
-[Summarize what their 990 grantee lists reveal about their REAL priorities vs. stated priorities. Do they match? Are there patterns not obvious from the website?]
+[Summarize what their 990 grantee lists reveal about their REAL priorities vs. stated priorities. Cite the specific 990 year for each grant mentioned: $X to Organization Y ([ProPublica 990, YYYY](URL))]
 
 ## History & Context
-[Brief history of the foundation. Who founded it? Why? Any notable shifts in priorities? Any recent news?]
+[Brief history of the foundation. Who founded it? Why? Any notable shifts in priorities? Cite sources for historical facts. ([Foundation Website](URL)) or ([ProPublica 990, YYYY](URL))]
 
 ## Why Waha Is a Fit
 [2-3 paragraphs connecting their specific priorities to this specific project. Use THEIR vocabulary to describe OUR work.]
@@ -104,8 +144,7 @@ This is the strategic intelligence that prevents the "$10K ask to a $3K funder" 
 ```
 # 990 Analysis: [Foundation Name]
 
-*Source: ProPublica Nonprofit Explorer / Candid*
-*990s reviewed: [which years]*
+*990s reviewed: [YYYY, YYYY] — ([ProPublica](URL_to_foundation_page))*
 
 ## Giving Overview
 - **Total grants per year:** $[X] (trending: up/down/stable)

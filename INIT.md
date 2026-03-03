@@ -57,6 +57,7 @@ kern-family-foundation/
 4. **Personalize everything.** Use names from 990s and websites. Reference their specific grants. Never "Dear Grant Administrator."
 5. **Name-drop partners.** We work with 24:14, YWAM, Pioneers, Biblica, YouVersion, Meta. Use these to build credibility.
 6. **Momentum over perfection.** Push forward. Escalate decisions to HUMAN_TODO.md but don't block.
+7. **Cite every external claim.** Any fact from outside Waha's own CONTEXT/ files must include an inline source: `([Source Name](URL))` immediately after the claim. This applies to all research documents (00–03). Proposals and cover letters (05–06) do not need citations — those are outward-facing. See Stage 02 INSTRUCTIONS for full citation rules.
 
 ## How to Run
 
