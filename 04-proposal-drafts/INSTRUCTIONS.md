@@ -144,47 +144,51 @@ After drafting all proposals, reorganize the foundation folders using this namin
 2. **For relationship-needed foundations (`R-`):** Create `00-STATUS-RELATIONSHIP-NEEDED.md`:
    ```
    # Status: Relationship Needed Before Submission
-   
+
    ## Why This Foundation
    [Brief summary of alignment and why worth pursuing]
-   
+
    ## Application Status
    - **Process:** [Open LOI / Open application]
    - **Deadline:** [Date or "Rolling"]
    - **Blocker:** [Why relationship needed before submitting]
-   
+
    ## Connection Paths (check CRM first)
    - [ ] [Partner name] — [relationship to foundation]
    - [ ] [Network/person] — [potential connection]
-   
+
    ## Recommended Approach
    1. [Specific step to pursue connection]
    2. [Next step after connection made]
    3. Submit LOI/proposal
-   
+
    ## Proposal Status
-   [Drafted and ready / Will draft after connection secured]
-   
+   Drafted and ready. (See 05-PROPOSAL-DRAFT.md and 06-COVER-LETTER.md)
+
    ## Deadline Pressure
    [Urgency level]
    ```
 
+   **Always write the proposal for R- foundations.** The relationship blocker is about *when* to submit, not *whether* to prepare. A proposal ready to send the moment the door opens is far more valuable than a placeholder. Write it now; send it when the introduction is secured.
+
 3. **For foundations needing human action (`H-`):** Create `00-STATUS-ACTION-NEEDED.md`:
    ```
    # Status: Human Action Needed
-   
+
    ## Why This Foundation
    [Brief summary of why this is a good fit]
-   
+
    ## What's Blocking Submission
    [Specific action needed from Josh/Alycia]
-   
+
    ## What Happens Next
    [What will be done once blocker is resolved]
-   
+
    ## Deadline Pressure
    [Urgency level and deadline if applicable]
    ```
+
+   **Always write the proposal for H- foundations.** The human action is a prerequisite to *submitting*, not to *preparing*. The proposal should be complete and waiting.
 
 4. **For cycle-closed foundations (`CL-`):** Create `00-STATUS-CYCLE-CLOSED.md`:
    ```
