@@ -71,6 +71,29 @@ subfolders. Process the earliest stage with work. Follow that stage's INSTRUCTIO
 Read INIT.md, then process all projects in [02-deep-research] following INSTRUCTIONS.md.
 ```
 
+## The Kanban Rule
+
+**A project folder's location is its status.** A project in `02-deep-research/` is being researched. A project in `05-review/` is ready to submit. This is intentional — the directory structure is a kanban board.
+
+This means: **at the end of every stage, the project folder must move to the next stage directory.** No project should have files spread across multiple stage directories when a stage is complete.
+
+### Orchestration Responsibility
+
+When you dispatch sub-agents to work on foundations in parallel, those sub-agents write files — but **you (the orchestrating agent) are responsible for moving the project folder** once all sub-agents complete.
+
+Sub-agents handle foundation-level work. You handle project-level operations.
+
+**After all sub-agents for a stage complete:**
+1. Verify all foundation subfolders are present and complete in the current stage directory
+2. `mv {current-stage}/{project-name}/ {next-stage}/{project-name}/` — move the entire project folder
+3. Confirm the previous stage directory no longer contains the project
+
+If a stage was run fully sequentially (one agent, all foundations), that agent moves the folder itself per the stage's INSTRUCTIONS. If parallel agents were used, you consolidate and move after they all finish.
+
+## Tools
+
+There is an Agentic Skill available to you in the `skills` directory, that will allow you READ access to our CRM, Attio. The env variable is avialble in `.env`. Please ensure you take into account our CRM at applicable stages along the way.
+
 ## Key People
 
 - **Josh** — Directs pipeline, answers strategic questions

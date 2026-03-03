@@ -1,27 +1,57 @@
 # Stage 02: Deep Research
 
-> **Your job:** For each shortlisted foundation, build a comprehensive dossier. This is the intelligence-gathering stage. Each foundation gets its own subfolder with numbered research documents.
+> **Your job:** For each foundation, build a comprehensive dossier (prioritize the shortlist, but do them all). This is the intelligence-gathering stage. Each foundation gets its own subfolder with numbered research documents.
 
 ---
 
 ## Before You Start
 
 1. Read ALL files in `CONTEXT/`
-2. Read the project's `PROJECT_BRIEF.md` and `PROSPECTS.md`
+2. Read the project's `00-PROJECT_BRIEF.md` and `01-PROSPECTS.md`
 
 ## What to Do
 
 For each project subfolder in this directory:
 
 ### Step 1: Select Top Foundations
-From PROSPECTS.md, select the top 8-12 foundations to research deeply. Prioritize by:
+From 01-PROSPECTS.md, select the top 8-12 foundations to research deeply. Prioritize by:
 1. Strongest mission alignment (in their own words)
 2. 990 shows grants to similar organizations
 3. Open application process
 4. Grant size in our target range
 
+**IMPORTANT: Check "Previously Researched Foundations" section in PROSPECTS.md first.** 
+- If a foundation has existing research (dossier in another project folder), do NOT create a new dossier
+- Instead, create a brief "adaptation note" explaining how the existing research applies to this project
+- Only create new dossiers for foundations marked as "New" in PROSPECTS.md
+
 ### Step 2: Create Foundation Subfolders
-For each selected foundation, create a subfolder inside the project folder named with the foundation (e.g., `kern-family-foundation/`). Inside each, create the following numbered documents:
+For each selected foundation, create a subfolder inside the project folder using the **priority naming convention** defined below. Apply this convention from the start — it carries through all pipeline stages.
+
+**Foundation Folder Naming Convention:**
+
+| Prefix | Meaning | When to Use |
+|--------|---------|-------------|
+| `01-`, `02-`, etc. | Ready to proceed | Open process, no blockers. Number by priority. |
+| `H-` | Human action needed | **BLOCKED**: Requires Josh/team decision BEFORE any progress can be made (e.g., intro meeting required before applying, must verify theological alignment, deadline passed) |
+| `CL-` | Cycle closed | **BLOCKED**: Waiting for next application cycle to open |
+| `IO-` | Invite only | **BLOCKED**: No public application process; cannot apply without invitation |
+| `NA-` | Not applicable | **BLOCKED**: Can't apply (wrong org type, geography, etc.) |
+| `S-` | Suspended | **BLOCKED**: Foundation paused applications |
+
+**Key principle:** Only use a status prefix if there is a GENUINE BLOCKER that prevents forward progress. Having a warm path (R-) or needing to contact someone (H-) is NOT a blocker if the foundation has an open application process you could use directly.
+
+**Examples:**
+- `01-gospel-volunteers/` - Open process, no blockers → just number it
+- `H-tyndale-house/` - Intro meeting REQUIRED before applying → genuine blocker
+- `IO-maclellan-foundation/` - No public application → genuine blocker
+- `S-stewardship-foundation/` - Applications suspended → genuine blocker
+
+At Stage 02, number the open-process foundations with NO blockers in priority order (`01-`, `02-`, etc.). Only add status prefixes to foundations with genuine blockers. Foundations keep their labels through stages 02 → 03 → 04 → 05.
+
+**IMPORTANT: For folders with status prefixes (H-, IO-, CL-, NA-, S-), the FIRST LINES of `00-BRIEFING.md` must explain the blocker.** This explanation should appear before the standard briefing template content.
+
+Inside each, create the following numbered documents:
 
 ---
 
@@ -29,8 +59,13 @@ For each selected foundation, create a subfolder inside the project folder named
 
 This is the foundation intelligence brief. Someone should be able to read just this file and understand everything about this funder.
 
+**For status-prefixed folders (H-, NA-, IO-, CL-, R-, S-), start with the status explanation:**
+
 ```
 # Briefing: [Foundation Name]
+
+> **Status: [TAG] — [One-line reason for this status]**
+> [2-3 sentences explaining WHY this foundation has this status tag]
 
 *Research date: [DATE]*
 
@@ -161,7 +196,7 @@ Example: "Dear [Name], [Name], and the [Foundation] team,"
 
 #### `03-VOCABULARY-AND-FRAMING.md` — Language Mapping
 
-**This is the file that makes proposals feel tailored instead of generic.** It maps the foundation's language to ours so the proposal writer (Stage 04) can write in THEIR vocabulary.
+**This is the file that makes proposals feel tailored instead of generic.** It maps the foundation's language to ours so the proposal writer (Stage 04) can write in THEIR vocabulary. It may be the most important file in the project, so spend time making sure it's great.
 
 ```
 # Vocabulary & Framing: [Foundation Name]
@@ -173,13 +208,13 @@ Example: "Dear [Name], [Name], and the [Foundation] team,"
 
 ## Language Mapping
 
-| They Say | We Say | Use in Proposal |
-|----------|--------|-----------------|
-| [their term] | [our equivalent] | [their term] |
-| "Scripture engagement" | "Discovery Bible Study" | "Scripture engagement through facilitated Discovery Bible Studies" |
+| They Say                  | We Say                    | Use in Proposal                                                                |
+|---------------------------|---------------------------|--------------------------------------------------------------------------------|
+| [their term]              | [our equivalent]          | [their term]                                                                 |
+| "Scripture engagement"    | "Discovery Bible Study"   | "Scripture engagement facilitated through Discovery Bible Studies"             |
 | "underserved communities" | "unreached people groups" | "underserved communities who lack access to Scripture in their heart language" |
-| "capacity building" | "mobilization / training" | "building capacity among local believers to facilitate Scripture discovery" |
-| [etc.] | [etc.] | [etc.] |
+| "capacity building"       | "mobilization / training" | "building capacity among local believers to facilitate Scripture discovery"    |
+| [etc.]                    | [etc.]                    | [etc.]                                                                         |
 
 ## Their Stated Values (verbatim from website/guidelines)
 1. [Value 1 — exact quote]
@@ -208,7 +243,13 @@ Example: "Dear [Name], [Name], and the [Foundation] team,"
 
 ---
 
-### Step 3: Produce Shortlist Summary
+### Step 3: Update Prospective Partners Registry
+After completing all foundation dossiers, update `CONTEXT/PROSPECTIVE_PARTNERS.md`:
+1. Update each researched foundation's entry with: status tag, research folder path, and key notes from the dossier
+2. Add any new foundations that weren't in the registry
+3. Ensure the status accurately reflects the folder naming (IO-, H-, S-, NA-, etc.)
+
+### Step 4: Produce Shortlist Summary
 After completing all foundation dossiers, create `SHORTLIST.md` in the project folder:
 
 ```
@@ -217,21 +258,43 @@ After completing all foundation dossiers, create `SHORTLIST.md` in the project f
 *Completed: [DATE]*
 *Foundations researched: [N]*
 
-## Apply Now (strong fit, open process)
+## Ready to Draft (open process, no blockers)
 | Foundation | Ask Amount | Deadline | Contact Strategy | Key Contact |
 |-----------|-----------|----------|-----------------|-------------|
 | [Name] | $[X] | [Date] | Direct Application | [Name, Title] |
 
-## Build Relationship First (strong fit, needs warm path)
-| Foundation | Potential Ask | Strategy | Warm Path |
-|-----------|-------------|----------|-----------|
+## Relationship Needed (open process, but intro preferred/required)
+| Foundation | Ask Amount | Deadline | Connection Path | Why Pursue |
+|-----------|-----------|----------|-----------------|------------|
+| [Name] | $[X] | [Date] | Pioneers intro | Strong alignment |
 
-## Watch List (moderate fit, revisit later)
-| Foundation | Reason to Watch |
-|-----------|----------------|
+## Human Action Needed (open process, waiting on info/decision)
+| Foundation | Ask Amount | Deadline | Action Needed |
+|-----------|-----------|----------|---------------|
+| [Name] | $[X] | [Date] | Josh to confirm X |
+
+## Cycle Closed (waiting for next cycle)
+| Foundation | Ask Amount | Next Cycle | Action |
+|-----------|-----------|------------|--------|
+| [Name] | $[X] | [Date] | Submit inquiry form to queue |
+
+## Invite Only (no public application process)
+| Foundation | Potential Ask | Connection Path | Why Pursue |
+|-----------|-------------|-----------------|------------|
+| [Name] | $[X] | Pioneers intro | Strong alignment, large grants |
+
+## Not Applicable (can't apply)
+| Foundation | Reason | Alternative |
+|-----------|--------|-------------|
+| [Name] | Funds local churches only | Partner with Pakistani church |
 ```
 
-### Step 4: Move Forward
+**IMPORTANT:** Foundations in "Ready to Draft", "Relationship Needed", and "Human Action Needed" all have OPEN processes and should ALL get proposals drafted. The difference is:
+- **Ready to Draft:** Can submit immediately
+- **Relationship Needed:** Draft proposal, but wait to submit until intro secured
+- **Human Action Needed:** Draft proposal, but wait for specific info/decision before submitting
+
+### Step 5: Move Forward
 Move the project subfolder to `03-application-prep/`.
 
 ## Decision Points
@@ -241,6 +304,15 @@ Default to momentum. Flag in HUMAN_TODO.md:
 - Fewer than 4 strong-fit foundations → "Only [X] strong fits. Options: broaden search, reframe project, or proceed"
 - Deadline within 30 days → "URGENT: [Foundation] deadline [DATE]. Fast-track needed."
 - Key person identified with possible warm path → "Josh: do you know [person] at [foundation]? They're connected to [network]."
+
+### NOTE:
+
+You have READ access to our CRM, which is kept up to date with Waha's relationships to other people and organizations.
+
+Before you send something onto a Human, do due diligence, and check to see if there's anything about that organization in our CRM. Also, check the CRM for any other situation in which that will be helpful.
+
+To access the CRM, use the Agentic Skill available to you in the `[grants root]/skills` directory, that will allow you READ access to our CRM, Attio. The env variable is avialble in `[grants root]/.env`. 
+
 
 ## Quality Standards
 

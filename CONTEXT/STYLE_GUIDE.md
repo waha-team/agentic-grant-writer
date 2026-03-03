@@ -35,15 +35,15 @@ Before writing any proposal:
 
 ## Terminology
 
-| Use This | Not This |
-|----------|----------|
-| Discovery Bible Study (DBS) | Bible study app |
-| Disciple Making Course (DMC) | Training program |
-| Disciple-making movements | Evangelism campaigns |
-| Unreached people groups | Lost people |
-| Restricted-access nations | Closed/dangerous countries |
-| Multiplication | Growth / expansion |
-| Facilitate (a DBS) | Lead / teach |
+| Use This                     | Not This                   |
+|------------------------------|----------------------------|
+| Discovery Bible Study (DBS)  | Bible study app            |
+| Disciple Making Course (DMC) | Training program           |
+| Disciple-making movements    | Evangelism campaigns       |
+| Unreached people groups      | Lost people                |
+| Restricted-access nations    | Closed/dangerous countries |
+| Multiplication               | Growth / expansion         |
+| Facilitate (a DBS)           | Lead / teach               |
 
 ## Emphasis Order
 

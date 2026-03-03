@@ -40,12 +40,14 @@ Add `08-SUBMISSION-LOG.md` to each foundation's subfolder:
 - [ ] Send thank-you letter within 1 week
 - [ ] Note reporting requirements and deadlines
 - [ ] Update PAST_GRANTS.md
+- [ ] Update CONTEXT/PROSPECTIVE_PARTNERS.md with award status
 - [ ] Plan for renewal/growth: next ask of $[X] in [timeframe]
 
 ## If Declined
 - [ ] Send gracious thank-you anyway
 - [ ] Request feedback if appropriate
 - [ ] Note lessons in "Rejection Analysis" below
+- [ ] Update CONTEXT/PROSPECTIVE_PARTNERS.md with outcome
 - [ ] Decide: reapply next cycle? Different project? Move on?
 
 ## Rejection Analysis (if declined)
@@ -61,6 +63,7 @@ Every quarter, review all projects in 06-submitted/:
 2. Which were awarded? Ensure reporting is on track.
 3. Which were declined? Capture lessons.
 4. Update `CONTEXT/PAST_GRANTS.md` with all outcomes.
+5. **Update `CONTEXT/PROSPECTIVE_PARTNERS.md`** with final outcomes for each foundation
 
 ## For Claude Code
 
@@ -70,3 +73,4 @@ If asked to help with this stage:
 - Draft thank-you letters for awarded grants
 - Analyze patterns across rejections to improve future applications
 - Help prepare grant reports for awarded funds
+- Update `CONTEXT/PROSPECTIVE_PARTNERS.md` with submission and outcome status

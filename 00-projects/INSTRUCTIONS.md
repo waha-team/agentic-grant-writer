@@ -11,12 +11,14 @@ Humans create project briefs here. When ready, move the project folder to `01-pr
 ## For Humans
 
 1. Copy `_TEMPLATE/` and rename (e.g., `waha-farsi-localization/`)
-2. Fill in `PROJECT_BRIEF.md`
+2. Fill in `00-PROJECT_BRIEF.md`
 3. Move the folder to `01-prospect-research/`
 
-## For Claude Code
+## For AI Agent
 
 If asked to help draft a brief: read `CONTEXT/OUR_ORGANIZATION.md`, ask the human what initiative needs funding, generate a draft using the template structure.
+
+If the human has made an MD file of a project brief in this directory, be sure to rename it in the structure suggested above (call the brief `[project-name]/00-PROJECT_BRIEF.md`, before moving it on to the next phase.
 
 ## What a Good Project Brief Contains
 

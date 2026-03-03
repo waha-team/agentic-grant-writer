@@ -10,6 +10,7 @@
 2. Read `CONTEXT/FUNDER_ALIGNMENT_GUIDE.md` — especially the "How to Describe Waha to a Funder" quick-reference table for funder-type-specific framing
 3. Read `CONTEXT/OUR_ORGANIZATION.md`, `CONTEXT/IMPACT_DATA.md`, `CONTEXT/PARTNERSHIPS.md`
 4. For EACH foundation, read its entire dossier (documents 00 through 04)
+5. **Check `CONTEXT/PROSPECTIVE_PARTNERS.md`** for any status updates on foundations
 
 ## Critical Rules
 
@@ -55,9 +56,10 @@ THIS IS THE MOST IMPORTANT SECTION. Remember: this is a sales letter. Make them 
 **4. Evidence of Impact** (1-2 paragraphs)
 - Specific results: "30 groups multiplied to 90 in 50 days"
 - Reference similar organizations they've funded (from 990 analysis): "Like [grantee they've funded], Waha..."
-- At least one testimonial from IMPACT_DATA.md
+- At least one testimonial from IMPACT_DATA.md / `IMPACT_DATA/*`  (send out a sub-agent to research, if needed)
 
 **5. Budget** (table + narrative)
+
 - Sized to the specific ask amount (from 01-990-ANALYSIS.md recommendation)
 - If asking for partial project funding, clearly show which component this covers
 - Brief justification for each line item
@@ -77,6 +79,7 @@ THIS IS THE MOST IMPORTANT SECTION. Remember: this is a sales letter. Make them 
 #### `06-COVER-LETTER.md`
 
 Personalized cover letter:
+
 - **Addressed to specific people** from 02-KEY-PEOPLE.md
 - Use format: "Dear [Name], [Name], and the [Foundation] grant review team,"
 - NEVER "Dear Grant Administrator" if you have names
@@ -99,9 +102,11 @@ LOI format (1-2 pages max):
 - Use their vocabulary throughout
 
 #### `APPLICATION-ANSWERS.md` (if foundation has specific questions)
+
 Answer each question from 04-APPLICATION-REQUIREMENTS.md directly. Use their vocabulary.
 
 ### Step 3: Self-Check Before Moving On
+
 For each proposal, verify:
 - [ ] Uses the foundation's own vocabulary (check against 03-VOCABULARY-AND-FRAMING.md)
 - [ ] Leads with the problem, not with who we are
@@ -114,8 +119,125 @@ For each proposal, verify:
 - [ ] Within word/page limits
 - [ ] Name-drops 2-3 relevant partners
 
-### Step 4: Move Forward
-After drafting all proposals, move project to `05-review/`.
+### Step 4: Reorganize and Create Status Documents
+
+After drafting all proposals, reorganize the foundation folders using this naming convention:
+
+**Folder Naming Convention:**
+
+| Prefix | Meaning | When to Use |
+|--------|---------|-------------|
+| `01-`, `02-`, etc. | Drafted and ready | Proposal written, ready for review/submission immediately |
+| `R-` | Relationship needed | Open process, but warm intro strongly preferred/required before submission |
+| `H-` | Human action needed | Open process, but waiting on specific info/decision from Josh |
+| `CL-` | Cycle closed | Waiting for next application cycle |
+| `IO-` | Invite only | No public application process; needs connection to get invited |
+| `NA-` | Not applicable | Can't apply (wrong org type, geography, etc.) |
+| `S-` | Suspended | Foundation paused applications |
+
+**IMPORTANT: For folders with status prefixes (H-, NA-, IO-, CL-, R-, S-), the FIRST LINES of `00-BRIEFING.md` must explain WHY the foundation has that status.** This explanation should appear before the standard briefing content, so anyone opening the file immediately understands the blocker.
+
+**Process:**
+
+1. **For drafted foundations:** Rename to `01-[Foundation]`, `02-[Foundation]`, etc. based on priority (deadline urgency → alignment → ask size)
+
+2. **For relationship-needed foundations (`R-`):** Create `00-STATUS-RELATIONSHIP-NEEDED.md`:
+   ```
+   # Status: Relationship Needed Before Submission
+   
+   ## Why This Foundation
+   [Brief summary of alignment and why worth pursuing]
+   
+   ## Application Status
+   - **Process:** [Open LOI / Open application]
+   - **Deadline:** [Date or "Rolling"]
+   - **Blocker:** [Why relationship needed before submitting]
+   
+   ## Connection Paths (check CRM first)
+   - [ ] [Partner name] — [relationship to foundation]
+   - [ ] [Network/person] — [potential connection]
+   
+   ## Recommended Approach
+   1. [Specific step to pursue connection]
+   2. [Next step after connection made]
+   3. Submit LOI/proposal
+   
+   ## Proposal Status
+   [Drafted and ready / Will draft after connection secured]
+   
+   ## Deadline Pressure
+   [Urgency level]
+   ```
+
+3. **For foundations needing human action (`H-`):** Create `00-STATUS-ACTION-NEEDED.md`:
+   ```
+   # Status: Human Action Needed
+   
+   ## Why This Foundation
+   [Brief summary of why this is a good fit]
+   
+   ## What's Blocking Submission
+   [Specific action needed from Josh/Alycia]
+   
+   ## What Happens Next
+   [What will be done once blocker is resolved]
+   
+   ## Deadline Pressure
+   [Urgency level and deadline if applicable]
+   ```
+
+4. **For cycle-closed foundations (`CL-`):** Create `00-STATUS-CYCLE-CLOSED.md`:
+   ```
+   # Status: Cycle Closed
+   
+   ## Next Cycle
+   [When applications reopen]
+   
+   ## Action to Take Now
+   [e.g., "Submit inquiry form to be in queue"]
+   
+   ## Calendar Reminder
+   [When to follow up]
+   ```
+
+5. **For invite-only foundations (`IO-`):** Create `00-STATUS-INVITE-ONLY.md`:
+   ```
+   # Status: Invite Only
+   
+   ## Why Pursue This Foundation
+   [Alignment, grant size, strategic value]
+   
+   ## Connection Paths (check CRM first)
+   - [ ] [Partner name] — [relationship to foundation]
+   - [ ] [Network name] — [why this might connect]
+   
+   ## Recommended Approach
+   [Specific steps to pursue connection]
+   ```
+
+6. **For not-applicable foundations (`NA-`):** Create `00-STATUS-NOT-APPLICABLE.md`:
+   ```
+   # Status: Not Applicable
+   
+   ## Why We Can't Apply
+   [Specific reason: wrong org type, geography, etc.]
+   
+   ## Alternative Approach
+   [If any exists, e.g., "Partner with local church as grantee"]
+   
+   ## Keep or Archive?
+   [Keep for reference / Archive and remove from pipeline]
+   ```
+
+### Step 5: Update Prospective Partners Registry
+Update `CONTEXT/PROSPECTIVE_PARTNERS.md`:
+1. Update each foundation's status based on folder naming convention (01-, R-, H-, IO-, etc.)
+2. Add notes on proposal status (drafted, ready to submit, blocked, etc.)
+3. Add any new foundations that were researched but not in the original prospect list
+
+### Step 6: Move Forward
+
+After reorganizing and creating status documents, move project to `05-review/` for Alycia to review.
 
 ## Decision Points
 
@@ -123,3 +245,14 @@ Flag in HUMAN_TODO.md but keep moving:
 - Can't answer a specific question from context → Put "[JOSH: PLEASE ANSWER — (question)]" inline
 - Foundation requires very different framing (e.g., secular) → Note prominently at top of proposal
 - Budget doesn't fit their range even with adjustment → Note mismatch, suggest solution
+
+
+### NOTE:
+
+You have READ access to our CRM, which is kept up to date with Waha's relationships to other people and organizations.
+
+Before you send something onto a Human, do due diligence, and check to see if there's anything about that organization in our CRM. Also, check the CRM for any other situation in which that will be helpful.
+
+To access the CRM, use the Agentic Skill available to you in the `[grants root]/skills` directory, that will allow you READ access to our CRM, Attio. The env variable is avialble in `[grants root]/.env`. 
+
+

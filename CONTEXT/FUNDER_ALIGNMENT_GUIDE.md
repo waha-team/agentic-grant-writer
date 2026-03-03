@@ -61,27 +61,27 @@ Waha operates within the broader Bible translation and missions ecosystem:
 
 These are important for understanding Waha's philosophy and for matching with funders who value these things:
 
-| Design Decision | Why It Matters |
-|---|---|
-| **Audio-first** | Serves oral learners and low-literacy populations. Doesn't require reading ability. |
-| **Offline-capable** | After initial download, everything works without internet. Critical for rural and infrastructure-poor areas. |
-| **Security mode** | The app can disguise itself behind a calculator or piano interface, protected by a passcode. Designed for believers in persecuted regions. Vetted by a certified cybersecurity consultant. |
-| **SD card and solar player compatible** | Reaches people who lack smartphones, reliable electricity, or internet entirely. |
-| **Seeker-friendly** | The app is designed so that a brand-new seeker encountering it for the first time isn't overwhelmed by church jargon or insider language. |
-| **No training required to facilitate** | The entire point is that an ordinary person can lead a group. This is what makes multiplication possible. |
-| **Free, no ads, no paywalls** | Removes every possible barrier to access. Sustained entirely by donations. |
+| Design Decision                         | Why It Matters                                                                                                                                                                                |
+|-----------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Audio-first**                         | Serves oral learners and low-literacy populations. Doesn't require reading ability.                                                                                                           |
+| **Offline-capable**                     | After initial download, everything works without internet. Critical for rural and infrastructure-poor areas.                                                                                  |
+| **Security mode**                       | The app can disguise itself behind a calculator or piano interface, protected by a passcode. Designed for believers in persecuted regions. Vetted by a certified cybersecurity consultant. |
+| **SD card and solar player compatible** | Reaches people who lack smartphones, reliable electricity, or internet entirely.                                                                                                              |
+| **Seeker-friendly**                     | The app is designed so that a brand-new seeker encountering it for the first time isn't overwhelmed by church jargon or insider language.                                                     |
+| **No training required to facilitate**  | The entire point is that an ordinary person can lead a group. This is what makes multiplication possible.                                                                                     |
+| **Free, no ads, no paywalls**           | Removes every possible barrier to access. Sustained entirely by donations.                                                                                                                    |
 
 ### Impact by the Numbers
 
 These are the metrics Waha currently tracks and reports:
 
-| Metric | Current Figure |
-|---|---|
-| Active disciple makers equipped | 82,615+ |
-| Countries with active users | 177+ |
-| Languages available | 46+ |
-| Discovery Bible Study meetings held | 71,085+ |
-| New app users per month | ~2,000 (with minimal marketing) |
+| Metric                              | Current Figure                  |
+|-------------------------------------|---------------------------------|
+| Active disciple makers equipped     | 82,615+                         |
+| Countries with active users         | 177+                            |
+| Languages available                 | 46+                             |
+| Discovery Bible Study meetings held | 71,085+                         |
+| New app users per month             | ~2,000 (with minimal marketing) |
 
 Additional metrics we can provide to funders on request:
 
@@ -217,16 +217,16 @@ After completing Sections A through E, tally the scores:
 
 ### Decision Matrix
 
-| Section B Result | Total Score (A+C+D+E) | Recommendation |
-|---|---|---|
-| **Fail** | Any | **Discard.** Do not pursue. |
-| **Pass** | 9-12 | **Strong candidate.** Prioritize this application. |
-| **Pass** | 6-8 | **Moderate candidate.** Worth pursuing if bandwidth allows. |
-| **Pass** | 3-5 | **Weak candidate.** Pursue only if no stronger options exist. |
-| **Pass** | 0-2 | **Discard.** Insufficient alignment. |
-| **Conditional Pass** | 9-12 | **Investigate further.** High potential but verify faith-based policy before investing time in an application. |
-| **Conditional Pass** | 6-8 | **Low priority.** Only investigate if strong candidates are exhausted. |
-| **Conditional Pass** | 0-5 | **Discard.** Not worth the risk of a policy mismatch. |
+| Section B Result     | Total Score (A+C+D+E) | Recommendation                                                                                                 |
+|----------------------|-----------------------|----------------------------------------------------------------------------------------------------------------|
+| **Fail**             | Any                   | **Discard.** Do not pursue.                                                                                    |
+| **Pass**             | 9-12                  | **Strong candidate.** Prioritize this application.                                                             |
+| **Pass**             | 6-8                   | **Moderate candidate.** Worth pursuing if bandwidth allows.                                                    |
+| **Pass**             | 3-5                   | **Weak candidate.** Pursue only if no stronger options exist.                                                  |
+| **Pass**             | 0-2                   | **Discard.** Insufficient alignment.                                                                           |
+| **Conditional Pass** | 9-12                  | **Investigate further.** High potential but verify faith-based policy before investing time in an application. |
+| **Conditional Pass** | 6-8                   | **Low priority.** Only investigate if strong candidates are exhausted.                                         |
+| **Conditional Pass** | 0-5                   | **Discard.** Not worth the risk of a policy mismatch.                                                          |
 
 ---
 
@@ -234,16 +234,16 @@ After completing Sections A through E, tally the scores:
 
 When reading a foundation's priorities and mentally matching them against Waha, it helps to have multiple "lenses" for describing our work. Waha sits at the intersection of several domains, and different funders will resonate with different framings. **All of the following descriptions are true and accurate** — choose the lens that best matches what a given funder cares about:
 
-| If the funder cares about... | Waha is... |
-|---|---|
-| The Great Commission / evangelism | A disciple-multiplication platform that empowers any believer to make disciples who make disciples, available in 46+ languages |
-| Bible translation / Scripture access | The "last mile" delivery system that puts translated Scripture into practice through community-based discovery, partnered with the ETEN alliance |
-| Unreached people groups | A tool designed to reach the 7,000 unreached people groups by equipping national believers with audio-based discipleship curriculum in their heart language |
-| Persecuted church / restricted nations | A security-hardened discipleship app with encryption, disguise mode, and offline capability — purpose-built for believers in hostile environments |
-| Technology for development | A free, offline-capable, audio-first mobile platform serving low-literacy and low-connectivity populations in 177+ countries |
-| Language preservation / multilingual access | A multilingual content platform delivering mother-tongue audio curriculum, with a localization pipeline expanding from 46 languages toward hundreds |
-| Oral cultures / oral education | An audio-based learning platform designed specifically for oral learners who absorb information through listening and discussion rather than reading |
-| Community-led development | A locally-owned model where national believers lead their own groups with no dependency on foreign workers or institutions |
+| If the funder cares about...                | Waha is...                                                                                                                                                  |
+|---------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| The Great Commission / evangelism           | A disciple-multiplication platform that empowers any believer to make disciples who make disciples, available in 46+ languages                              |
+| Bible translation / Scripture access        | The "last mile" delivery system that puts translated Scripture into practice through community-based discovery, partnered with the ETEN alliance            |
+| Unreached people groups                     | A tool designed to reach the 7,000 unreached people groups by equipping national believers with audio-based discipleship curriculum in their heart language |
+| Persecuted church / restricted nations      | A security-hardened discipleship app with encryption, disguise mode, and offline capability — purpose-built for believers in hostile environments           |
+| Technology for development                  | A free, offline-capable, audio-first mobile platform serving low-literacy and low-connectivity populations in 177+ countries                                |
+| Language preservation / multilingual access | A multilingual content platform delivering mother-tongue audio curriculum, with a localization pipeline expanding from 46 languages toward hundreds         |
+| Oral cultures / oral education              | An audio-based learning platform designed specifically for oral learners who absorb information through listening and discussion rather than reading        |
+| Community-led development                   | A locally-owned model where national believers lead their own groups with no dependency on foreign workers or institutions                                  |
 
 **Important:** Never misrepresent Waha. Every framing above is genuine. But if a funder's requirements would need you to hide or downplay the evangelistic and discipleship nature of the work, that funder is not aligned. Move on.
 

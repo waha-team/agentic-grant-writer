@@ -1,6 +1,6 @@
 # Stage 03: Application Prep
 
-> **Your job:** For each shortlisted foundation, gather actual application requirements and produce a checklist.
+> **Your job:** For each foundation, gather actual application requirements and produce a checklist.
 
 ---
 
@@ -9,13 +9,14 @@
 1. Read `CONTEXT/OUR_ORGANIZATION.md` and `CONTEXT/FINANCIALS_SUMMARY.md`
 2. Read the project's `PROJECT_BRIEF.md` and `SHORTLIST.md`
 3. Read each foundation's dossier (00-BRIEFING through 03-VOCABULARY-AND-FRAMING)
+4. **Check `CONTEXT/PROSPECTIVE_PARTNERS.md`** for any updates on foundation status
 
 ## What to Do
 
 For each project subfolder in this directory:
 
 ### Step 1: Gather Application Requirements
-For each "Apply Now" foundation on the SHORTLIST:
+For **ALL foundations in "Ready to Draft", "Relationship Needed", AND "Human Action Needed" categories** on the SHORTLIST:
 
 1. Visit their grant application page
 2. Document EVERY requirement:
@@ -28,6 +29,7 @@ For each "Apply Now" foundation on the SHORTLIST:
    - Reporting requirements after award
 
 ### Step 2: Create Application Requirements Document
+
 Add `04-APPLICATION-REQUIREMENTS.md` to each foundation's subfolder:
 
 ```
@@ -52,10 +54,10 @@ Add `04-APPLICATION-REQUIREMENTS.md` to each foundation's subfolder:
 - [ ] Evaluation Plan — TO WRITE
 
 ### Required Attachments
-- [ ] 501(c)(3) Determination Letter — JOSH TO PROVIDE
-- [ ] Most Recent IRS Form 990 — JOSH TO PROVIDE
-- [ ] Board of Directors List — JOSH TO PROVIDE
-- [ ] Financial Statements — JOSH TO PROVIDE
+- [ ] 501(c)(3) Determination Letter — **IN CONTEXT/501(c)(3) Letter.pdf**
+- [ ] Most Recent IRS Form 990 — **NOT YET FILED** (new nonprofit; see UNIVERSAL_DOCS_NEEDED.md for handling)
+- [ ] Board of Directors List — **IN CONTEXT/BOARD_OF_DIRECTORS.md**
+- [ ] Financial Statements — **IN CONTEXT/FINANCIALS_SUMMARY.md**
 - [ ] Letters of Support — [NEEDED / NOT REQUIRED]
 - [ ] [Any other requirements]
 
@@ -72,10 +74,11 @@ $[X] — per 01-990-ANALYSIS.md recommendation
 ```
 
 ### Step 3: Universal Documents Checklist
-Create or update `UNIVERSAL_DOCS_NEEDED.md` at the project folder level:
+Create or update `UNIVERSAL_DOCS_NEEDED.md` at the root folder level:
 
 ```
 ## Universal Documents (provide once, use across all applications)
+
 - [ ] 501(c)(3) determination letter (PDF)
 - [ ] Most recent IRS Form 990 (EIN: 35-2894107)
 - [ ] Board of directors list with affiliations
@@ -85,10 +88,16 @@ Create or update `UNIVERSAL_DOCS_NEEDED.md` at the project folder level:
 - [ ] Organizational chart (if available)
 ```
 
-Add any missing universal documents to `HUMAN_TODO.md`.
+Also add any missing universal documents to `HUMAN_TODO.md`.
 
-### Step 4: Move Forward
-After creating 04-APPLICATION-REQUIREMENTS.md for all foundations, move project to `04-proposal-drafts/`.
+### Step 4: Update Prospective Partners Registry
+Update `CONTEXT/PROSPECTIVE_PARTNERS.md`:
+1. Update status for each foundation if new information was discovered
+2. Add any new requirements or blockers discovered during application research
+
+### Step 5: Move Forward
+
+After creating 04-APPLICATION-REQUIREMENTS.md for all foundations, move the project to `04-proposal-drafts/`.
 
 ## Decision Points
 
@@ -96,3 +105,12 @@ Flag in HUMAN_TODO.md:
 - Foundation requires something Waha doesn't have → suggest workaround or skip
 - Deadline < 14 days → "URGENT DEADLINE"
 - Letters of support required → "Josh: identify who could write this for [foundation]"
+
+### NOTE:
+
+You have READ access to our CRM, which is kept up to date with Waha's relationships to other people and organizations.
+
+Before you send something onto a Human, do due diligence, and check to see if there's anything about that organization in our CRM. Also, check the CRM for any other situation in which that will be helpful.
+
+To access the CRM, use the Agentic Skill available to you in the `[grants root]/skills` directory, that will allow you READ access to our CRM, Attio. The env variable is avialble in `[grants root]/.env`. 
+

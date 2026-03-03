@@ -6,7 +6,8 @@
 
 ## Before You Start
 
-Read everything: CONTEXT files, project brief, and each foundation's full dossier (00-07).
+1. Read everything: CONTEXT files, project brief, and each foundation's full dossier (00-07)
+2. **Check `CONTEXT/PROSPECTIVE_PARTNERS.md`** for any status updates on foundations
 
 ## What to Do
 
@@ -90,7 +91,7 @@ Then create `REVIEW_SUMMARY.md` in the project folder:
 
 ## Before Submitting
 1. Read 07-REVIEW-NOTES.md for each foundation
-2. Fill in any [JOSH: PLEASE ANSWER] placeholders
+2. Fill in any [ALYCIA: PLEASE ANSWER] placeholders
 3. Gather universal documents
 4. Final human read of each proposal
 5. Submit via method in 04-APPLICATION-REQUIREMENTS.md
@@ -98,4 +99,9 @@ Then create `REVIEW_SUMMARY.md` in the project folder:
 
 Add any CRITICAL issues to HUMAN_TODO.md.
 
-Move project to `06-submitted/` once human reviews are complete and submissions begin.
+### Final Step: Update Prospective Partners Registry
+Update `CONTEXT/PROSPECTIVE_PARTNERS.md`:
+1. Update each foundation's status to reflect review findings
+2. Note any issues that need to be resolved before submission
+
+Move project to `06-submitted/` ONLY after human reviews are complete and submissions begin.

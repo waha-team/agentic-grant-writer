@@ -1,6 +1,6 @@
 # Search Criteria: What Funders to Target
 
-> Claude Code uses this during Stage 01 to filter foundations.
+> AI uses this during Stage 01 to filter foundations.
 
 ---
 
