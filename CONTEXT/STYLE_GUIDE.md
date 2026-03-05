@@ -39,11 +39,31 @@ Before writing any proposal:
 |------------------------------|----------------------------|
 | Discovery Bible Study (DBS)  | Bible study app            |
 | Disciple Making Course (DMC) | Training program           |
-| Disciple-making movements    | Evangelism campaigns       |
+| Disciple Making Movements    | Evangelism campaigns       |
 | Unreached people groups      | Lost people                |
 | Restricted-access nations    | Closed/dangerous countries |
 | Multiplication               | Growth / expansion         |
 | Facilitate (a DBS)           | Lead / teach               |
+
+## Acronyms in Public-Facing Documents
+
+**Never use acronyms on first reference without definition.** Grant reviewers may not know our jargon.
+
+| Acronym | Always Write First As                    | Subsequent Uses |
+|---------|------------------------------------------|-----------------|
+| DBS     | Discovery Bible Study                    | DBS             |
+| DMC     | Disciple Making Course                   | DMC             |
+| DMM     | Disciple-Making Movement                 | DMM             |
+| UPG     | Unreached People Group                   | UPG             |
+| POA     | Pattern of Activity (our methodology)    | POA             |
+
+**Examples:**
+- ❌ "Our DBS methodology has reached thousands."
+- ✅ "Our Discovery Bible Study (DBS) methodology has reached thousands. Each DBS group..."
+- ❌ "The DMC trains believers in DMM principles."
+- ✅ "The Disciple Making Course (DMC) trains believers in Disciple-Making Movement (DMM) principles. The DMC is..."
+
+**Exception:** Acronyms universally understood by all readers (e.g., USA, PDF, URL) do not need definition.
 
 ## Emphasis Order
 
@@ -68,6 +88,53 @@ Before writing any proposal:
 - NEVER name specific believers, churches, or exact locations in restricted-access nations
 - Use general regional terms (Middle East, Central Asia, North Africa)
 
+## Markdown Formatting for Google Docs
+
+**All documents must be valid markdown that renders correctly when pasted into Google Docs.** Documents should be submission-ready without manual reformatting.
+
+### Hard Line Breaks
+
+**Problem:** Single line breaks in markdown are treated as spaces and will merge into one line.
+
+```
+❌ WRONG:
+**Organization:** Waha
+**Website:** https://waha.app
+**EIN:** 35-2894107
+```
+
+This renders as: **Organization:** Waha **Website:** https://waha.app **EIN:** 35-2894107
+
+**Solution:** Use a backslash (`\`) at the end of each line to create a hard line break:
+
+```
+✅ RIGHT:
+**Organization:** Waha\
+**Website:** https://waha.app\
+**EIN:** 35-2894107
+```
+
+This renders each field on its own line as intended.
+
+### Other Markdown Rules
+
+| Rule | Wrong | Right |
+|------|-------|-------|
+| Blank line before headers | `text\n## Header` | `text\n\n## Header` |
+| Blank line after headers | `## Header\ntext` | `## Header\n\ntext` |
+| Blank line before lists | `text\n- item` | `text\n\n- item` |
+| Blank line before tables | `text\n| col1 |` | `text\n\n| col1 |` |
+| Blank line after tables | `| col1 |\ntext` | `| col1 |\n\ntext` |
+| Blank line before blockquotes | `text\n> quote` | `text\n\n> quote` |
+
+### Self-Check Before Finalizing
+
+- [ ] All line breaks that should be preserved use backslash (`\`) at end of line
+- [ ] Blank lines before and after all headers
+- [ ] Blank lines before and after all lists
+- [ ] Blank lines before and after all tables
+- [ ] Document renders correctly when pasted into Google Docs
+
 ## Default Proposal Structure
 
 1. **Executive Summary** — The problem, who we are, the ask, why it matters.
@@ -82,4 +149,4 @@ Before writing any proposal:
 
 ---
 
-*Last updated: 2026-02-19*
+*Last updated: 2026-03-04*

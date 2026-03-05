@@ -30,7 +30,7 @@ For **ALL foundations in "Ready to Draft", "Relationship Needed", AND "Human Act
 
 ### Step 2: Create Application Requirements Document
 
-Add `04-APPLICATION-REQUIREMENTS.md` to each foundation's subfolder:
+Add `04-APPLICATION-REQUIREMENTS - [Foundation Name] - [Project Name].md` to each foundation's subfolder:
 
 ```
 # Application Requirements: [Foundation Name]
@@ -97,7 +97,7 @@ Update `CONTEXT/PROSPECTIVE_PARTNERS.md`:
 
 ### Step 5: Move Forward
 
-After creating 04-APPLICATION-REQUIREMENTS.md for all foundations, move the project to `04-proposal-drafts/`.
+After creating `04-APPLICATION-REQUIREMENTS - [Foundation Name] - [Project Name].md` for all foundations, move the project to `04-proposal-drafts/`.
 
 ## Decision Points
 

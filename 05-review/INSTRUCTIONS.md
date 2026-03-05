@@ -20,25 +20,26 @@ For each foundation's proposal set, evaluate against these checks:
 - [ ] Is the core compelling idea clear and memorable?
 
 ### Vocabulary & Personalization Check
-- [ ] Does the proposal use the foundation's own language? (Check against 03-VOCABULARY-AND-FRAMING.md)
+- [ ] Does the proposal use the foundation's own language? (Check against `03-VOCABULARY-AND-FRAMING - [Foundation Name] - [Project Name].md`)
 - [ ] Are there any places where we used our jargon instead of theirs?
-- [ ] Is the cover letter addressed to specific people? (Check against 02-KEY-PEOPLE.md)
-- [ ] Does it reference specific grants they've made? (From 01-990-ANALYSIS.md)
+- [ ] Is the cover letter addressed to specific people? (Check against `02-KEY-PEOPLE - [Foundation Name] - [Project Name].md`)
+- [ ] Does it reference specific grants they've made? (From `01-990-ANALYSIS - [Foundation Name] - [Project Name].md`)
 - [ ] Are relevant partners mentioned? (From PARTNERSHIPS.md)
 
 ### 990-Informed Strategy Check
-- [ ] Is the ask amount consistent with 01-990-ANALYSIS.md recommendation?
+- [ ] Is the ask amount consistent with `01-990-ANALYSIS - [Foundation Name] - [Project Name].md` recommendation?
 - [ ] Is the ask sized for a first-time grantee (not our full project budget)?
 - [ ] If requesting partial funding, is it clear which component the grant covers?
 
 ### Completeness Check
-- [ ] Every required section/question addressed? (Per 04-APPLICATION-REQUIREMENTS.md)
+- [ ] Every required section/question addressed? (Per `04-APPLICATION-REQUIREMENTS - [Foundation Name] - [Project Name].md`)
 - [ ] Budget complete and math correct?
 - [ ] All required attachments noted?
 
 ### Quality Check
 - [ ] At least one story/testimonial?
 - [ ] At least one compelling data point?
+- [ ] All acronyms defined on first use? (DBS, DMC, DMM, etc.)
 - [ ] Is it concise? Could sections be tightened?
 - [ ] Confident without being arrogant?
 
@@ -52,9 +53,15 @@ For each foundation's proposal set, evaluate against these checks:
 - [ ] No named individuals in restricted-access nations?
 - [ ] No specific locations that shouldn't be revealed?
 
+### Markdown Formatting Check
+- [ ] Key-value blocks (contact info, org details) use lists, tables, or blank-line separation?
+- [ ] Blank lines before and after all headers?
+- [ ] Blank lines before and after all lists and tables?
+- [ ] Document renders correctly when pasted into Google Docs?
+
 ## Output
 
-Add `07-REVIEW-NOTES.md` to each foundation's subfolder:
+Add `07-REVIEW-NOTES - [Foundation Name] - [Project Name].md` to each foundation's subfolder:
 
 ```
 # Review Notes: [Foundation Name]
@@ -70,10 +77,11 @@ Add `07-REVIEW-NOTES.md` to each foundation's subfolder:
 - **[CRITICAL/MINOR]:** [Issue and location in draft]
 
 ## Specific Edits
-1. [Specific edit: "In 05-PROPOSAL-DRAFT.md, paragraph 3, change X to Y"]
+1. [Specific edit: "In `05-PROPOSAL-DRAFT - [Foundation Name] - [Project Name].md`, paragraph 3, change X to Y"]
 
 ## Vocabulary Audit
 - [Any places where our language was used instead of theirs]
+- [Undefined acronyms that need spelling out]
 
 ## Human Review Needed
 - [Decisions requiring human judgment]
@@ -90,11 +98,11 @@ Then create `REVIEW_SUMMARY.md` in the project folder:
 | [Name] | $X | [Date] | Ready | [Assign] |
 
 ## Before Submitting
-1. Read 07-REVIEW-NOTES.md for each foundation
+1. Read `07-REVIEW-NOTES - [Foundation Name] - [Project Name].md` for each foundation
 2. Fill in any [ALYCIA: PLEASE ANSWER] placeholders
 3. Gather universal documents
 4. Final human read of each proposal
-5. Submit via method in 04-APPLICATION-REQUIREMENTS.md
+5. Submit via method in `04-APPLICATION-REQUIREMENTS - [Foundation Name] - [Project Name].md`
 ```
 
 Add any CRITICAL issues to HUMAN_TODO.md.

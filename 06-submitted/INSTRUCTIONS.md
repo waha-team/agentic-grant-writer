@@ -12,7 +12,7 @@ Claude Code supports this stage but doesn't drive it. Humans submit proposals an
 
 ### After Submitting Each Proposal
 
-Add `08-SUBMISSION-LOG.md` to each foundation's subfolder:
+Add `08-SUBMISSION-LOG - [Foundation Name] - [Project Name].md` to each foundation's subfolder:
 
 ```
 # Submission Log: [Foundation Name]

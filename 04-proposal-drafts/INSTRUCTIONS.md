@@ -14,13 +14,15 @@
 
 ## Critical Rules
 
-**RULE 1: USE THEIR LANGUAGE.** Read `03-VOCABULARY-AND-FRAMING.md` for each foundation. Use their vocabulary column, not ours. If they say "Scripture engagement," you say "Scripture engagement." If they say "capacity building," you say "capacity building." Never force our jargon onto their priorities.
+**RULE 1: USE THEIR LANGUAGE.** Read `03-VOCABULARY-AND-FRAMING - [Foundation Name] - [Project Name].md` for each foundation. Use their vocabulary column, not ours. If they say "Scripture engagement," you say "Scripture engagement." If they say "capacity building," you say "capacity building." Never force our jargon onto their priorities.
+
+**RULE 1a: DEFINE ALL ACRONYMS.** Never use an acronym on first reference without spelling it out. Grant reviewers may not know what DBS, DMC, or DMM mean. First use: "Discovery Bible Study (DBS)"; subsequent uses: "DBS". See `CONTEXT/STYLE_GUIDE.md` for the acronym reference table.
 
 **RULE 2: LEAD WITH THE PROBLEM.** Especially for foundations that don't know us. The first thing they read should make them care about the problem. Waha is the answer, not the opening.
 
-**RULE 3: PERSONALIZE EVERYTHING.** Use names from `02-KEY-PEOPLE.md` in salutations. Reference specific grants they've made (from `01-990-ANALYSIS.md`). Mention shared networks or partners.
+**RULE 3: PERSONALIZE EVERYTHING.** Use names from `02-KEY-PEOPLE - [Foundation Name] - [Project Name].md` in salutations. Reference specific grants they've made (from `01-990-ANALYSIS - [Foundation Name] - [Project Name].md`). Mention shared networks or partners.
 
-**RULE 4: SIZE THE ASK TO THEIR PATTERNS.** Use the recommended ask from `01-990-ANALYSIS.md`, not our total project budget. If the project costs $25K and their median first-time grant is $3K, ask for $3K toward a specific component.
+**RULE 4: SIZE THE ASK TO THEIR PATTERNS.** Use the recommended ask from `01-990-ANALYSIS - [Foundation Name] - [Project Name].md`, not our total project budget. If the project costs $25K and their median first-time grant is $3K, ask for $3K toward a specific component.
 
 ## What to Do
 
@@ -32,9 +34,9 @@ Start with: nearest deadlines → highest alignment → simplest applications.
 ### Step 2: Write Each Proposal
 Add these files to each foundation's subfolder:
 
-#### `05-PROPOSAL-DRAFT.md`
+#### `05-PROPOSAL-DRAFT - [Foundation Name] - [Project Name].md`
 
-Structure per foundation's requirements (from 04-APPLICATION-REQUIREMENTS.md). If they don't specify, use this structure:
+Structure per foundation's requirements (from `04-APPLICATION-REQUIREMENTS - [Foundation Name] - [Project Name].md`). If they don't specify, use this structure:
 
 **1. Executive Summary** (1 paragraph)
 The problem. Who we are (1 sentence). What we're asking for. Why it matters. Written in THEIR vocabulary.
@@ -76,7 +78,7 @@ THIS IS THE MOST IMPORTANT SECTION. Remember: this is a sales letter. Make them 
 **8. Sustainability** (1 paragraph)
 - How work continues after grant. For localization: permanent resource at zero marginal cost.
 
-#### `06-COVER-LETTER.md`
+#### `06-COVER-LETTER - [Foundation Name] - [Project Name].md`
 
 Personalized cover letter:
 
@@ -89,7 +91,7 @@ Personalized cover letter:
 - Clear ask with specific dollar amount
 - Express genuine alignment with THEIR mission (in THEIR words)
 
-#### `07-LOI-DRAFT.md` (if foundation requires Letter of Inquiry first)
+#### `07-LOI-DRAFT - [Foundation Name] - [Project Name].md` (if foundation requires Letter of Inquiry first)
 
 **IMPORTANT: Always produce BOTH the LOI and the full proposal in the same pass.** Don't stop at the LOI. The LOI gets sent first; the full proposal is pre-written and ready to submit immediately when the invitation comes back. This eliminates delays.
 
@@ -101,23 +103,25 @@ LOI format (1-2 pages max):
 - Close: request for invitation to submit full proposal
 - Use their vocabulary throughout
 
-#### `APPLICATION-ANSWERS.md` (if foundation has specific questions)
+#### `APPLICATION-ANSWERS - [Foundation Name] - [Project Name].md` (if foundation has specific questions)
 
-Answer each question from 04-APPLICATION-REQUIREMENTS.md directly. Use their vocabulary.
+Answer each question from `04-APPLICATION-REQUIREMENTS - [Foundation Name] - [Project Name].md` directly. Use their vocabulary.
 
 ### Step 3: Self-Check Before Moving On
 
 For each proposal, verify:
-- [ ] Uses the foundation's own vocabulary (check against 03-VOCABULARY-AND-FRAMING.md)
+- [ ] Uses the foundation's own vocabulary (check against `03-VOCABULARY-AND-FRAMING - [Foundation Name] - [Project Name].md`)
+- [ ] All acronyms defined on first use (DBS, DMC, DMM, etc.)
 - [ ] Leads with the problem, not with who we are
 - [ ] Addresses specific people by name in cover letter
-- [ ] Ask amount matches 01-990-ANALYSIS.md recommendation
+- [ ] Ask amount matches `01-990-ANALYSIS - [Foundation Name] - [Project Name].md` recommendation
 - [ ] References at least one specific grant they've made to a similar org
 - [ ] Includes at least one story AND one data point
 - [ ] Budget math adds up
 - [ ] No security-sensitive details exposed
 - [ ] Within word/page limits
 - [ ] Name-drops 2-3 relevant partners
+- [ ] **Valid markdown** — key-value blocks use lists/tables, blank lines around headers/lists/tables (see `CONTEXT/STYLE_GUIDE.md`)
 
 ### Step 4: Reorganize and Create Status Documents
 
@@ -135,7 +139,7 @@ After drafting all proposals, reorganize the foundation folders using this namin
 | `NA-` | Not applicable | Can't apply (wrong org type, geography, etc.) |
 | `S-` | Suspended | Foundation paused applications |
 
-**IMPORTANT: For folders with status prefixes (H-, NA-, IO-, CL-, R-, S-), the FIRST LINES of `00-BRIEFING.md` must explain WHY the foundation has that status.** This explanation should appear before the standard briefing content, so anyone opening the file immediately understands the blocker.
+**IMPORTANT: For folders with status prefixes (H-, NA-, IO-, CL-, R-, S-), the FIRST LINES of `00-BRIEFING - [Foundation Name] - [Project Name].md` must explain WHY the foundation has that status.** This explanation should appear before the standard briefing content, so anyone opening the file immediately understands the blocker.
 
 **Process:**
 
@@ -162,8 +166,8 @@ After drafting all proposals, reorganize the foundation folders using this namin
    2. [Next step after connection made]
    3. Submit LOI/proposal
 
-   ## Proposal Status
-   Drafted and ready. (See 05-PROPOSAL-DRAFT.md and 06-COVER-LETTER.md)
+    ## Proposal Status
+    Drafted and ready. (See `05-PROPOSAL-DRAFT - [Foundation Name] - [Project Name].md` and `06-COVER-LETTER - [Foundation Name] - [Project Name].md`)
 
    ## Deadline Pressure
    [Urgency level]

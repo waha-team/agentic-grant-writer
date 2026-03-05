@@ -49,7 +49,7 @@ For each selected foundation, create a subfolder inside the project folder using
 
 At Stage 02, number the open-process foundations with NO blockers in priority order (`01-`, `02-`, etc.). Only add status prefixes to foundations with genuine blockers. Foundations keep their labels through stages 02 → 03 → 04 → 05.
 
-**IMPORTANT: For folders with status prefixes (H-, IO-, CL-, NA-, S-), the FIRST LINES of `00-BRIEFING.md` must explain the blocker.** This explanation should appear before the standard briefing template content.
+**IMPORTANT: For folders with status prefixes (H-, IO-, CL-, NA-, S-), the FIRST LINES of `00-BRIEFING - [Foundation Name] - [Project Name].md` must explain the blocker.** This explanation should appear before the standard briefing template content.
 
 ---
 
@@ -91,11 +91,26 @@ If a URL is unavailable for a specific claim (e.g., data from a paywalled source
 
 ---
 
-Inside each, create the following numbered documents:
+---
+
+## File Naming Convention
+
+All dossier files use this naming pattern:
+```
+[NUMBER]-[TYPE] - [Foundation Name] - [Project Name].md
+```
+
+**Example:** `00-BRIEFING - Engage Global - waha-general-operating.md`
+
+The `[Project Name]` is the project folder name (e.g., `waha-general-operating`). The `[Foundation Name]` is the foundation's short name (e.g., `Engage Global`).
 
 ---
 
-#### `00-BRIEFING.md` — Foundation Overview
+Inside each foundation folder, create the following numbered documents:
+
+---
+
+#### `00-BRIEFING - [Foundation Name] - [Project Name].md` — Foundation Overview
 
 This is the foundation intelligence brief. Someone should be able to read just this file and understand everything about this funder.
 
@@ -137,7 +152,7 @@ This is the foundation intelligence brief. Someone should be able to read just t
 
 ---
 
-#### `01-990-ANALYSIS.md` — Financial & Giving Pattern Analysis
+#### `01-990-ANALYSIS - [Foundation Name] - [Project Name].md` — Financial & Giving Pattern Analysis
 
 This is the strategic intelligence that prevents the "$10K ask to a $3K funder" mistake.
 
@@ -181,7 +196,7 @@ This is the strategic intelligence that prevents the "$10K ask to a $3K funder" 
 
 ---
 
-#### `02-KEY-PEOPLE.md` — Decision Maker Profiles
+#### `02-KEY-PEOPLE - [Foundation Name] - [Project Name].md` — Decision Maker Profiles
 
 This is a ~2-page research brief on the humans who decide.
 
@@ -233,7 +248,7 @@ Example: "Dear [Name], [Name], and the [Foundation] team,"
 
 ---
 
-#### `03-VOCABULARY-AND-FRAMING.md` — Language Mapping
+#### `03-VOCABULARY-AND-FRAMING - [Foundation Name] - [Project Name].md` — Language Mapping
 
 **This is the file that makes proposals feel tailored instead of generic.** It maps the foundation's language to ours so the proposal writer (Stage 04) can write in THEIR vocabulary. It may be the most important file in the project, so spend time making sure it's great.
 
