@@ -36,14 +36,14 @@ These apply across all changes:
 Human creates a brief (from Attio or manually), moves it to `01-prospect-research/`.
 
 ### New Behavior
-Human drops a brief into `00-projects/`. Claude automatically picks it up and runs an enrichment pass.
+When Claude is invoked to process the pipeline (or a specific project), the first thing it does for any project in `00-projects/` is run the enrichment pass on the brief. This is not a file-watcher or cron job — it is the first step Claude executes when a human starts a pipeline session. The enrichment targets the project's `00-PROJECT_BRIEF.md` file (or the equivalent loose `.md` file, which should first be moved into a properly named project subfolder per existing Stage 00 conventions).
 
 ### Enrichment Process
 
 **Step 1: Staleness check**
 - Check `CONTEXT/IMPACT_DATA.md` last-modified date
-- If older than 30 days → flag to human: "IMPACT_DATA.md hasn't been updated in [N] days. Please review and update before proceeding."
-- Do not proceed until the human confirms or updates the file
+- If older than 30 days → warn the human: "IMPACT_DATA.md hasn't been updated in [N] days. Consider updating before proposals are written."
+- Log this to `HUMAN_TODO.md` and **proceed with enrichment** (do not hard-block — per INIT.md Principle 6: "Momentum over perfection")
 
 **Step 2: Attio deep dive (project-facing)**
 - Search Attio contacts, notes, tasks related to this project's language, geography, people group, and partners
@@ -131,9 +131,9 @@ Search queries generated from the keyword matrix. No arbitrary cap — quality g
 
 **Method 3: Community foundations search (NEW)**
 - For each project, identify 3-5 community foundations in relevant geographies:
-  - Waha's headquarters location
-  - Partner organization locations
-  - Project-relevant diaspora community locations (if applicable)
+  - Waha's headquarters location (from `CONTEXT/OUR_ORGANIZATION.md`)
+  - Partner organization locations (from `CONTEXT/PARTNERSHIPS.md`)
+  - Project-relevant diaspora community locations (if applicable — use web research to identify diaspora concentrations for the project's target language/people group)
 - Community foundations don't require mission match — only local impact demonstration
 
 **Method 4: Partner-based searches (EXISTING — keep)**
@@ -141,11 +141,16 @@ Search queries generated from the keyword matrix. No arbitrary cap — quality g
 - This is already in the system and is high-value
 
 ### Prospect Ranking
-- Foundations matching 4+ keywords → top of list
-- 3 keywords → high priority
-- 2 keywords → included
+
+The keyword-count ranking maps onto the existing tier system in PROSPECTS.md:
+
+- Foundations matching 4+ keywords → **Tier 1: Strong Alignment**
+- 3 keywords → **Tier 2: Moderate Alignment**
+- 2 keywords → **Tier 3: Worth Watching**
 - 1 keyword → excluded
 - Within each tier, rank by: mission alignment strength → 990 grant history to similar orgs → open application process
+
+If a project produces fewer than 15 qualifying prospects (2+ keywords), this is a signal to broaden searches — try additional keyword combinations, relax geographic constraints, or explore adjacent funder types. Flag in HUMAN_TODO.md if broadening still yields thin results.
 
 ### No Arbitrary Cap
 - Do not limit to 15-40 prospects
@@ -159,7 +164,8 @@ Search queries generated from the keyword matrix. No arbitrary cap — quality g
 ### Dossier Count
 - Remove the "top 8-12" limit
 - Research all foundations that passed Stage 01's quality gate
-- Natural prioritization: start with highest-ranked foundations, work down
+- Natural prioritization: start with highest-ranked (Tier 1) foundations, work down through Tier 2 and Tier 3
+- SHORTLIST.md becomes a generated summary of all researched foundations (not a selection gate) — it serves as the at-a-glance dashboard for the project
 
 ### Key People Research Improvements
 
@@ -265,4 +271,14 @@ Search queries generated from the keyword matrix. No arbitrary cap — quality g
 
 ---
 
+## Implementation Notes
+
+- All changes will be implemented by **updating the existing INSTRUCTIONS.md files** for each affected stage (00, 01, 02, 04, 06), as well as INIT.md where it references prospect counts or stage descriptions.
+- The `00-projects/_TEMPLATE/` will be updated to reflect the enriched brief structure (so humans can see what a complete brief looks like).
+- The `CREATE_PROJECT_BRIEF_FROM_ATTIO_INSTRUCTIONS.md` workflow remains unchanged — the enrichment step runs AFTER brief creation regardless of source.
+- `CONTEXT/ACTIVE_PIPELINE.md` will be created as a new file in CONTEXT/ (appropriate location since INIT.md instructs Claude to read all CONTEXT/ files each session).
+
+---
+
 *Design approved in brainstorming session, 2026-03-10.*
+*Revised after spec review, 2026-03-10.*
