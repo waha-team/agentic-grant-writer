@@ -1,16 +1,22 @@
-# Ignore all project-specific folders
-00-projects/*_project_brief.md
-00-projects/_TEMPLATE/
-01-prospect-research/*/
-02-alignment-analysis/*/
-03-contact-research/*/
-04-application-prep/*/
-05-proposal-drafts/*/
-06-review/*/
+# Project data in stage directories — ignore all project subfolders, keep INSTRUCTIONS
+/0[0-9]-*/*/
 
-# Ignore generated/data files
-CONTEXT/PAST_GRANTS/
+# Loose project brief files in 00-projects (INSTRUCTIONS and _TEMPLATE are kept)
+/00-projects/*_project_brief.md
+
+# Sensitive / environment files
+.env
+
+# Generated / binary files
 CONTEXT/*.docx
+
+# Node / build artifacts in skills
+node_modules/
+skills/*/node_modules/
+
+# Binary files in CONTEXT
+CONTEXT/*.pdf
+CONTEXT/*.png
 
 # OS files
 .DS_Store

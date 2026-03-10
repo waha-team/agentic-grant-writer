@@ -10,20 +10,20 @@
 
 The following foundations were found during research but are **already in the Waha pipeline** and are excluded from this list:
 
-| Foundation | EIN | Status |
-|---|---|---|
-| First Fruit Inc | 95-3081605 | Excluded |
-| Maclellan Foundation | 62-6041468 | Excluded |
-| Stewardship Foundation | 91-6020515 | Excluded |
-| Crowell Trust | 36-6038028 | Excluded |
-| Tyndale House Foundation | 82-2635353 | Excluded |
-| Chatlos Foundation | -- | Excluded |
-| Alvah & Doris Veit Foundation | 45-3769961 | Excluded |
-| Gospel Volunteers | 59-6001191 | Excluded |
-| Engage Global | 46-1112682 | Excluded |
-| Teleios Inc | 57-1112586 | Excluded |
-| National Christian Foundation | -- | Excluded (DAF intermediary) |
-| Birtcher Family Foundation | 20-1089341 | Excluded |
+| Foundation                    | EIN        | Status                      |
+|-------------------------------|------------|-----------------------------|
+| First Fruit Inc               | 95-3081605 | Excluded                    |
+| Maclellan Foundation          | 62-6041468 | Excluded                    |
+| Stewardship Foundation        | 91-6020515 | Excluded                    |
+| Crowell Trust                 | 36-6038028 | Excluded                    |
+| Tyndale House Foundation      | 82-2635353 | Excluded                    |
+| Chatlos Foundation            | --         | Excluded                    |
+| Alvah & Doris Veit Foundation | 45-3769961 | Excluded                    |
+| Gospel Volunteers             | 59-6001191 | Excluded                    |
+| Engage Global                 | 46-1112682 | Excluded                    |
+| Teleios Inc                   | 57-1112586 | Excluded                    |
+| National Christian Foundation | --         | Excluded (DAF intermediary) |
+| Birtcher Family Foundation    | 20-1089341 | Excluded                    |
 
 ---
 
