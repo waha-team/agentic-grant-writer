@@ -56,6 +56,8 @@ Three processes, one language (TypeScript), one database.
 ### 3.4 Communication Pattern
 The database is the message bus. Next.js writes job rows; the worker polls for queued jobs, claims them, and writes results back. Supabase Realtime pushes updates to the browser. No Redis or message queue needed for MVP.
 
+**Job claiming pattern:** The worker claims jobs atomically via `UPDATE agent_jobs SET status = 'running', started_at = now() WHERE id = (SELECT id FROM agent_jobs WHERE status = 'queued' ORDER BY created_at LIMIT 1 FOR UPDATE SKIP LOCKED) RETURNING *`. This prevents double-processing even if the worker restarts or multiple workers are added later.
+
 ### 3.5 External Services
 - **OpenRouter:** All AI reasoning, drafting, analysis. Model configurable globally by admin (not per-org). Default: Claude.
 - **ProPublica Nonprofit Explorer API:** 990 data, grantee lists, board members, asset levels, giving patterns. Free.
@@ -69,7 +71,7 @@ The database is the message bus. Next.js writes job rows; the worker polls for q
 - id, name, ein, mission, settings (JSON), created_at
 
 **`org_context`** — replaces the CONTEXT/ directory
-- id, org_id, type (enum: profile, impact_stories, financials, partnerships, style_guide, search_criteria, statement_of_faith, board, governance), content (rich text/markdown), always_load (boolean), created_at, updated_at
+- id, org_id, type (enum: profile, impact_stories, financials, partnerships, style_guide, search_criteria, statement_of_faith, board, governance, past_grants, funder_alignment, other), label (text, nullable — human-readable name when type is 'other'), content (rich text/markdown), always_load (boolean), created_at, updated_at
 
 Context loading tiers:
 - **Always loaded** (always_load = true): org profile, style guide, search criteria, financials summary, statement of faith
@@ -78,11 +80,15 @@ Context loading tiers:
 **`projects`** — replaces project briefs + folder location as status
 - id, org_id, name, description, brief_content (markdown), status (enum: prep, prospect_research, deep_research, application_prep, proposal_drafting, review, submitted), created_at, updated_at
 
+Note: The `submitted` status is set manually by the user via a UI action (there is no agent stage for it). Detailed submission tracking is deferred for a future iteration.
+
 **`prospects`** — replaces PROSPECTS.md + foundation subfolders
-- id, project_id, foundation_name, ein, website, mission, tier (1/2/3), grant_range_min, grant_range_max, grant_median, suggested_ask, application_type (open/loi/invitation), grant_cycle, status (enum: identified, researching, complete, blocked, not_applicable, invite_only, cycle_closed, suspended), priority (integer), created_at, updated_at
+- id, project_id, foundation_name, ein, website, mission, tier (1/2/3), grant_range_min, grant_range_max, grant_median, suggested_ask, application_type (open/loi/invitation), grant_cycle, alignment_score (integer 0-100, nullable — computed by agent during research based on mission fit, giving patterns, and funder type match), status (enum: identified, researching, complete, blocked, not_applicable, invite_only, cycle_closed, suspended), priority (integer), created_at, updated_at
 
 **`dossiers`** — replaces the 00-07 numbered files per foundation
-- id, prospect_id, type (enum: briefing, 990_analysis, key_people, vocabulary_framing, application_requirements, proposal_draft, cover_letter, review_notes), content (markdown with inline citations), created_at, updated_at
+- id, prospect_id, type (enum: briefing, 990_analysis, key_people, vocabulary_framing, application_requirements, proposal_draft, cover_letter, review_notes), content (markdown with inline citations), status (enum: draft, reviewed, approved), created_at, updated_at
+
+Note: The existing CLI system also produces a `submission_log` (file 08). Submission tracking is deferred for MVP — the `submitted` project status is set manually by the user, and detailed submission logging will be added in a future iteration.
 
 **`tasks`** — replaces HUMAN_TODO.md
 - id, org_id, project_id (nullable), prospect_id (nullable), type (enum: blocking, non_blocking), title, description, status (enum: pending, in_progress, completed, dismissed), response (text, nullable), attachments (JSON array of storage paths), created_at, updated_at
@@ -93,10 +99,17 @@ When both project_id and prospect_id are null, the task is org-level (e.g., "Upl
 - id, org_id, name, file_path (Supabase Storage reference), doc_type (enum: 501c3, 990, annual_report, strategic_plan, board_resolution, other), extracted_content (text, nullable — AI-extracted on upload), created_at
 
 **`agent_jobs`** — pipeline orchestration
-- id, project_id, stage (enum: prospect_research, deep_research, application_prep, proposal_drafting, review), prospect_id (nullable, for per-foundation sub-jobs), status (enum: queued, running, completed, failed), error (text, nullable), started_at, completed_at
+- id, project_id, stage (enum: prospect_research, deep_research, application_prep, proposal_drafting, review), prospect_id (nullable, for per-foundation sub-jobs), status (enum: queued, running, completed, failed), error (text, nullable), retry_count (integer, default 0), started_at, completed_at
 
 **`chat_messages`** — Project Prep Studio conversation history
-- id, project_id, role (enum: user, assistant), content (text), created_at
+- id, project_id, role (enum: user, assistant), content (text), message_type (enum: text, brief_preview — distinguishes normal messages from structured brief previews), created_at
+
+The brief itself is always stored in `projects.brief_content`. When the AI generates a brief preview in chat, it writes to both `chat_messages` (with message_type = brief_preview) and `projects.brief_content`. The "edit directly" interaction edits `projects.brief_content` via a separate editor component, not inline in chat.
+
+**`prompt_templates`** — stage instructions (replaces INSTRUCTIONS.md files)
+- id, stage (enum: prospect_research, deep_research, application_prep, proposal_drafting, review), name (text), content (text), version (integer), active (boolean, default true), created_at, updated_at
+
+Seeded from the existing INSTRUCTIONS.md files during initial setup. Only the active version for each stage is used by the worker. Versioning enables prompt iteration without losing history.
 
 **`users`** — extends Supabase Auth
 - id (matches auth.users), org_id, name, email, role (enum: admin, member), created_at
@@ -163,17 +176,15 @@ Each stage is a separate `agent_job`. If a stage fails, only that stage is retri
 - Output: 15–40 prospects with tier assignments and initial data
 - On completion: creates Stage 02 jobs (one per selected prospect, parallel)
 
-**Stage 02: Deep Research (parallel per foundation)**
+**Stage 02: Deep Research (parallel per foundation, max 5 concurrent)**
 - Input: prospect data + org context (always-loaded + selectively loaded based on foundation type)
-- For each prospect, builds the 8-part dossier:
+- Concurrency limit: max 5 foundations researched in parallel to manage API rate limits and costs
+- For each prospect, builds the research dossier (parts 00-04):
   - 00-BRIEFING: Foundation overview, history, mission, assets, timeline, contact info
   - 01-990-ANALYSIS: Grant ranges, first-time vs repeat patterns, board members, recommended ask
   - 02-KEY-PEOPLE: Decision makers, LinkedIn profiles, warm paths
   - 03-VOCABULARY-AND-FRAMING: Their language ↔ how to frame the client's work
   - 04-APPLICATION-REQUIREMENTS: Form fields, attachments, deadlines, format
-  - 05-PROPOSAL-DRAFT: Initial tailored proposal
-  - 06-COVER-LETTER: Personalized using key people and specific grants
-  - 07-REVIEW-NOTES: Self-critique and compliance checklist
 - Each dossier entry is written to DB as completed
 - If the agent identifies a need (board endorsement letter, partner reference letter), it drafts it and creates a non-blocking task: "We drafted a board endorsement letter for [Foundation]. Please review and have your board chair sign."
 - Blocking only when the system literally cannot proceed (e.g., foundation requires a specific document that doesn't exist and can't be drafted)
@@ -185,14 +196,18 @@ Each stage is a separate `agent_job`. If a stage fails, only that stage is retri
 - Cross-references uploaded documents against requirements
 
 **Stage 04: Proposal Drafting**
-- Input: dossiers + application requirements + org context (with selectively loaded impact stories and partnerships)
+- Input: dossiers (parts 00-04) + application requirements + org context (with selectively loaded impact stories and partnerships)
+- Produces the proposal components (parts 05-07 of the dossier):
+  - 05-PROPOSAL-DRAFT: Full tailored proposal
+  - 06-COVER-LETTER: Personalized using key people and specific grants
+  - 07-REVIEW-NOTES: Initial self-critique and compliance checklist
 - Applies golden rules from the existing system:
   1. Use THEIR language (from vocabulary mapping)
   2. Lead with THE PROBLEM
   3. Personalize with names and specific grants
   4. Size the ask to THEIR patterns
-- Refines proposal drafts, cover letters, and LOIs
 - Integrates any human task responses that have come in since Stage 02
+- Updates existing dossier rows in place (no versioning — the current content is always the latest)
 
 **Stage 05: Review**
 - Agent self-critiques each proposal against checklist:
@@ -240,6 +255,31 @@ For MVP, these are seeded from the existing INSTRUCTIONS.md files during setup.
 4. Continue working
 
 Blocking tasks are reserved for hard dependencies where no draft is possible (missing legal documents, required signatures). The bar for blocking should be very high.
+
+### 6.5 Error Handling & Retries
+
+Failed jobs are retried up to 3 times with exponential backoff (30s, 2min, 10min). After max retries, the job is marked `failed` and a blocking task is created for the admin team to investigate. Partial results from failed stages are preserved — dossier rows already written to the database remain intact and are not rolled back. The `retry_count` field on `agent_jobs` tracks attempts.
+
+### 6.6 Concurrency & Cost Management
+
+- Stage 02 runs max 5 foundation research sub-jobs in parallel per project
+- Token usage is logged per agent_job for cost tracking and future billing
+- OpenRouter's rate limiting is respected via the worker's concurrency cap
+
+### 6.7 Web Search Interface
+
+The worker uses a pluggable search interface:
+
+```typescript
+interface SearchProvider {
+  search(query: string, options?: { maxResults?: number }): Promise<SearchResult[]>
+}
+interface SearchResult {
+  title: string; url: string; snippet: string
+}
+```
+
+For MVP, this is backed by Tavily (simple API, agentic-optimized, ~$0.005/search). The interface allows swapping to Serper, SerpAPI, or others without changing agent code.
 
 ## 7. Technical Implementation
 
@@ -303,11 +343,12 @@ pnpm dev                # Next.js dev server + worker process
 **Environment variables:**
 ```
 OPENROUTER_API_KEY=
-OPENROUTER_MODEL=anthropic/claude-sonnet-4-20250514
+OPENROUTER_MODEL=anthropic/claude-sonnet-4
 SUPABASE_URL=
 SUPABASE_ANON_KEY=
 SUPABASE_SERVICE_ROLE_KEY=
 PROPUBLICA_BASE_URL=https://projects.propublica.org/nonprofits/api/v2
+TAVILY_API_KEY=
 ```
 
 ### 7.4 Security
@@ -339,7 +380,9 @@ PROPUBLICA_BASE_URL=https://projects.propublica.org/nonprofits/api/v2
 ### Out of Scope (Future)
 - Grant Warden human review workflow
 - Tier-based project limits (Momentum vs Dominance)
-- GrantStation / Attio CRM integrations
+- GrantStation integration (the existing CLI system uses a Playwright scraper; deferred for MVP)
+- Attio CRM integration (the existing CLI system has read-only access for relationship lookups; intentionally deferred for MVP)
+- Submission tracking and logging (the CLI system's stage 06 and dossier part 08-SUBMISSION-LOG; the `submitted` project status is set manually by the user for MVP)
 - Billing / Stripe integration
 - Onboarding interview transcription processing
 - Email notifications
