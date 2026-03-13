@@ -80,10 +80,19 @@ Context loading tiers:
 **`projects`** — replaces project briefs + folder location as status
 - id, org_id, name, description, brief_content (markdown), status (enum: prep, prospect_research, deep_research, application_prep, proposal_drafting, review, submitted), created_at, updated_at
 
+**Status transitions:**
+- `prep` → `prospect_research` (user approves brief)
+- `prospect_research` → `deep_research` (Stage 01 agent job completes)
+- `deep_research` → `application_prep` (all Stage 02 sub-jobs complete)
+- `application_prep` → `proposal_drafting` (Stage 03 completes)
+- `proposal_drafting` → `review` (Stage 04 completes)
+- `review` → `submitted` (user manually marks as submitted via UI)
+- `review` → `proposal_drafting` (user requests revisions on specific proposals — project stays in `review` unless all proposals need rework)
+
 Note: The `submitted` status is set manually by the user via a UI action (there is no agent stage for it). Detailed submission tracking is deferred for a future iteration.
 
 **`prospects`** — replaces PROSPECTS.md + foundation subfolders
-- id, project_id, foundation_name, ein, website, mission, tier (1/2/3), grant_range_min, grant_range_max, grant_median, suggested_ask, application_type (open/loi/invitation), grant_cycle, alignment_score (integer 0-100, nullable — computed by agent during research based on mission fit, giving patterns, and funder type match), status (enum: identified, researching, complete, blocked, not_applicable, invite_only, cycle_closed, suspended), priority (integer), created_at, updated_at
+- id, project_id, foundation_name, ein, website, mission, tier (1/2/3), grant_range_min, grant_range_max, grant_median, suggested_ask, application_type (open/loi/invitation), grant_cycle, alignment_score (integer 0-100, nullable — LLM-generated during Stage 01 prospect research. Rubric: 80-100 = strong mission overlap + active giving in this space + appropriate grant size; 50-79 = partial mission fit or untested giving area; below 50 = tangential fit. Corresponds roughly to Tier 1/2/3 assignments but provides finer granularity for sorting), status (enum: identified, researching, complete, blocked, not_applicable, invite_only, cycle_closed, suspended), priority (integer), created_at, updated_at
 
 **`dossiers`** — replaces the 00-07 numbered files per foundation
 - id, prospect_id, type (enum: briefing, 990_analysis, key_people, vocabulary_framing, application_requirements, proposal_draft, cover_letter, review_notes), content (markdown with inline citations), status (enum: draft, reviewed, approved), created_at, updated_at
@@ -99,7 +108,7 @@ When both project_id and prospect_id are null, the task is org-level (e.g., "Upl
 - id, org_id, name, file_path (Supabase Storage reference), doc_type (enum: 501c3, 990, annual_report, strategic_plan, board_resolution, other), extracted_content (text, nullable — AI-extracted on upload), created_at
 
 **`agent_jobs`** — pipeline orchestration
-- id, project_id, stage (enum: prospect_research, deep_research, application_prep, proposal_drafting, review), prospect_id (nullable, for per-foundation sub-jobs), status (enum: queued, running, completed, failed), error (text, nullable), retry_count (integer, default 0), started_at, completed_at
+- id, project_id, stage (enum: prospect_research, deep_research, application_prep, proposal_drafting, review), prospect_id (nullable, for per-foundation sub-jobs), status (enum: queued, running, completed, failed), error (text, nullable), retry_count (integer, default 0), tokens_input (integer, nullable), tokens_output (integer, nullable), cost_usd (decimal, nullable), started_at, completed_at
 
 **`chat_messages`** — Project Prep Studio conversation history
 - id, project_id, role (enum: user, assistant), content (text), message_type (enum: text, brief_preview — distinguishes normal messages from structured brief previews), created_at
@@ -190,10 +199,11 @@ Each stage is a separate `agent_job`. If a stage fails, only that stage is retri
 - Blocking only when the system literally cannot proceed (e.g., foundation requires a specific document that doesn't exist and can't be drafted)
 
 **Stage 03: Application Prep**
-- Input: completed dossiers + org context
-- Documents what each foundation needs (forms, attachments, deadlines, format)
-- Builds compliance checklists
-- Cross-references uploaded documents against requirements
+- Input: completed dossiers (specifically 04-APPLICATION-REQUIREMENTS from Stage 02) + org context + uploaded documents
+- This stage adds value beyond Stage 02 by cross-referencing: it compares each foundation's requirements against the org's actual uploaded documents to identify gaps
+- Builds per-foundation compliance checklists: "Huston Foundation needs: 501(c)(3) letter [uploaded], board resolution [missing], 2-year budget [missing]"
+- Creates tasks for missing documents (blocking if required for submission, non-blocking if optional)
+- Output: enriched application_requirements dossier entries with compliance status
 
 **Stage 04: Proposal Drafting**
 - Input: dossiers (parts 00-04) + application requirements + org context (with selectively loaded impact stories and partnerships)
@@ -218,9 +228,10 @@ Each stage is a separate `agent_job`. If a stage fails, only that stage is retri
   - Ask amount realistic for 990 patterns?
   - All claims cited?
   - Signatures/contact info correct?
-- Marks proposals as "ready for review"
-- User reviews in report viewer, approves or requests changes
-- If changes requested → creates a revision job
+- Marks proposals as "ready for review" (dossier status → `reviewed`)
+- User reviews in report viewer. For each proposal, user can:
+  - **Approve** → dossier status → `approved`
+  - **Request changes** → user provides feedback via a text field on the report view. This creates a new `agent_job` with stage = `proposal_drafting` for the specific prospect (a revision run). The agent re-drafts using the original dossier content + user feedback. The feedback text is stored in a non-blocking task linked to the prospect for traceability.
 
 ### 6.2 Context Assembly
 
@@ -240,7 +251,7 @@ This replaces the "read INIT.md + CONTEXT/ at session start" pattern from the CL
 ### 6.3 Prompt Templates
 
 Stage instructions (currently INSTRUCTIONS.md files) become prompt template records in the database. This allows:
-- Versioning and A/B testing of prompts without code deploys
+- Versioning of prompts without code deploys (the `active` flag selects which version is live)
 - Per-stage tuning of the AI model via OpenRouter
 - Admin editing of prompt templates via a future admin UI
 
@@ -262,8 +273,8 @@ Failed jobs are retried up to 3 times with exponential backoff (30s, 2min, 10min
 
 ### 6.6 Concurrency & Cost Management
 
-- Stage 02 runs max 5 foundation research sub-jobs in parallel per project
-- Token usage is logged per agent_job for cost tracking and future billing
+- Stage 02 runs max 5 foundation research sub-jobs in parallel per project, enforced via a semaphore in the worker's orchestrator (limits concurrent `Promise.all` slots)
+- Token usage is logged per agent_job (via `tokens_input`, `tokens_output`, `cost_usd` columns) for cost tracking and future billing
 - OpenRouter's rate limiting is respected via the worker's concurrency cap
 
 ### 6.7 Web Search Interface
@@ -289,7 +300,7 @@ For MVP, this is backed by Tavily (simple API, agentic-optimized, ~$0.005/search
 - **Database:** Supabase (Postgres 15+, Auth, Storage, Realtime)
 - **AI:** OpenRouter API (default model: Claude, globally configurable)
 - **Worker:** Standalone Node.js/TypeScript process
-- **DOCX generation:** docx npm package or Pandoc
+- **DOCX generation:** `docx` npm package (pure JS, no system dependencies — preferred over Pandoc for simpler deployment)
 - **Local dev:** docker-compose (Supabase local + worker + Next.js dev server)
 
 ### 7.2 Project Structure
@@ -476,5 +487,4 @@ Each integration: 1–2 days
 1. **Onboarding call tooling:** What platform will your team use for intake calls? This affects transcript format for future automated processing.
 2. **DOCX template:** Should exported proposals follow a specific template/formatting, or is clean markdown-to-docx sufficient for MVP?
 3. **Admin interface:** For MVP, will your team manage orgs/context via Supabase dashboard directly, or do you need an admin UI?
-4. **Search provider:** Which web search API to use — Tavily, Serper, or SerpAPI? (All are cheap, ~$0.005/search)
-5. **Demo data:** Should the MVP be seeded with Waha's existing context and research data for demo purposes?
+4. **Demo data:** Should the MVP be seeded with Waha's existing context and research data for demo purposes?
