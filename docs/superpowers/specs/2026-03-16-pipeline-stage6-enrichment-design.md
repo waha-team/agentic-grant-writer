@@ -44,11 +44,11 @@ The `REVIEW_SUMMARY.md` template in `05-review/INSTRUCTIONS.md` gets extended wi
 
 ```markdown
 ## Submission Queue (prioritized by deadline)
-| Foundation | Ask | Deadline | Key Contact | Website | Alignment | Grant Cycle | Status | Blocker | Notes |
+| Foundation | Ask | Deadline | Key Contact | Website | Alignment | Grant Cycle | Status | Submitter | Notes |
 |---|---|---|---|---|---|---|---|---|---|
 ```
 
-**New columns:**
+The existing `Status` and `Submitter` columns are retained. **New columns** inserted before them:
 
 - **Key Contact** — Primary contact person with role and best available contact method. Format: `Name (Role) · email@example.com` or `Name (Role) · [LinkedIn](url)` or `Name (Role) · 555-123-4567`. Priority: email > phone > LinkedIn > other social > "no contact found"
 - **Website** — Foundation URL
@@ -83,6 +83,14 @@ The `REVIEW_SUMMARY.md` template in `05-review/INSTRUCTIONS.md` gets extended wi
 
 Individual foundation subfolders are cherry-picked from `05-review/{project-name}/{foundation-name}/` into `06-to-be-submitted/{foundation-name}--{project-name}/`. The project name is encoded after `--` in the folder name. This keeps the structure flat (easy to move in Google Drive) while preserving project context for CRM sync.
 
+### Entry Criteria
+
+A foundation moves from Stage 05 to Stage 06 only when **Vince approves it** from the review summary. This is an async decision — Vince reviews the `REVIEW_SUMMARY.md`, replies with which foundations to move forward, and Alycia (or Josh) cherry-picks those folders into `06-to-be-submitted/`.
+
+**Only foundations with numbered prefixes** (`01-`, `02-`, etc. — meaning "ready to proceed, no blockers") are eligible for Stage 06. Foundations with status prefixes (`H-`, `R-`, `IO-`, `S-`, `NA-`) stay in Stage 05 until their blocker is resolved and the prefix is changed to a number.
+
+**When moving to Stage 06:** strip the numeric prefix from the foundation folder name. `05-review/mongolian-dbs/03-jimmy-foundation/` becomes `06-to-be-submitted/jimmy-foundation--mongolian-dbs/`.
+
 ### Three Sequential Steps
 
 #### Step 1: Deep Enrichment
@@ -98,6 +106,8 @@ For each key person identified in the existing `02-KEY-PEOPLE` document:
 - Search for email addresses and phone numbers from public sources
 - **Total content cap: ~5 pieces per person** (mix of video + podcast, prioritize recent)
 
+**Error handling:** If a source is unavailable (video removed, API rate limit, 990 not filed, LinkedIn profile not found), skip it and note the gap in the enriched output. Do not retry or block on failures — document what was attempted and move on. The goal is best-effort enrichment, not perfection.
+
 **Temp file handling:** All downloaded audio/video goes to `/tmp/grant-enrichment-{timestamp}/`. Clean up after transcription.
 
 **Output:** `02-KEY-PEOPLE-ENRICHED.md` — significantly expanded version of the original key-people doc. For each person:
@@ -112,7 +122,9 @@ The original `02-KEY-PEOPLE` stays untouched for reference.
 
 #### Step 2: Outreach Drafts
 
-For each person identified as a quality cold outreach target:
+A person is a **quality cold outreach target** if they have: (a) a found contact method (email, LinkedIn, or phone), AND (b) a role that suggests influence over grantmaking decisions (board member, program officer, executive director, trustee). Administrative contacts (e.g., info@ addresses) get outreach drafts too, but at lower priority. People with no found contact method are documented in the enriched key-people file but do not get outreach drafts.
+
+For each quality cold outreach target:
 
 **`00-COLD-OUTREACH-DRAFTS/OUTREACH-PLAN.md`:**
 - Summary table: who on the Waha team reaches out to whom, via what channel, with what message hook, and why this team member is the right match
@@ -137,25 +149,27 @@ Sequential sub-steps:
 - If found: use it as the anchor for all subsequent links
 - If not found: confirm with the user, then create with fields: `project_name`, `type` (Localization/Mobilization/New Product), `status_funding` = "Pursuing Donors", `status` (delivery stage)
 
-**3b. Create Funding Proposal**
-- Create a `funding_applications` record with:
-  - `project_name`: proposal name (e.g., "Veit Foundation — Amharic DBS")
-  - `status`: "Drafting Initial Inquiry" (or appropriate stage)
-  - `type`: "Grant Application" / "Letter of Intent" / "Informal Proposal" (based on application type from `04-APPLICATION-REQUIREMENTS`)
-  - `funding_requested`: ask amount (USD)
-  - `projects_this_proposal_is_funding`: link to the Project record
-  - `loi_due`: LOI deadline (if applicable)
-  - `formal_proposal_due_date`: full proposal deadline (if applicable)
-  - `receiving_proposal`: link to the Organization (foundation) record
-  - `url_of_proposal`: link to the Google Drive folder (if available)
-
-**3c. Ensure Organization Exists**
+**3b. Ensure Organization Exists**
 - Search Attio `companies` for the foundation by name and/or domain
 - If not found: create with all available data (name, domain, description, location, LinkedIn, categories)
 - If found: enrich any empty fields with new data
 - Add to the "Prospective Funding Organizations" list (`c60e5e8e-5e81-4cb2-ab7c-796039b53043`) if not already there, with fields:
   - `status`: "Good Fit" or "Project(s) Identified"
   - Alignment Score, Recommendation, Faith-Based Willingness, Funder Type, Primary Contact, Application Deadline, etc. from the dossier research
+
+**3c. Create Funding Proposal**
+- Create a `funding_applications` record with:
+  - `project_name`: proposal name (e.g., "Veit Foundation — Amharic DBS")
+  - `status`: "Drafting Initial Inquiry" (or appropriate stage)
+  - `type`: "Grant Application" / "Letter of Intent" / "Informal Proposal" (based on application type from `04-APPLICATION-REQUIREMENTS`)
+  - `funding_requested`: ask amount (USD)
+  - `projects_this_proposal_is_funding`: link to the Project record (record-reference)
+  - `loi_due`: LOI deadline (if applicable)
+  - `formal_proposal_due_date`: full proposal deadline (if applicable)
+  - `receiving_proposal`: link to the Organization record (record-reference to `companies` — this field name is a legacy slug; it means "the organization receiving this proposal")
+  - `url_of_proposal`: link to the Google Drive folder (if available)
+- Link Project back to this Funding Proposal via `funding_application` field
+- Create a note on the Funding Proposal summarizing the enrichment findings and key insights
 
 **3d. Ensure People Exist**
 - For each key person from `02-KEY-PEOPLE-ENRICHED.md`:
@@ -164,14 +178,7 @@ Sequential sub-steps:
   - If found: enrich any empty fields
   - Link person to the Organization via the `company` field
 
-**3e. Link Everything**
-- Funding Proposal → Project (via `projects_this_proposal_is_funding`)
-- Funding Proposal → Organization (via `receiving_proposal`)
-- People → Organization (via `company`)
-- Project → Funding Proposal (via `funding_application`)
-- Create a note on the Funding Proposal summarizing the enrichment findings and key insights
-
-**3f. Add Outreach Contacts to Cold Outreach List**
+**3e. Add Outreach Contacts to Cold Outreach List**
 - For each person identified as a cold outreach target in Step 2:
 - Add to the "GRANTS: Cold Outreach" list (`8c459b90-5574-453f-bdf0-0067434e83c9`) with:
 
@@ -186,7 +193,7 @@ Sequential sub-steps:
 | LOI Due Date | `date_of_publication` | LOI deadline from application requirements |
 | Link to foundation site | `link_to_published_piece` | Foundation website URL |
 
-**3g. Update Outreach Draft Files**
+**3f. Update Outreach Draft Files**
 - Go back to each file in `00-COLD-OUTREACH-DRAFTS/` and add the Attio record link for the person
 
 ### Workspace Member Reference
@@ -209,11 +216,14 @@ Sequential sub-steps:
 - Update Funding Proposal status to "Submitted Initial Inquiry" or "Submitted Full Proposal" with submission date
 
 **Step 2: Read Communications**
-- Check for any responses, confirmations, or follow-up requests related to the submission
-- Log them as notes on the Funding Proposal record in Attio
+- Check for responses, confirmations, or follow-up requests via: Gmail (MCP tool), Attio email/interaction records, and any notes logged on the Funding Proposal or Organization records
+- Log findings as notes on the Funding Proposal record in Attio
 
-**Step 3: Local Submission Log**
-- Create/update `08-SUBMISSION-LOG.md` in the foundation folder: submission date, method, confirmation received, reference numbers, follow-up dates
+**Step 3: Update CONTEXT/PROSPECTIVE_PARTNERS.md**
+- Update each foundation's status to reflect submission (e.g., "Submitted LOI 2026-03-16")
+
+**Step 4: Local Submission Log**
+- Create/update `SUBMISSION-LOG.md` in the foundation folder: submission date, method, confirmation received, reference numbers, follow-up dates
 
 The Funding Proposal record being complete and accurate is the primary deliverable. The local file is secondary.
 
@@ -253,6 +263,8 @@ Not scripts — reference material so the agent knows what's available and how t
 | Prospective Funding Orgs | `c60e5e8e-5e81-4cb2-ab7c-796039b53043` | Companies |
 
 ### Cold Outreach List — Field Slugs & Enums
+
+> **Note:** Some slugs are repurposed from the list's original template. `date_of_publication` = LOI Due Date, `link_to_published_piece` = Link to foundation site. The display names in Attio are correct; the API slugs just have legacy names.
 
 | Field | api_slug | Type | Options |
 |---|---|---|---|
