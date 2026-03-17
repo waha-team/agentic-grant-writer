@@ -22,6 +22,7 @@
 | Create | `06-to-be-submitted/INSTRUCTIONS.md` | New stage: enrichment → outreach → CRM sync |
 | Create | `06-to-be-submitted/TOOLS_AND_APIS.md` | Reference doc for yt-dlp, Groq, ProPublica, Attio |
 | Modify | `07-submitted/INSTRUCTIONS.md` | Reworked as active verification stage |
+| Modify | `INIT.md` | Update directory tree to reflect new stage numbering |
 
 ---
 
@@ -301,6 +302,7 @@ Search Attio `projects` object for the project name (parsed from the `--{project
   - `project_name`: the project name
   - `type`: "Localization" / "Mobilization Initiative" / "New Product or Feature"
   - `status_funding`: "Pursuing Donors"
+  - `status`: "Active" (delivery stage)
 
 ### 3b. Ensure Organization Exists
 
@@ -313,7 +315,7 @@ Then add to the **Prospective Funding Organizations** list (`c60e5e8e-5e81-4cb2-
 
 | Field | api_slug | Source |
 |-------|----------|--------|
-| Status | `status` | "Project(s) Identified" |
+| Status | `status` | "Project(s) Identified" (use "Good Fit" if the foundation is being researched for general alignment but no specific funding proposal has been created yet) |
 | Point(s) of contact | `point_s_of_contact` | Link to key contact person record (created in 3d) |
 | Partnership alignment | `project_angle` | From `03-VOCABULARY-AND-FRAMING` alignment analysis |
 | Alignment Score | `alignment_score` | From `00-BRIEFING` fit analysis (0-12) |
@@ -338,6 +340,7 @@ Create a `funding_applications` record:
 | LOI Due Date | `loi_due` | From `04-APPLICATION-REQUIREMENTS` (if applicable) |
 | Formal Proposal Due | `formal_proposal_due_date` | From `04-APPLICATION-REQUIREMENTS` (if applicable) |
 | Receiving Organization | `receiving_proposal` | Record reference to the Organization from 3b. (Note: this slug is a legacy name — it means "the organization receiving this proposal") |
+| Proposal URL | `url_of_proposal` | Link to the Google Drive folder containing the proposal documents (if available) |
 
 Then link the Project back to this Funding Proposal by updating the Project's `funding_application` field to include this record.
 
@@ -539,6 +542,13 @@ GET /filings/FILING_ID.json
 - `create-note` — add notes to records
 - `list-records-in-list` — check if a record is already on a list
 
+### Attio Record URLs
+
+When linking back to Attio records in outreach drafts, use this format:
+- People: `https://app.attio.com/waha-app/people/{record_id}`
+- Companies: `https://app.attio.com/waha-app/companies/{record_id}`
+- Funding Applications: `https://app.attio.com/waha-app/funding_applications/{record_id}`
+
 ### Key Object IDs
 
 | Object | Slug | ID |
@@ -721,6 +731,7 @@ Create or update `SUBMISSION-LOG.md` in the foundation folder:
 ## If Awarded
 - [ ] Send thank-you letter within 1 week
 - [ ] Note reporting requirements and deadlines
+- [ ] Update CONTEXT/PAST_GRANTS.md with award details
 - [ ] Update CONTEXT/PROSPECTIVE_PARTNERS.md with award status
 - [ ] Plan for renewal/growth: next ask of $[X] in [timeframe]
 
@@ -756,7 +767,8 @@ Every quarter, review all foundations in `07-submitted/`:
 1. Which applications are still pending? Follow up.
 2. Which were awarded? Ensure reporting is on track.
 3. Which were declined? Capture lessons.
-4. Update `CONTEXT/PROSPECTIVE_PARTNERS.md` with final outcomes for each foundation.
+4. Update `CONTEXT/PAST_GRANTS.md` with all outcomes.
+5. Update `CONTEXT/PROSPECTIVE_PARTNERS.md` with final outcomes for each foundation.
 ```
 
 - [ ] **Step 2: Read the file back to verify**
@@ -796,7 +808,7 @@ All should exist. The amharic-dbs folder should be in `07-submitted/`.
 - [ ] **Step 2: Verify no stale references remain**
 
 ```bash
-grep -r "06-submitted" --include="*.md" 01-prospect-research/ 02-deep-research/ 03-application-prep/ 04-proposal-drafts/ 05-review/ 06-to-be-submitted/ 07-submitted/INSTRUCTIONS.md
+grep -r "06-submitted" --include="*.md" INIT.md 01-prospect-research/ 02-deep-research/ 03-application-prep/ 04-proposal-drafts/ 05-review/ 06-to-be-submitted/ 07-submitted/INSTRUCTIONS.md
 ```
 
 Expected: no results (all references should now say `06-to-be-submitted` or `07-submitted`). The `07-submitted/amharic-dbs-veit-foundation/` internal docs are exempt — they are historical.
