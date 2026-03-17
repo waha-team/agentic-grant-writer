@@ -1,7 +1,7 @@
 # Pipeline Enhancement: Stage 06 To-Be-Submitted, Review Summary, and CRM Integration
 
 **Date:** 2026-03-16
-**Status:** Draft
+**Status:** Final
 **Context:** Josh <> Vince 1:1 meeting (2026-03-16) — decision to add social outreach, deeper key-people research, and CRM sync to the grant pipeline before submission.
 
 ---
@@ -32,7 +32,7 @@ Three changes:
 | `06-submitted/` | `07-submitted/` |
 | *(new)* | `06-to-be-submitted/` |
 
-All INSTRUCTIONS.md files across stages 01-05 that reference "Stage 06" or `06-submitted` get updated to reflect the new numbering. The existing `06-submitted/amharic-dbs-veit-foundation/` moves to `07-submitted/`.
+All INSTRUCTIONS.md files across stages 01-05 that reference "Stage 06" or `06-submitted` get updated to reflect the new numbering. The existing `06-submitted/amharic-dbs-veit-foundation/` moves to `07-submitted/`. Internal documents in that folder are left as-is — they are historical records of a completed submission and do not need stage number updates.
 
 ---
 
@@ -104,7 +104,7 @@ For each key person identified in the existing `02-KEY-PEOPLE` document:
 - Cross-reference name across other foundations' 990s via ProPublica to find board overlaps and network connections
 - Search for LinkedIn profile URL, Twitter/X, other social profiles
 - Search for email addresses and phone numbers from public sources
-- **Total content cap: ~5 pieces per person** (mix of video + podcast, prioritize recent)
+- **Total content cap: up to 5 multimedia sources per person** (no more than 3 videos, no more than 2 podcasts; prioritize recent)
 
 **Error handling:** If a source is unavailable (video removed, API rate limit, 990 not filed, LinkedIn profile not found), skip it and note the gap in the enriched output. Do not retry or block on failures — document what was attempted and move on. The goal is best-effort enrichment, not perfection.
 
@@ -122,7 +122,7 @@ The original `02-KEY-PEOPLE` stays untouched for reference.
 
 #### Step 2: Outreach Drafts
 
-A person is a **quality cold outreach target** if they have: (a) a found contact method (email, LinkedIn, or phone), AND (b) a role that suggests influence over grantmaking decisions (board member, program officer, executive director, trustee). Administrative contacts (e.g., info@ addresses) get outreach drafts too, but at lower priority. People with no found contact method are documented in the enriched key-people file but do not get outreach drafts.
+A person is a **quality cold outreach target** if they have: (a) a found contact method (email, LinkedIn, or phone), AND (b) a role that suggests influence over grantmaking decisions (board member, program officer, executive director, trustee). Administrative contacts (e.g., info@ addresses) get outreach drafts too, but at lower priority. People with no found contact method are documented in the enriched key-people file but do not get outreach drafts. If a foundation has zero quality outreach targets, skip the `00-COLD-OUTREACH-DRAFTS/` folder entirely and note the gap in `02-KEY-PEOPLE-ENRICHED.md`.
 
 For each quality cold outreach target:
 
@@ -132,7 +132,7 @@ For each quality cold outreach target:
 
 **Individual draft files** named `{recommended-team-member}--{person-name}--{channel}.md`:
 - **Intro section:** Who this person is, why they matter for this foundation/grant, why this specific team member should reach out, what connection or hook to leverage
-- **Draft message:** The actual cold outreach message (LinkedIn message, email, etc.) written in the appropriate voice and length for the channel
+- **Draft message:** The actual cold outreach message (LinkedIn message, email, etc.) written in a warm, direct, ministry-peer-to-peer tone — not corporate. Refer to `CONTEXT/STYLE_GUIDE.md` for Waha's voice. LinkedIn messages should be 2-4 sentences; emails can be 1-2 short paragraphs.
 - **Attio link:** Link back to the person's Attio record (added after Step 3 creates the record)
 
 The agent recommends the team member (josh/vince/jeff) based on:
@@ -147,7 +147,7 @@ Sequential sub-steps:
 **3a. Find/Confirm Project**
 - Search Attio `projects` object for the project name (parsed from the `--{project-name}` in the folder name)
 - If found: use it as the anchor for all subsequent links
-- If not found: confirm with the user, then create with fields: `project_name`, `type` (Localization/Mobilization/New Product), `status_funding` = "Pursuing Donors", `status` (delivery stage)
+- If not found: pause and confirm with the user before creating (the project should almost always already exist in Attio — a missing project likely means a naming mismatch, not a missing record). If confirmed to create: `project_name`, `type` (Localization/Mobilization/New Product), `status_funding` = "Pursuing Donors", `status` (delivery stage)
 
 **3b. Ensure Organization Exists**
 - Search Attio `companies` for the foundation by name and/or domain
@@ -169,7 +169,6 @@ Sequential sub-steps:
   - `receiving_proposal`: link to the Organization record (record-reference to `companies` — this field name is a legacy slug; it means "the organization receiving this proposal")
   - `url_of_proposal`: link to the Google Drive folder (if available)
 - Link Project back to this Funding Proposal via `funding_application` field
-- Create a note on the Funding Proposal summarizing the enrichment findings and key insights
 
 **3d. Ensure People Exist**
 - For each key person from `02-KEY-PEOPLE-ENRICHED.md`:
@@ -178,7 +177,10 @@ Sequential sub-steps:
   - If found: enrich any empty fields
   - Link person to the Organization via the `company` field
 
-**3e. Add Outreach Contacts to Cold Outreach List**
+**3e. Create Summary Note**
+- Create a note on the Funding Proposal summarizing the enrichment findings, key insights, and linking to the People and Organization records created above
+
+**3f. Add Outreach Contacts to Cold Outreach List**
 - For each person identified as a cold outreach target in Step 2:
 - Add to the "GRANTS: Cold Outreach" list (`8c459b90-5574-453f-bdf0-0067434e83c9`) with:
 
@@ -193,7 +195,7 @@ Sequential sub-steps:
 | LOI Due Date | `date_of_publication` | LOI deadline from application requirements |
 | Link to foundation site | `link_to_published_piece` | Foundation website URL |
 
-**3f. Update Outreach Draft Files**
+**3g. Update Outreach Draft Files**
 - Go back to each file in `00-COLD-OUTREACH-DRAFTS/` and add the Attio record link for the person
 
 ### Workspace Member Reference
@@ -216,7 +218,7 @@ Sequential sub-steps:
 - Update Funding Proposal status to "Submitted Initial Inquiry" or "Submitted Full Proposal" with submission date
 
 **Step 2: Read Communications**
-- Check for responses, confirmations, or follow-up requests via: Gmail (MCP tool), Attio email/interaction records, and any notes logged on the Funding Proposal or Organization records
+- Check for responses, confirmations, or follow-up requests since the submission date via: Gmail (MCP tool), Attio email/interaction records, and any notes logged on the Funding Proposal or Organization records
 - Log findings as notes on the Funding Proposal record in Attio
 
 **Step 3: Update CONTEXT/PROSPECTIVE_PARTNERS.md**
@@ -261,6 +263,23 @@ Not scripts — reference material so the agent knows what's available and how t
 |---|---|---|
 | GRANTS: Cold Outreach | `8c459b90-5574-453f-bdf0-0067434e83c9` | People |
 | Prospective Funding Orgs | `c60e5e8e-5e81-4cb2-ab7c-796039b53043` | Companies |
+
+### Prospective Funding Orgs List — Field Slugs & Enums
+
+| Field | api_slug | Type | Writable | Notes |
+|---|---|---|---|---|
+| Status | `status` | status | Yes | Researching Opportunities, Good Fit, Brainstorming Projects, Project(s) Identified, Partnered |
+| Point(s) of contact | `point_s_of_contact` | record-reference (multi) | Yes | Links to `people` |
+| Where is there partnership alignment? | `project_angle` | text | Yes | |
+| Alignment Score | `alignment_score` | number | Yes | 0-12 from alignment framework |
+| Recommendation | `recommendation` | select | Yes | (options created on write) |
+| Faith-Based Willingness | `faith_based_willingness` | select | Yes | Section B pass/fail gate |
+| Funder Type | `funder_type` | select | Yes | Category per search criteria |
+| Primary Contact | `primary_contact` | text | Yes | Name and title |
+| Application Deadline | `application_deadline` | date | Yes | Next LOI/application deadline |
+| Red Flags | `red_flags` | text | Yes | Disqualifying issues |
+| Outreach Email Draft | `outreach_email_draft` | text | Yes | Cold outreach email |
+| Suggested First Ask | `suggested_first_ask` | number | Yes | Based on 990 data |
 
 ### Cold Outreach List — Field Slugs & Enums
 
