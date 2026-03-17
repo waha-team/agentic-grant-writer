@@ -93,9 +93,15 @@ Then create `REVIEW_SUMMARY.md` in the project folder:
 # Review Summary: [Project Name]
 
 ## Submission Queue (prioritized by deadline)
-| Foundation | Ask | Deadline | Status | Submitter |
-|-----------|-----|----------|--------|-----------|
-| [Name] | $X | [Date] | Ready | [Assign] |
+| Foundation | Ask | Deadline | Key Contact | Website | Alignment | Grant Cycle | Status | Submitter | Notes |
+|---|---|---|---|---|---|---|---|---|---|
+| [Name] | $X | [Date] | [Name (Role) · contact] | [URL] | [One-line fit summary] | [Rolling/Annual/etc.] | [Ready] | [Assign] | [⚠️ Once/year if applicable] |
+
+### Column Guide
+- **Key Contact:** Primary contact with best available contact method (email > phone > LinkedIn > other). Format: `Name (Role) · email@example.com`
+- **Website:** Foundation URL
+- **Alignment:** One-line summary of WHY the fit works (not what the foundation is)
+- **Grant Cycle:** Rolling vs. deadline, frequency. Prefix with `⚠️ Once/year` if rejection means waiting 12 months.
 
 ## Before Submitting
 1. Read `07-REVIEW-NOTES - [Foundation Name] - [Project Name].md` for each foundation
@@ -112,4 +118,9 @@ Update `CONTEXT/PROSPECTIVE_PARTNERS.md`:
 1. Update each foundation's status to reflect review findings
 2. Note any issues that need to be resolved before submission
 
-Move project to `06-submitted/` ONLY after human reviews are complete and submissions begin.
+Move approved foundations to `06-to-be-submitted/` after Vince reviews and approves. See `06-to-be-submitted/INSTRUCTIONS.md` for the enrichment and CRM sync workflow that happens before submission.
+
+**Moving foundations to Stage 06:**
+- Only foundations with numbered prefixes (`01-`, `02-`, etc.) are eligible
+- Strip the numeric prefix when moving: `05-review/{project}/{03-foundation}/` → `06-to-be-submitted/{foundation}--{project}/`
+- Foundations with status prefixes (`H-`, `R-`, `IO-`, `S-`, `NA-`) stay in Stage 05 until their blocker is resolved
