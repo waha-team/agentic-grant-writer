@@ -30,7 +30,8 @@ grant_writing/
 ├── 03-application-prep/            # Gather requirements, checklists
 ├── 04-proposal-drafts/             # Write tailored proposals
 ├── 05-review/                      # Self-critique and submission prep
-└── 06-submitted/                   # Track outcomes, follow up, learn
+├── 06-to-be-submitted/             # Deep enrichment, outreach drafts, CRM sync
+└── 07-submitted/                   # Track outcomes, verify CRM, follow up
 ```
 
 ## Per-Foundation Dossier Structure (created in Stage 02)
