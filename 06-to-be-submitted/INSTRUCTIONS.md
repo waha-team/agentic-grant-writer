@@ -107,7 +107,7 @@ Each file contains:
 
 [The actual message to send. Written in a warm, direct, ministry-peer-to-peer tone — not corporate. Reference CONTEXT/STYLE_GUIDE.md for voice.
 
-LinkedIn messages: 2-4 sentences.
+LinkedIn connection requests: **200 characters max** (hard limit for free LinkedIn accounts). Write one punchy sentence — who you are, the shared connection or hook, and a reason to connect. No ask, no pitch. Example: "Hi [Name], I'm Vince with Waha — we work alongside [shared org] in [area]. Would love to connect."
 Emails: 1-2 short paragraphs.]
 ```
 
@@ -215,6 +215,8 @@ For each person identified as a cold outreach target in Step 2, add to the **GRA
 | Notes | `notes` | Brief context: why this person, what hook to use, which outreach draft file to reference |
 | LOI Due Date | `date_of_publication` | LOI deadline from `04-APPLICATION-REQUIREMENTS` |
 | Link to foundation site | `link_to_published_piece` | Foundation website URL |
+| Draft Location | `draft_location` | Google Drive link to the individual outreach draft file (e.g., `vince--reid-karr--email.md`). Use `gws drive files list` to search for the file by name within the foundation's `00-COLD-OUTREACH-DRAFTS/` folder and get the `webViewLink`. |
+| Topic of outreach | `topic_of_outreach` | 1-2 sentence summary of WHY we are reaching out to this person: the target project(s) and ask amount, the specific connection or hook that makes this foundation applicable (e.g., prior grantee overlap, board member's missions background, geographic alignment), and any key deadlines. This field is for at-a-glance context so the caller understands the pitch without opening the full draft. |
 
 ### 3g. Update Outreach Draft Files
 
@@ -244,3 +246,18 @@ After completing all three steps for a foundation:
 - Summary note on the Funding Proposal in Attio
 
 The foundation is now ready for human review and submission. Alycia monitors the Cold Outreach list daily, reviews outreach drafts, and assigns them to the recommended team members.
+
+---
+
+## CRITICAL: Contact Verification Before Outreach
+
+**"Cited" does not mean "verified."** Before any outreach message is sent, the contact method must be confirmed as currently working:
+
+1. **Email addresses:** Check the foundation's current website for the email. If the email only appears in a third-party aggregator (Grantsmanship Center, Cause IQ, etc.) but NOT on the foundation's own site, mark it `(aggregator-sourced — verify before sending)`.
+2. **Phone numbers:** Same rule. Aggregators often package 990 data that may be years old — a trust company may have changed numbers, an administrator may have retired.
+3. **LinkedIn profiles:** Confirm the profile is active (has recent activity or current role listed). Stale profiles suggest the person may have moved on.
+4. **Physical addresses:** Cross-check against the foundation's most recent 990 filing on ProPublica.
+
+**If a contact method cannot be independently verified from the foundation's own current web presence, flag it in the outreach draft:** `⚠️ UNVERIFIED: This [email/phone/address] is sourced from [aggregator name], not the foundation's own website. Confirm before sending.`
+
+**Never fabricate contact information.** If you cannot find a working contact method, say so explicitly and suggest how the human team can find it. An honest "contact not found" is infinitely better than a fabricated or stale contact that wastes everyone's time.
