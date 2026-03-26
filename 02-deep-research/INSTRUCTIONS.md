@@ -280,6 +280,19 @@ Example: "Dear [Name], [Name], and the [Foundation] team,"
 2. [Value 2] → [How Waha demonstrates this.]
 3. [Value 3] → [How Waha demonstrates this.]
 
+## Foundation Culture & Tone
+
+Assess the foundation's cultural vibe to calibrate cover letter formality. Look at these signals:
+
+- **Submission method:** Snail mail only? Online portal? Email? Print signals traditional; online signals modern.
+- **Website presence:** No website or bare-bones site = old school. Slick, modern site = more accessible.
+- **Language style:** Do they use formal, traditional language on their website/guidelines, or warm, contemporary language?
+- **Organizational history:** Founded 50+ years ago by a family? Likely traditional. Recently established? Possibly more informal.
+- **Board composition:** Older, long-tenured board? Formal. Younger, diverse board? More flexible.
+
+**Assessment:** [Traditional/Formal | Modern/Accessible | Mixed]
+**What this means for the cover letter:** [e.g., "Old-school foundation, no website, print-only. Think church pews. Use measured, respectful, unhurried language. Avoid tech-forward framing." OR "Modern foundation with active web presence and online portal. Can be slightly warmer and more accessible while maintaining professionalism."]
+
 ## Framing Recommendations
 - **Lead with:** [What aspect of Waha to emphasize for this funder]
 - **Avoid:** [What language or framing to avoid with this funder]
@@ -375,3 +388,18 @@ To access the CRM, use the Agentic Skill available to you in the `[grants root]/
 - Vocabulary mapping must use the foundation's exact words, not paraphrases
 - Key people must have been actually researched (LinkedIn, Google), not fabricated
 - Recommended ask amounts must be justified by 990 data
+
+---
+
+## ZERO TOLERANCE: No Fabrication of Contact Information
+
+**NEVER invent, guess, or "fill in" contact details (names, emails, phone numbers, addresses) that you cannot trace to a specific, cited source.** This is the single most important integrity rule in this pipeline. A fabricated phone number or email that reaches a real person wastes their time and destroys Waha's credibility.
+
+**Rules:**
+1. Every person's name in `02-KEY-PEOPLE` must come from a 990 filing, foundation website, LinkedIn, or other citable source. No exceptions.
+2. Every email address must come from a foundation website, public directory, or other verifiable source. Never construct emails by guessing patterns (e.g., "firstname@foundationname.org").
+3. Every phone number must come from a specific cited source.
+4. If you cannot find contact information, write: `**Contact: Not found in public sources.** Action needed: [suggest how to find it — e.g., "Download 990-PF from ProPublica," "Check foundation website," "Call general number"]`
+5. **"Cited" does not mean "verified."** Third-party databases (The Grantsmanship Center, Cause IQ, RocketReach, etc.) aggregate data that may be years out of date. When citing contact info from aggregator sources, mark it: `(cited from [Source] — not independently verified; confirm before outreach)`
+
+**If you are unsure whether contact info is real: leave it out and flag it for human research.** An honest gap is always better than a confident fabrication.
