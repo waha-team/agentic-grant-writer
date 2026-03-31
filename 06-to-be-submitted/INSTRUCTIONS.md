@@ -9,9 +9,10 @@
 1. Read `TOOLS_AND_APIS.md` in this directory for API reference
 2. Read the foundation's full dossier (all numbered files carried forward from Stage 05)
 3. Read `CONTEXT/STYLE_GUIDE.md` for Waha's voice and tone
-4. Read `CONTEXT/PARTNERSHIPS.md` for Waha's network (needed for finding connection points)
-5. Read `CONTEXT/OUR_ORGANIZATION.md` for team bios (needed for matching outreach to team members)
-6. Confirm you have access to: `$GROQ_API_KEY`, `$ATTIO_ACCESS_TOKEN` (from `.env`)
+4. Read `CONTEXT/LETTERHEAD.md` for cover letter formatting on Waha letterhead
+5. Read `CONTEXT/PARTNERSHIPS.md` for Waha's network (needed for finding connection points)
+6. Read `CONTEXT/OUR_ORGANIZATION.md` for team bios (needed for matching outreach to team members)
+7. Confirm you have access to: `$GROQ_API_KEY`, `$ATTIO_ACCESS_TOKEN` (from `.env`)
 
 ## Folder Naming
 
@@ -226,6 +227,49 @@ Go back to each file in `00-COLD-OUTREACH-DRAFTS/` and fill in:
 
 ---
 
+## Step 4: Cover Letter on Letterhead
+
+Every cover letter must be produced as a `.docx` file on Waha's official letterhead before submission. This step converts the existing `06-COVER-LETTER` markdown into a submission-ready Word document.
+
+### When to Apply Letterhead
+
+Check the foundation's `04-APPLICATION-REQUIREMENTS`:
+- **Mail, online portal with attachments, or unspecified** → Full letterhead (this step)
+- **Email submission** → Skip letterhead. The email letter stays as `.md` (pasted into email body). See the "Email Letter" column in `CONTEXT/LETTERHEAD.md` for formatting differences.
+
+### How to Generate the Letterhead `.docx`
+
+The letterhead uses floating positioned elements (logo, address text box) that must come from Alycia's template. **Do not generate from scratch** — use the template-based approach:
+
+1. **Read the spec:** `CONTEXT/LETTERHEAD.md` for the full format reference.
+2. **Read the cover letter:** Source content is `06-COVER-LETTER - [Foundation Name] - [Project Name].md` in the foundation folder.
+3. **Read the application requirements:** `04-APPLICATION-REQUIREMENTS` for the recipient address, contact name, and submission method.
+
+4. **Copy the template:** Start from `alycias-edits-temp/Cover Letter - KIF.docx` (the canonical letterhead source).
+
+5. **Replace body content** via the `docx` skill's edit workflow (unpack → edit XML → repack):
+   - **P1:** Replace `[Date]` with the actual date (e.g., "March 31, 2026")
+   - **P2-P5:** Replace recipient address lines (name, org, street, city/state)
+   - **P6:** Replace salutation text. Remove bold formatting if not wanted.
+   - **P7-P13:** Replace body paragraphs. Create new `<w:p>` elements with Lora font, justified alignment (`w:jc val="both"`), `w:after="160"`, `w:line="264"`, `w:lineRule="auto"`. See `CONTEXT/letterhead-build-example.py` for the `make_body_para()` function.
+   - **P14:** Replace closing phrase ("With gratitude," / "Respectfully," / "In Christ,")
+   - **P15-P18:** Update sign-off block if the signer differs from Vince Kanagaraj
+   - **Strip comments:** Remove all `<w:commentRangeStart>`, `<w:commentRangeEnd>`, and `<w:commentReference>` elements. Empty `word/comments.xml`.
+
+6. **Output file:** Save as `06-COVER-LETTER - [Foundation Name] - [Project Name].docx` in the foundation folder (same name as the `.md`, with `.docx` extension — NOT `.md.docx`).
+
+7. **One-page check:** The letter should fit on one page. If it overflows, tighten the prose first. If still overflows, reduce body `w:line` from 264 to 240 and `w:after` from 160 to 120. Note: LibreOffice renders wider than Word/Google Docs — verify in the target application.
+
+### Sign-Off Calibration
+
+The closing phrase depends on the foundation's character (from `03-VOCABULARY-AND-FRAMING`):
+- **Explicitly Christian foundations** → "In Christ,"
+- **Secular or mixed foundations** → "With gratitude," or "Respectfully,"
+
+The signer is always Vince Kanagaraj, Partnerships Director, unless the outreach plan assigns a different team member.
+
+---
+
 ## Workspace Member Reference
 
 | Name | Email | UUID |
@@ -239,11 +283,12 @@ Go back to each file in `00-COLD-OUTREACH-DRAFTS/` and fill in:
 
 ## Done Criteria
 
-After completing all three steps for a foundation:
+After completing all four steps for a foundation:
 - `02-KEY-PEOPLE-ENRICHED.md` exists with deep profiles, contact info, board overlaps, and content summaries
 - `00-COLD-OUTREACH-DRAFTS/` exists (unless zero outreach targets) with OUTREACH-PLAN.md and individual draft files with Attio links
 - Attio has: Project (found/confirmed), Organization (created/enriched + on Prospective Funding Orgs list), Funding Proposal (created + linked to Project and Organization), People (created/enriched + linked to Organization), outreach contacts on Cold Outreach list
 - Summary note on the Funding Proposal in Attio
+- `06-COVER-LETTER - [Foundation Name] - [Project Name].docx` exists on Waha letterhead (unless the submission method is email)
 
 The foundation is now ready for human review and submission. Alycia monitors the Cold Outreach list daily, reviews outreach drafts, and assigns them to the recommended team members.
 
